@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mheob/mheob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love developing.
 
-Here are some ideas to get you started:
+I am a Full-Stack Developer who specializes a bit in [TypeScript](https://github.com/microsoft/TypeScript), in conjunction with [Nuxt](https://github.com/nuxt/nuxt.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer with [@its-bohm](https://github.com/its-boehm) and work employed at [@100herz](https://github.com/100herz).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to follow or contact me on social media.
+
+## Stay in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=for-the-badge&color=333&logo=github)](https://github.com/mheob)
+[![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=for-the-badge&color=1da1f2&logo=twitter)](https://twitter.com/mheob_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&color=0077b5&logo=linkedin)](https://www.linkedin.com/in/itsb)
+
+## Help to support the projects
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsors--_.svg?style=for-the-badge&color=333&logo=github)](https://github.com/sponsors/mheob)
+[![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6AM3N8GGMTQS&source=url)

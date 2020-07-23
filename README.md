@@ -15,4 +15,4 @@ Feel free to follow or contact me on social media.
 ## Help to support the projects
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsors--_.svg?style=for-the-badge&color=333&logo=github)](https://github.com/sponsors/mheob)
-[![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6AM3N8GGMTQS&source=url)
+[![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.me/mheob)

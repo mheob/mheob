@@ -2,7 +2,7 @@
 
 I love developing.
 
-I am a Full-Stack Developer who specializes a bit in [TypeScript](https://github.com/microsoft/TypeScript), in conjunction with [Nuxt](https://github.com/nuxt/nuxt.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer with [@its-bohm](https://github.com/its-boehm) and work employed at [@100herz](https://github.com/100herz).
+I am a Full-Stack Developer who specializes a bit in [TypeScript](https://github.com/microsoft/TypeScript), in conjunction with [Nuxt](https://github.com/nuxt/nuxt.js) and [Rect](https://github.com/reactjs). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer with [@its-bohm](https://github.com/its-boehm) and work employed at [@100herz](https://github.com/100herz).
 
 Feel free to follow or contact me on social media.
 

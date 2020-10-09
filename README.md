@@ -23,7 +23,6 @@ Feel free to follow or contact me on social media.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=flat-square&logo=tailwind%20css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white)
 ![Craft CMS](https://img.shields.io/badge/Craft%20CMS-e5422b?style=flat-square&logo=craft%20cms&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2c8ebb?style=flat-square&logo=yarn&logoColor=white)
 
 ## Stay in touch
 

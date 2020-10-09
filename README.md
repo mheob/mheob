@@ -12,11 +12,11 @@ Feel free to follow or contact me on social media.
 
 ## Stay in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=for-the-badge&color=333&logo=github)](https://github.com/mheob)
-[![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=for-the-badge&color=1da1f2&logo=twitter)](https://twitter.com/mheob_a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&color=0077b5&logo=linkedin)](https://www.linkedin.com/in/itsb)
+[![GitHub](https://img.shields.io/badge/GitHub-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
+[![Twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
 
 ## Help to support the projects
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsors--_.svg?style=for-the-badge&color=333&logo=github)](https://github.com/sponsors/mheob)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsors-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
 [![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.me/mheob)

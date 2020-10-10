@@ -33,4 +33,4 @@ Feel free to follow or contact me on social media.
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsors-333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
 [![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.me/mheob)
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ff813f.svg?style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white)](https://github.com/sponsors/mheob)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ff813f.svg?style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)

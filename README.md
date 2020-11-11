@@ -17,6 +17,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)

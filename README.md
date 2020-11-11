@@ -2,14 +2,16 @@
 
 Developing is fun.
 
-I am a Full-Stack Developer who specializes a bit in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) and [Next.js](https://github.com/vercel/next.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer with [@its-bohm](https://github.com/its-boehm) and a member of [@100herz](https://github.com/100herz).
+I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) and [Next.js](https://github.com/vercel/next.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer and a member of [@100herz](https://github.com/100herz).
+
+:link: . I enjoy collaborating with different developers.\
+:goal_net: . Goals: Contribute more to Open Source projects.\
+:soccer: . I play soccer, watch sports and relax.
 
 ![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&count_private=true&show_icons=true&theme=dark&hide=stars)
 ![mheob's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&count_private=true&langs_count=9&layout=compact&theme=dark&hide=c%23,java,inno%20setup)
 
-Feel free to follow or contact me on social media.
-
-## Things I code with
+## Technology Stack
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -25,12 +27,12 @@ Feel free to follow or contact me on social media.
 
 ## Stay in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
 
 ## Help to support the projects
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsors-333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
-[![PayPal donate button](https://img.shields.io/badge/Paypal-Donate-_.svg?style=for-the-badge&color=003087&logo=paypal)](https://www.paypal.me/mheob)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
+[![PayPal donate button](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ff813f.svg?style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)

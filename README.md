@@ -2,7 +2,7 @@
 
 Developing is fun.
 
-I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) and [Next.js](https://github.com/vercel/next.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer and a member of [@100herz](https://github.com/100herz).
+I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native)  and [Next.js](https://github.com/vercel/next.js). But I also know a lot about [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer and a member of [@100herz](https://github.com/100herz).
 
 :link: . I enjoy collaborating with different developers.\
 :goal_net: . Goals: Contribute more to Open Source projects.\

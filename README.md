@@ -1,3 +1,7 @@
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
+[![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
+
 # Hi there 👋
 
 Developing is fun.
@@ -8,10 +12,23 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 :goal_net: . Goals: Contribute more to Open Source projects.\
 :soccer: . I play soccer, watch sports and relax.
 
-![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&count_private=true&show_icons=true&theme=dark&hide=stars)
-![mheob's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&count_private=true&langs_count=9&layout=compact&theme=dark&hide=c%23,java,inno%20setup)
+## 📈 GitHub Stats
 
-## Technology Stack
+[![mheob's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=8&hide=c%23,css,html,java,inno%20setup&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob)
+[![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob)
+
+## 📌 Pinned Repositories
+
+[![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/include-fussball-de-widgets)
+[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/100herz/convention-app)
+
+[![hsv-cms](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/hsv-cms)
+[![hsv-frontend-web](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-frontend-web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/hsv-frontend-web)
+
+[![itsb-web](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=itsb-web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/itsb-web)
+[![contributor_covenant](https://github-readme-stats.vercel.app/api/pin/?username=ContributorCovenant&repo=contributor_covenant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ContributorCovenant/contributor_covenant)
+
+## 🧑🏽‍💻 Technology Stack
 
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,13 +41,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Craft CMS](https://img.shields.io/badge/Craft%20CMS-e5422b?style=for-the-badge&logo=craft%20cms&logoColor=white)
 
-## Stay in touch
-
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
-[![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
-
-## Help to support the projects
+## ☕️ Help to support the projects
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
 [![PayPal donate button](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mheob)

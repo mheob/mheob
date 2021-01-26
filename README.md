@@ -1,6 +1,6 @@
 [![Profile Banner](https://raw.githubusercontent.com/mheob/mheob/master/profile-header.jpg)](https://github.com/mheob)
 
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
+[![GitHub](https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
 
@@ -42,6 +42,9 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Craft CMS](https://img.shields.io/badge/Craft%20CMS-e5422b?style=for-the-badge&logo=craft%20cms&logoColor=white)
+
+More on \
+[![StackShare](https://img.shields.io/badge/StackShare-008ff9.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/mheob)
 
 ## ☕️ Help to support the projects
 

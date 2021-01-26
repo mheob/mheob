@@ -44,7 +44,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ![Craft CMS](https://img.shields.io/badge/Craft%20CMS-e5422b?style=for-the-badge&logo=craft%20cms&logoColor=white)
 
 More on \
-[![StackShare](https://img.shields.io/badge/StackShare-008ff9.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/mheob)
+[![StackShare](https://img.shields.io/badge/StackShare-008ff9.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/mheob/general)
 
 ## ☕️ Help to support the projects
 

@@ -17,7 +17,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ## 📈 GitHub Stats
 
 [![mheob's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=8&hide=c%23,css,html,java,inno%20setup&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob)
-[![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/mheob)
+[![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/mheob)
 
 ## 📌 Pinned Repositories
 

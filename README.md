@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0a0b23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/mheob)
 
 # Hi there 👋
 

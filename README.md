@@ -9,7 +9,7 @@
 
 Developing is fun.
 
-I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native) and [Next.js](https://github.com/vercel/next.js). But I also use [Craft CMS](https://github.com/craftcms/cms) and [WordPress](https://github.com/WordPress/WordPress). I am a freelancer and a member of [@100herz](https://github.com/100herz).
+I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native) and [Next.js](https://github.com/vercel/next.js). But I also use [WordPress](https://github.com/WordPress/WordPress).
 
 :link: . I enjoy collaborating with different developers.\
 :goal_net: . Goals: Contribute more to Open Source projects.\
@@ -38,13 +38,14 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2f2e8b?style=for-the-badge&logo=strapi&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+![GrapQL](https://img.shields.io/badge/GrapQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
-![Craft CMS](https://img.shields.io/badge/Craft%20CMS-e5422b?style=for-the-badge&logo=craft%20cms&logoColor=white)
 
-More on \
+More on\
 [![StackShare](https://img.shields.io/badge/StackShare-008ff9.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/mheob/general)
 
 ## ☕️ Help to support the projects

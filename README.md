@@ -13,7 +13,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 
 :link: . I enjoy collaborating with different developers.\
 :goal_net: . Goals: Contribute more to Open Source projects.\
-:soccer: . I play soccer, watch sports and relax.
+:soccer: . I play soccer, watch sports, go for walks and relax.
 
 ## 📈 GitHub Stats
 

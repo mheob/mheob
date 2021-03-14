@@ -33,16 +33,17 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 
 ## 🧑🏽‍💻 Technology Stack
 
-![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2f2e8b?style=for-the-badge&logo=strapi&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
+![Styled Components](https://img.shields.io/badge/Styled_Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![GrapQL](https://img.shields.io/badge/GrapQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 
 More on\

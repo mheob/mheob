@@ -9,7 +9,7 @@
 
 Developing is fun.
 
-I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native) and [Next.js](https://github.com/vercel/next.js). But I also use [WordPress](https://github.com/WordPress/WordPress).
+I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native) and [Next.js](https://github.com/vercel/next.js). But I also use [WordPress](https://github.com/WordPress/WordPress) and have knowledge in [Craft CMS](https://github.com/craftcms/cms).
 
 :link: . I enjoy collaborating with different developers.\
 :goal_net: . Goals: Contribute more to Open Source projects.\

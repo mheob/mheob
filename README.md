@@ -23,7 +23,7 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 ## 📌 Pinned Repositories
 
 [![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/include-fussball-de-widgets)
-[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/hsv-neuwiedtitle_color)
+[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/hsv-neuwied)
 
 [![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/100herz/convention-app)
 [![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/100herz/hdm)

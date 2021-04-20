@@ -17,16 +17,16 @@ I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.c
 
 ## 📈 GitHub Stats
 
-[![mheob's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=8&hide=c%23,css,html,java,inno%20setup,shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob)
-[![mheob's github stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/mheob)
+[![mheob's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=8&hide=c%23,css,html,java,inno%20setup,shell&theme=gotham)](https://github.com/mheob)
+[![mheob's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&theme=gotham)](https://github.com/mheob)
 
 ## 📌 Pinned Repositories
 
-[![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/include-fussball-de-widgets)
-[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/mheob/hsv-neuwied)
+[![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&theme=gotham)](https://github.com/mheob/include-fussball-de-widgets)
+[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&theme=gotham)](https://github.com/mheob/hsv-neuwied)
 
-[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/100herz/convention-app)
-[![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/100herz/hdm)
+[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&theme=gotham)](https://github.com/100herz/convention-app)
+[![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&theme=gotham)](https://github.com/100herz/hdm)
 
 ## 🧑🏽‍💻 Technology Stack
 

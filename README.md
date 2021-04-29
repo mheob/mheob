@@ -1,11 +1,4 @@
-[![Profile Banner](https://raw.githubusercontent.com/mheob/mheob/master/profile-header.jpg)](https://github.com/mheob)
-
-[![GitHub](https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
-[![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0a0b23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/mheob)
-
-# Hi there 👋 I'm mheob alias Alex
+# Hi there 👋 I'm _mheob_ alias _Alex_
 
 Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
 
@@ -74,6 +67,13 @@ const mheob: FullStackDeveloper = {
 
 More on\
 [![StackShare](https://img.shields.io/badge/StackShare-008ff9.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/mheob/general)
+
+## 💬 Get in touch
+
+[![GitHub](https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mheob)
+[![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mheob_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0a0b23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/mheob)
 
 ## ☕️ Help to support the projects
 

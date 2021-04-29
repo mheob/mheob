@@ -1,31 +1,30 @@
 # Hi there 👋 I'm _mheob_ alias _Alex_
 
-Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
+Frontend Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 ```ts
 let mheob: FullStackDeveloper = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "PHP"],
   askMeAbout: ["web dev", "tech", "soccer", "open source"],
+  code: ["Javascript", "Typescript", "PHP"],
   technologies: {
-    mobileApp: ["React Native"],
     frontEnd: {
       js: ["React", "Preact", "NextJS"],
-      css: ["Tailwind", "Bootstrap", "Styled-Components"]
+      css: ["Tailwind", "Bootstrap", "Styled-Components"],
     },
     backEnd: {
       cms: ["Strapi", "WordPress", "Craft CMS"],
       js: ["Node", "Express"],
       php: ["native oop"],
     },
-    devOps: ["AWS", "Docker 🐳", "Nginx"],
     databases: ["Mongo", "MySql", "SQLite"],
-    misc: ["GraphQL"]
+    misc: ["GraphQL"],
+    mobileApp: ["React Native"],
   },
   architecture: ["Serverless", "PWA", "SPA"],
-  currentFocus: ["React / Preact", "open source"]
+  currentFocus: ["React / Preact", "open source"],
 };
 ```
 

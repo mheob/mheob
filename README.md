@@ -5,7 +5,7 @@ Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 ```ts
-const mheob: FullStackDeveloper = {
+let mheob: FullStackDeveloper = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "PHP"],
   askMeAbout: ["web dev", "tech", "soccer", "open source"],
@@ -28,7 +28,6 @@ const mheob: FullStackDeveloper = {
   currentFocus: ["React / Preact", "open source"]
 };
 ```
-
 
 ## 📈 GitHub Stats
 

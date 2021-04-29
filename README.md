@@ -5,28 +5,57 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsb)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0a0b23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/mheob)
 
-# Hi there 👋
+# Hi there 👋 I'm mheob alias Alex
 
-Developing is fun.
+Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
 
-I am a Full-Stack Web-Developer who specializes in [TypeScript](https://github.com/microsoft/TypeScript), [Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native) and [Next.js](https://github.com/vercel/next.js). But I also use [WordPress](https://github.com/WordPress/WordPress) and have knowledge in [Craft CMS](https://github.com/craftcms/cms).
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
-:link: . I enjoy collaborating with different developers.\
-:goal_net: . Goals: Contribute more to Open Source projects.\
-:soccer: . I play soccer, watch sports, go for walks and relax.
+```ts
+const mheob: FullStackDeveloper = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "PHP"],
+  askMeAbout: ["web dev", "tech", "soccer", "open source"],
+  technologies: {
+    mobileApp: ["React Native"],
+    frontEnd: {
+      js: ["React", "Preact", "NextJS"],
+      css: ["Tailwind", "Bootstrap", "Styled-Components"]
+    },
+    backEnd: {
+      cms: ["Strapi", "WordPress", "Craft CMS"],
+      js: ["Node", "Express"],
+      php: ["native oop"],
+    },
+    devOps: ["AWS", "Docker 🐳", "Nginx"],
+    databases: ["Mongo", "MySql", "SQLite"],
+    misc: ["GraphQL"]
+  },
+  architecture: ["Serverless", "PWA", "SPA"],
+  currentFocus: ["React / Preact", "open source"]
+};
+```
+
 
 ## 📈 GitHub Stats
 
-[![mheob's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=3&hide=c%23,css,html,java,inno%20setup,shell&theme=gotham)](https://github.com/mheob)
-[![mheob's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&theme=gotham)](https://github.com/mheob)
+[![mheob's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=3&hide=c%23,css,html,java,inno%20setup,shell&theme=nord)](https://github.com/mheob)
+[![mheob's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&theme=nord)](https://github.com/mheob)
+
+[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord)](https://github.com/mheob)
+
+### More interessting Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📌 Pinned Repositories
 
-[![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&theme=gotham)](https://github.com/mheob/include-fussball-de-widgets)
-[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&theme=gotham)](https://github.com/mheob/hsv-neuwied)
+[![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&theme=nord)](https://github.com/mheob/include-fussball-de-widgets)
+[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&theme=nord)](https://github.com/mheob/hsv-neuwied)
 
-[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&theme=gotham)](https://github.com/100herz/convention-app)
-[![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&theme=gotham)](https://github.com/100herz/hdm)
+[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&theme=nord)](https://github.com/100herz/convention-app)
+[![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&theme=nord)](https://github.com/100herz/hdm)
 
 ## 🧑🏽‍💻 Technology Stack
 

@@ -38,7 +38,7 @@ let mheob: FullStackDeveloper = {
 ### More interessting Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-444135%20lines%20of%20code-blue)
 
@@ -69,10 +69,18 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 6 mins        ████████████░░░░░░░░░░░░░   50.27% 
+Bash                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   22.91% 
+JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hsv-neuwied              2 hrs 34 mins       ███████████████░░░░░░░░░░   61.37% 
+classen-group            46 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
+include-fussball-de-widge28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+readme.so                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
 
 ```
 

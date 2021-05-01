@@ -102,7 +102,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ## 📌 Pinned Repositories
 
 [![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&theme=nord)](https://github.com/mheob/include-fussball-de-widgets)
-[![hsv-neuwied](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&theme=nord)](https://github.com/mheob/hsv-neuwied)
+[![hsv-neuwied-web](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied&theme=nord)](https://github.com/mheob/hsv-neuwied-web)
 
 [![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&theme=nord)](https://github.com/100herz/convention-app)
 [![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&theme=nord)](https://github.com/100herz/hdm)

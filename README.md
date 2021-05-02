@@ -1,6 +1,6 @@
 # Hi there 👋 I'm _mheob_ alias _Alex_
 
-Frontend Developer at [AWESOME! Software 🚀](https://awesome-software.de/)
+Frontend Developer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 

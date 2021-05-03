@@ -33,7 +33,7 @@ let mheob: FullStackDeveloper = {
 [![mheob's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&langs_count=3&hide=c%23,css,html,java,inno%20setup,shell&theme=nord)](https://github.com/mheob)
 [![mheob's GitHub stats](https://github-readme-stats.vercel.app/api?username=mheob&show_icons=true&include_all_commits=true&line_height=27&theme=nord)](https://github.com/mheob)
 
-[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord)](https://github.com/mheob)
+[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=nord)](https://github.com/mheob)
 
 ### More interessting Stats
 

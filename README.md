@@ -31,7 +31,7 @@ let mheob: FullStackDeveloper = {
 
 ## 📈 GitHub Stats
 
-[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=5&row=1&margin-w=15)](https://github.com/mheob)
+[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)

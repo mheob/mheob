@@ -39,7 +39,6 @@ let mheob: FullStackDeveloper = {
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661071%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -104,8 +103,8 @@ Java                     2 repos             █░░░░░░░░░░�
 [![include-fussball-de-widgets](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=include-fussball-de-widgets&theme=nord)](https://github.com/mheob/include-fussball-de-widgets)
 [![hsv-neuwied-web](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=hsv-neuwied-web&theme=nord)](https://github.com/mheob/hsv-neuwied-web)
 
-[![convention-app](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=convention-app&theme=nord)](https://github.com/100herz/convention-app)
-[![hdm](https://github-readme-stats.vercel.app/api/pin/?username=100herz&repo=hdm&theme=nord)](https://github.com/100herz/hdm)
+[![convention-app](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=100herz&repo=convention-app&theme=nord)](https://github.com/100herz/convention-app)
+[![its-boehm](https://github-readme-stats.vercel.app/api/pin/?username=mheob&repo=itsb-web&theme=nord)](https://github.com/mheob/itsb-web)
 
 ## 🧑🏽‍💻 Technology Stack
 

@@ -34,19 +34,19 @@ let mheob: FullStackDeveloper = {
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-663735%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683295%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 918 Contributions in the Year 2021
+> 🏆 946 Contributions in the Year 2021
  > 
-> 📦 431.6 kB Used in Github's Storage 
+> 📦 432.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -100,21 +100,17 @@ Mac                      30 hrs 36 mins      ███████████�
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in TypeScript** 
 
 ```text
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mheob/mheob/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

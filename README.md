@@ -33,8 +33,8 @@ let mheob: FullStackDeveloper = {
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🧑🏽‍💻 Technology Stack
 

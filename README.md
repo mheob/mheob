@@ -115,6 +115,8 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+_These stats are generated using github action [waka-readme-stats](https://github.com/marketplace/actions/profile-readme-development-stats) created from [anmol098](https://github.com/anmol098). Thnks for your work!_
+
 ## 🧑🏽‍💻 Technology Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)

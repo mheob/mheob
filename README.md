@@ -34,22 +34,10 @@ let mheob: FullStackDeveloper = {
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683295%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-673825%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 947 Contributions in the Year 2021
- > 
-> 📦 432.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text

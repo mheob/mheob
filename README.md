@@ -116,10 +116,18 @@ _These stats are generated using github action [waka-readme-stats](https://githu
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2f2e8b?style=for-the-badge&logo=strapi&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)\
-![Sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 #### More on
 

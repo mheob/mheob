@@ -1,4 +1,4 @@
-# Hi there 👋 I'm _mheob_ aka _Alex_
+# Hi there 👋 I'm Alex
 
 Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).

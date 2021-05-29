@@ -38,7 +38,7 @@ jobs:
           # show day of week you are most productive - default is True
           SHOW_DAYS_OF_WEEK: True
           # Shows the current profile views - default is True
-          SHOW_PROFILE_VIEWS: True
+          SHOW_PROFILE_VIEWS: False
           # Shows the short facts - default is True
           SHOW_SHORT_INFO: False
           # Show stats in your own language - default is en

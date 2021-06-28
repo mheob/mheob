@@ -122,7 +122,7 @@ _These stats are generated using github action [waka-readme-stats](https://githu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
-<!-- ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white) -->
+![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 #### More on

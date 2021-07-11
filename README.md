@@ -96,7 +96,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
 
 _These stats are generated using github action [waka-readme-stats](https://github.com/marketplace/actions/profile-readme-development-stats) created from [anmol098](https://github.com/anmol098). Thnks for your work!_

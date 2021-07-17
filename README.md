@@ -3,7 +3,8 @@
 Full Stack Developer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
+<a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
 
 ```ts
 let mheob: FullStackDeveloper = {

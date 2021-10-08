@@ -34,7 +34,7 @@ let mheob: FullStackDeveloper = {
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
-[![mheob's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mheob&theme=nord)](https://git.io/streak-stats)
+<!-- [![mheob's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mheob&theme=nord)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 

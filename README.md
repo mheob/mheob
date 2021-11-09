@@ -17,7 +17,7 @@ let mheob: FullStackDeveloper = {
       css: ["Tailwind", "Bootstrap", "Styled-Components"],
     },
     backEnd: {
-      cms: ["Strapi", "WordPress", "Craft CMS"],
+      cms: ["Contentful", "Strapi", "WordPress", "Craft CMS"],
       js: ["Node", "Express"],
       php: ["native oop"],
     },

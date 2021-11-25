@@ -10,44 +10,19 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Setup git config
-        run: |
-          # Setup the username and email.
-          git config --global user.name "mheob"
-          git config --global user.email "3983539+mheob@users.noreply.github.com"
-
-      - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v2
         with:
-          # GitHub access token with Repo scope - default is ${{ github.token }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Your Wakatime API Key
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Show the list of OS Worked on In dev metrics - default is True
-          SHOW_OS: True
-          # Show the list of projects worked on in dev metrics - default is True
-          SHOW_PROJECTS: True
-          # Show the Editors used in dev metrics - default is True
-          SHOW_EDITORS: True
-          # Show the time zone in the dev metrics - default is True
-          SHOW_TIMEZONE: True
-          # Shows the number of commit graph in the dev metrics - default is True
-          SHOW_COMMIT: True
-          # Show the Coding language used in dev metrics - default is True
-          SHOW_LANGUAGE: True
-          # Show the Total Lines of code written Badge till date - default is False
-          SHOW_LINES_OF_CODE: False
-          # Show language or framework used across different repository - default is True
-          SHOW_LANGUAGE_PER_REPO: True
-          # Show diagram Lines of code written in different quarters of different year - default is True
-          SHOW_LOC_CHART: False
-          # show day of week you are most productive - default is True
-          SHOW_DAYS_OF_WEEK: True
-          # Shows the current profile views - default is True
-          SHOW_PROFILE_VIEWS: False
-          # Shows the short facts - default is True
-          SHOW_SHORT_INFO: False
-          # Shows updated date in end of paragraph
-          SHOW_UPDATED_DATE: True
-          # Show stats in your own language - default is en
-          LOCALE: en
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name mheob
+            git config user.email 3983539+mheob@users.noreply.github.com
+            git add .
+            git commit -m "Update README"
+            git push
+          fi

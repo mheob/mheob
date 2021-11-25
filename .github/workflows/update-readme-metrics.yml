@@ -10,6 +10,12 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - name: Setup git config
+        run: |
+          # Setup the username and email.
+          git config --global user.name "mheob"
+          git config --global user.email "3983539+mheob@users.noreply.github.com"
+
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
         with:

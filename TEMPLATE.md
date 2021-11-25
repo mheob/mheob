@@ -38,11 +38,10 @@ let mheob: FullStackDeveloper = {
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
-Most used languages across my projects:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+<p align="right"><i>These stats are generated using github action <a href="https://github.com/marketplace/actions/profile-readme-development-stats">waka-readme-stats</a>. Thanks for the tool!</i></p>
 
 ## 🧑🏽‍💻 Technology Stack
 

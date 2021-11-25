@@ -16,7 +16,7 @@ jobs:
           # Commit the code using my name and email
           COMMIT_BY_ME: True
           # GitHub access token with Repo scope - default is ${{ github.token }}
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Show the list of OS Worked on In dev metrics - default is True

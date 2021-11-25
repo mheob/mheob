@@ -13,8 +13,10 @@ jobs:
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
         with:
+          # Commit the code using my name and email
+          COMMIT_BY_ME: True
           # GitHub access token with Repo scope - default is ${{ github.token }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Show the list of OS Worked on In dev metrics - default is True
@@ -41,5 +43,7 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           # Shows the short facts - default is True
           SHOW_SHORT_INFO: False
+          # Shows updated date in end of paragraph
+          SHOW_UPDATED_DATE: True
           # Show stats in your own language - default is en
           LOCALE: en

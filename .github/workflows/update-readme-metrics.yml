@@ -13,8 +13,6 @@ jobs:
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          # Commit the code using my name and email
-          COMMIT_BY_ME: True
           # GitHub access token with Repo scope - default is ${{ github.token }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Your Wakatime API Key

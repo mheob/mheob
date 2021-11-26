@@ -2,7 +2,7 @@ name: Readme with Metrics
 
 on:
   schedule:
-    - cron: "38 22 * * *"
+    - cron: "38 02 * * *"
   workflow_dispatch:
 
 jobs:
@@ -32,9 +32,6 @@ jobs:
     needs: create-readme
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
         with:

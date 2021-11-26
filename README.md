@@ -3,17 +3,13 @@
 Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-I Joined Github **8** years ago.
-
-Since then I pushed **1755** commits, opened **198** issues, submitted **343** pull requests, received **29** stars across **25** personal projects and contributed to **22** public repositories.
-
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 <a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
 
 ```ts
 let mheob: FullStackDeveloper = {
   pronouns: "He" | "Him",
-  askMeAbout: ["web dev", "tech", "soccer", "open source"],
+  askMeAbout: ["Web Dev", "Tech", "Soccer", "Open Source"],
   code: ["Javascript", "Typescript", "PHP"],
   technologies: {
     frontEnd: {
@@ -30,75 +26,18 @@ let mheob: FullStackDeveloper = {
     mobileApp: ["React Native"],
   },
   architecture: ["Serverless", "PWA", "SPA"],
-  currentFocus: ["React / Preact", "open source"],
+  currentFocus: ["React / Preact", "NextJS", "Open Source"],
 };
 ```
+
+I Joined Github **8** years ago.\
+Since then I pushed **1758** commits, opened **198** issues, submitted **343** pull requests, received **29** stars across **25** personal projects and contributed to **22** public repositories.
 
 ## 📈 GitHub Stats
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    357 commits    ██████████░░░░░░░░░░░░░░░   41.32% 
-🌆 Daytime    406 commits    ███████████░░░░░░░░░░░░░░   46.99% 
-🌃 Evening    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-Wednesday    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-Thursday     153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-Friday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Sunday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               37 hrs 1 min        █████████████████████░░░░   86.3% 
-GraphQL                  3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-🔥 Editors: 
-VS Code                  42 hrs 53 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-EFM                      42 hrs 53 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      42 hrs 53 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-
- Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 <p align="right"><i>These stats are generated using github action <a href="https://github.com/marketplace/actions/profile-readme-development-stats">waka-readme-stats</a>. Thanks for the tool!</i></p>

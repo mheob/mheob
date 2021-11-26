@@ -3,17 +3,13 @@
 Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-I Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 <a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
 
 ```ts
 let mheob: FullStackDeveloper = {
   pronouns: "He" | "Him",
-  askMeAbout: ["web dev", "tech", "soccer", "open source"],
+  askMeAbout: ["Web Dev", "Tech", "Soccer", "Open Source"],
   code: ["Javascript", "Typescript", "PHP"],
   technologies: {
     frontEnd: {
@@ -30,9 +26,12 @@ let mheob: FullStackDeveloper = {
     mobileApp: ["React Native"],
   },
   architecture: ["Serverless", "PWA", "SPA"],
-  currentFocus: ["React / Preact", "open source"],
+  currentFocus: ["React / Preact", "NextJS", "Open Source"],
 };
 ```
+
+I Joined Github **{{ ACCOUNT_AGE }}** years ago.\
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 ## 📈 GitHub Stats
 

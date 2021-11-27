@@ -31,75 +31,13 @@ let mheob: FullStackDeveloper = {
 ```
 
 I Joined Github **8** years ago.\
-Since then I pushed **1758** commits, opened **198** issues, submitted **343** pull requests, received **29** stars across **25** personal projects and contributed to **22** public repositories.
+Since then I pushed **1759** commits, opened **200** issues, submitted **343** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
 
 ## 📈 GitHub Stats
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    358 commits    ██████████░░░░░░░░░░░░░░░   41.39% 
-🌆 Daytime    406 commits    ███████████░░░░░░░░░░░░░░   46.94% 
-🌃 Evening    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-Wednesday    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Thursday     151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
-Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Sunday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               34 hrs 18 mins      ████████████████████░░░░░   80.3% 
-JSON                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-GraphQL                  3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-YAML                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-Other                    58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-🔥 Editors: 
-VS Code                  42 hrs 43 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-EFM                      42 hrs 27 mins      ████████████████████████░   99.38% 
-mheob                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
-
-💻 Operating System: 
-Mac                      42 hrs 27 mins      ████████████████████████░   99.38% 
-Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-
- Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <p align="right"><i>These stats are generated using github action <a href="https://github.com/marketplace/actions/profile-readme-development-stats">waka-readme-stats</a>. Thanks for the tool!</i></p>

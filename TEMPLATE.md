@@ -14,7 +14,7 @@ let mheob: FullStackDeveloper = {
   technologies: {
     frontEnd: {
       js: ["React", "Preact", "NextJS"],
-      css: ["Tailwind", "Bootstrap", "Styled-Components"],
+      css: ["Tailwind", "Chakra", "Styled-Components"],
     },
     backEnd: {
       cms: ["Contentful", "Strapi", "WordPress", "Craft CMS"],

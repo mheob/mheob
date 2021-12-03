@@ -1,4 +1,4 @@
-name: Update Readme with Wakatime stats
+name: Update Readme with GitHub stats
 
 on:
   schedule:

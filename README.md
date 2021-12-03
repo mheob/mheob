@@ -3,7 +3,9 @@
 Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
+I Joined Github **8** years ago.\
+Since then I pushed **1778** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
+
 <a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
 
 ```ts
@@ -31,7 +33,7 @@ let mheob: FullStackDeveloper = {
 ```
 
 I Joined Github **8** years ago.\
-Since then I pushed **1775** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
+Since then I pushed **1778** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
 
 ## 📈 GitHub Stats
 

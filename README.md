@@ -3,9 +3,6 @@
 Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-I Joined Github **8** years ago.\
-Since then I pushed **1778** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
-
 <a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
 
 ```ts
@@ -33,82 +30,13 @@ let mheob: FullStackDeveloper = {
 ```
 
 I Joined Github **8** years ago.\
-Since then I pushed **1778** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
+Since then I pushed **1781** commits, opened **203** issues, submitted **347** pull requests, received **29** stars across **25** personal projects and contributed to **24** public repositories.
 
 ## 📈 GitHub Stats
 
 [![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%208%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    363 commits    ██████████░░░░░░░░░░░░░░░   41.77% 
-🌆 Daytime    400 commits    ███████████░░░░░░░░░░░░░░   46.03% 
-🌃 Evening    99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       135 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
-Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Wednesday    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Thursday     155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-Friday       155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-Saturday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Sunday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               30 hrs 51 mins      ██████████████████████░░░   89.22% 
-JSON                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Docker                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
-
-🔥 Editors: 
-VS Code                  34 hrs 35 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-EFM                      33 hrs 48 mins      ████████████████████████░   97.76% 
-vscode-snippets          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-untitled folder          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
-
-💻 Operating System: 
-Mac                      34 hrs 35 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-
- Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
 
 <p align="right"><i>These stats are generated using github action <a href="https://github.com/marketplace/actions/profile-readme-development-stats">waka-readme-stats</a>. Thanks for the tool!</i></p>

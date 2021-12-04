@@ -2,7 +2,7 @@ name: Update Readme with Wakatime stats
 
 on:
   schedule:
-    - cron: "43 01 * * *"
+    - cron: "53 01 * * *"
   workflow_dispatch:
 
 jobs:
@@ -46,4 +46,4 @@ jobs:
           # Show Total Time you have coded
           SHOW_TOTAL_CODE_TIME: True
           # Git commit with your own name and email
-          COMMIT_BY_ME: False
+          COMMIT_BY_ME: True

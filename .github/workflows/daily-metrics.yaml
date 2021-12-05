@@ -51,14 +51,14 @@ jobs:
           # Display follow-up of repositories issues and pull requests
           plugin_followup: yes
           # Sections to display
-          plugin_followup_sections: repositories, user # optional, default is repositories
+          plugin_followup_sections: user # optional, default is repositories
           # Indepth follow-up processing
           plugin_followup_indepth: yes
 
           # Display most used languages metrics
           plugin_languages: yes # optional
           # Languages to ignore
-          plugin_languages_ignored: inno setup,java,c#,shell # optional, default is
+          #plugin_languages_ignored: inno setup,java,c#,shell # optional, default is
           # Repositories to skip
           #plugin_languages_skipped: # optional, default is
           # Maximum number of languages to display
@@ -70,7 +70,7 @@ jobs:
           # Custom languages names
           #plugin_languages_aliases: # optional, default is
           # Additional details
-          plugin_languages_details: bytes-size, percentage # optional, default is
+          plugin_languages_details: percentage #bytes-size, percentage # optional, default is
           # Minimum threshold
           # plugin_languages_threshold: # optional, default is 0%
           # Indepth languages processing (see documentation before enabling)
@@ -92,32 +92,13 @@ jobs:
           # Display notable contributions in organizations
           plugin_notable: yes
           # Query filter
-          plugin_notable_filter: stars:>5 # optional, default is
+          plugin_notable_filter: stars:>4 # optional, default is
           # Filter by repository host account type
           plugin_notable_from: all # optional, default is organization
           # Also display repository name
           plugin_notable_repositories: yes # optional
           # Indepth notable contributions processing
           plugin_notable_indepth: yes # optional
-
-          # Display average issue comments reactions
-          plugin_reactions: yes
-          # Maximum number of issue comments to parse
-          #plugin_reactions_limit: # optional, default is 200
-          # Maximum number of issues and pull requests opened to parse
-          #plugin_reactions_limit_issues: # optional, default is 100
-          # Maximum number of discussions opened to parse
-          #plugin_reactions_limit_discussions: # optional, default is 100
-          # Maximum number of discussions comments opened to parse
-          #plugin_reactions_limit_discussions_comments: # optional, default is 100
-          # Maximum comments age
-          #plugin_reactions_days: # optional, default is 0
-          # Display mode
-          #plugin_reactions_display: # optional, default is absolute
-          # Additional details
-          plugin_reactions_details: count, percentage # optional, default is
-          # Users to ignore
-          plugin_reactions_ignored: nobody # optional, default is github-actions[bot], dependabot[bot], dependabot-preview[bot]
 
           # Display repositories traffic metrics
           plugin_traffic: yes

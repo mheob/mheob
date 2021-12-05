@@ -29,7 +29,7 @@ jobs:
           # Metrics base content
           base: header, activity, community, repositories, metadata
           # Render display width
-          #config_display: columns # optional, default regular
+          config_display: large # optional, default regular
           # Timezone used
           config_timezone: Europe/Berlin
 
@@ -68,7 +68,7 @@ jobs:
           # Custom languages colors
           #plugin_languages_colors: # optional, default is github
           # Custom languages names
-          plugin_languages_aliases: javascript:JS typescript:TS # optional, default is
+          #plugin_languages_aliases: # optional, default is
           # Additional details
           plugin_languages_details: bytes-size, percentage # optional, default is
           # Minimum threshold

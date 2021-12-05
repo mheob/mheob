@@ -37,9 +37,7 @@ let mheob: FullStackDeveloper = {
 };
 ```
 
-## 📈 GitHub Stats
-
-![GitHub Metrics](https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg)
+## 📈 Stats
 
 <!--START_SECTION:waka-->
 
@@ -110,6 +108,8 @@ Shell                    2 repos             ██░░░░░░░░░�
 Last Updated on 05/12/2021
 
 <!--END_SECTION:waka-->
+
+![GitHub Metrics](https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg)
 
 ## 🧑🏽‍💻 Technology Stack
 

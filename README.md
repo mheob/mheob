@@ -1,113 +1,115 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex
 
-Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
+Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and
+[IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
-<a href="https://app.daily.dev/mheob"><img align="right" src="https://api.daily.dev/devcards/ca64438f7f9f43d1829dfb36006f4089.png?r=qri" width="300" alt="Alexander Böhm's Dev Card"/></a>
+<a href="https://app.daily.dev/mheob">
+  <img
+    align="right"
+    width="256"
+    src="https://raw.githubusercontent.com/mheob/mheob/devcard/devcard.svg"
+    alt="Alexander Böhm's daily.dev Card"
+  />
+</a>
 
 ```ts
 let mheob: FullStackDeveloper = {
-  pronouns: "He" | "Him",
-  askMeAbout: ["Web Dev", "Tech", "Soccer", "Open Source"],
-  code: ["Javascript", "Typescript", "PHP"],
+  pronouns: 'He' | 'Him',
+  askMeAbout: ['Web Dev', 'Tech', 'Soccer', 'Open Source'],
+  code: ['Javascript', 'Typescript', 'PHP'],
   technologies: {
     frontEnd: {
-      js: ["React", "Preact", "NextJS"],
-      css: ["Tailwind", "Chakra", "Styled-Components"],
+      js: ['React', 'Preact', 'NextJS'],
+      css: ['Tailwind', 'Chakra', 'Styled-Components'],
     },
     backEnd: {
-      cms: ["Contentful", "Strapi", "WordPress", "Craft CMS"],
-      js: ["Node", "Express"],
-      php: ["native oop"],
+      cms: ['Contentful', 'Strapi', 'WordPress', 'Craft CMS'],
+      js: ['Node', 'Express'],
+      php: ['native oop'],
     },
-    databases: ["Mongo", "MySql", "SQLite"],
-    misc: ["GraphQL"],
-    mobileApp: ["React Native"],
+    databases: ['Mongo', 'MySql', 'SQLite'],
+    misc: ['GraphQL'],
+    mobileApp: ['React Native'],
   },
-  architecture: ["Serverless", "PWA", "SPA"],
-  currentFocus: ["React / Preact", "NextJS", "Open Source"],
+  architecture: ['Serverless', 'PWA', 'SPA'],
+  currentFocus: ['React / Preact', 'NextJS', 'Open Source'],
 };
 ```
 
 ## 📈 GitHub Stats
 
-[![mheob's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=nord&column=6&row=1&margin-w=15)](https://github.com/mheob)
+![GitHub Metrics](https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-290-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    365 commits    ██████████░░░░░░░░░░░░░░░   42.0% 
-🌆 Daytime    397 commits    ███████████░░░░░░░░░░░░░░   45.68% 
-🌃 Evening    99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+🌞 Morning    365 commits    ██████████░░░░░░░░░░░░░░░   42.0%
+🌆 Daytime    397 commits    ███████████░░░░░░░░░░░░░░   45.68%
+🌃 Evening    99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39%
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-Thursday     153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Friday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74%
+Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82%
+Thursday     153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61%
+Friday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
 Sunday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
-
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Berlin
 
-💬 Programming Languages: 
-TypeScript               30 hrs 8 mins       ████████████████████░░░░░   81.08% 
-YAML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
+💬 Programming Languages:
+TypeScript               30 hrs 8 mins       ████████████████████░░░░░   81.08%
+YAML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
 Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  37 hrs 10 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-EFM                      32 hrs 25 mins      █████████████████████░░░░   87.22% 
-hsv-neuwied-web          2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-mheob                    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-vscode-snippets          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+🐱‍💻 Projects:
+EFM                      32 hrs 25 mins      █████████████████████░░░░   87.22%
+hsv-neuwied-web          2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
+mheob                    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21%
+vscode-snippets          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
-💻 Operating System: 
-Mac                      35 hrs 58 mins      ████████████████████████░   96.79% 
+💻 Operating System:
+Mac                      35 hrs 58 mins      ████████████████████████░   96.79%
 Linux                    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21%
-
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1%
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
 ```
 
+Last Updated on 05/12/2021
 
-
- Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
-
-<p align="right"><i>These stats are generated using github action <a href="https://github.com/marketplace/actions/profile-readme-development-stats">waka-readme-stats</a>. Thanks for the tool!</i></p>
 
 ## 🧑🏽‍💻 Technology Stack
 
@@ -122,7 +124,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 [![Strapi](https://img.shields.io/badge/Strapi-2F2E8B.svg?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 \
-[![Styled Components](https://img.shields.io/badge/Styled_Components-db7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)

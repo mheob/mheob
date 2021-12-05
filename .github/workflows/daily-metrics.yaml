@@ -36,7 +36,7 @@ jobs:
           # Display achievements
           plugin_achievements: yes
           # Display rank minimal threshold
-          #plugin_achievements_threshold: # optional, default is C
+          plugin_achievements_threshold: B # optional, default is C
           # Display unlocked secrets achievements
           #plugin_achievements_secrets: # optional, default is true
           # Achievements display style
@@ -58,7 +58,7 @@ jobs:
           # Display most used languages metrics
           plugin_languages: yes # optional
           # Languages to ignore
-          #plugin_languages_ignored: inno setup,java,c#,shell # optional, default is
+          plugin_languages_ignored: inno setup,java,c#,shell # optional, default is
           # Repositories to skip
           #plugin_languages_skipped: # optional, default is
           # Maximum number of languages to display
@@ -98,22 +98,7 @@ jobs:
           # Also display repository name
           plugin_notable_repositories: yes # optional
           # Indepth notable contributions processing
-          plugin_notable_indepth: yes # optional
+          #plugin_notable_indepth: yes # optional
 
           # Display repositories traffic metrics
           plugin_traffic: yes
-
-          # Display WakaTime stats
-          plugin_wakatime: yes
-          # WakaTime API token
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          # WakaTime time range
-          plugin_wakatime_days: 14 # optional, default is 7
-          # Sections to display
-          #plugin_wakatime_sections: # optional, default is time, projects, projects-graphs, languages, languages-graphs, editors, os
-          # Maximum number of entries to display per graph
-          # plugin_wakatime_limit: # optional, default is 5
-          # Address where to reach your Wakatime instance
-          #plugin_wakatime_url: # optional, default is https://wakatime.com
-          # Your Wakatime user on the selfhosted Wakapi instance
-          #plugin_wakatime_user: # optional, default is current

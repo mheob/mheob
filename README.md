@@ -37,6 +37,49 @@ let mheob: FullStackDeveloper = {
 };
 ```
 
+## 📈 Stats
+
+<!--START_SECTION:waka-->
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    362 commits    ██████████░░░░░░░░░░░░░░░   41.66%
+🌆 Daytime    402 commits    ███████████░░░░░░░░░░░░░░   46.26%
+🌃 Evening    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16%
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+
+```
+
+📅 **I'm Most Productive on Friday**
+
+```text
+Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51%
+Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82%
+Thursday     151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38%
+Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95%
+Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
+Sunday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04%
+
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+
+```
+
+Last Updated on 05/12/2021
+
+<!--END_SECTION:waka-->
+
+<img
+  width="67%"
+  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
+  alt="Alexander Böhm's GitHub Metrics"
+/>
+
 ## 🧑🏽‍💻 Technology Stack
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -80,44 +123,3 @@ let mheob: FullStackDeveloper = {
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
 [![PayPal donate button](https://img.shields.io/badge/paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F.svg?style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)
-
-## 📈 Stats
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    362 commits    ██████████░░░░░░░░░░░░░░░   41.66% 
-🌆 Daytime    402 commits    ███████████░░░░░░░░░░░░░░   46.26% 
-🌃 Evening    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-Thursday     151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Sunday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
- Last Updated on 05/12/2021
-<!--END_SECTION:waka-->
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
-  alt="Alexander Böhm's GitHub Metrics"
-/>

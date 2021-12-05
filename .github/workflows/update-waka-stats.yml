@@ -27,7 +27,7 @@ jobs:
           # Shows the number of commit graph in the dev metrics - default is True
           SHOW_COMMIT: True
           # Show the Coding language used in dev metrics - default is True
-          SHOW_LANGUAGE: False
+          SHOW_LANGUAGE: True
           # Show the Total Lines of code written Badge till date - default is False
           SHOW_LINES_OF_CODE: False
           # Show language or framework used across different repository - default is True

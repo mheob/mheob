@@ -153,10 +153,8 @@ Last Updated on 05/12/2021
 
 <!--END_SECTION:waka-->
 
-<a href="https://app.daily.dev/mheob">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
-    alt="Alexander Böhm's GitHub Metrics"
-  />
-</a>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
+  alt="Alexander Böhm's GitHub Metrics"
+/>

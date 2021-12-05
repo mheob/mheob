@@ -37,54 +37,6 @@ let mheob: FullStackDeveloper = {
 };
 ```
 
-## 📈 Stats
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    362 commits    ██████████░░░░░░░░░░░░░░░   41.66% 
-🌆 Daytime    404 commits    ███████████░░░░░░░░░░░░░░   46.49% 
-🌃 Evening    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-Thursday     151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Saturday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Sunday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               30 hrs 8 mins       ████████████████████░░░░░   81.08% 
-YAML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
-
-```
-
-
- Last Updated on 05/12/2021
-<!--END_SECTION:waka-->
-
-<img
-  width="67%"
-  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
-  alt="Alexander Böhm's GitHub Metrics"
-/>
-
 ## 🧑🏽‍💻 Technology Stack
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -128,3 +80,52 @@ Markdown                 48 mins             ░░░░░░░░░░░�
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/mheob)
 [![PayPal donate button](https://img.shields.io/badge/paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F.svg?style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)
+
+## 📈 Stats
+
+<!--START_SECTION:waka-->
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    362 commits    ██████████░░░░░░░░░░░░░░░   41.66%
+🌆 Daytime    404 commits    ███████████░░░░░░░░░░░░░░   46.49%
+🌃 Evening    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93%
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+
+```
+
+📅 **I'm Most Productive on Friday**
+
+```text
+Monday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51%
+Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82%
+Thursday     151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38%
+Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95%
+Saturday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+Sunday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27%
+
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
+TypeScript               30 hrs 8 mins       ████████████████████░░░░░   81.08%
+YAML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
+Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+
+```
+
+Last Updated on 05/12/2021
+
+<!--END_SECTION:waka-->
+
+<img
+  width="67%"
+  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
+  alt="Alexander Böhm's GitHub Metrics"
+/>

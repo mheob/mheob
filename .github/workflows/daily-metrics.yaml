@@ -58,11 +58,11 @@ jobs:
           # Display most used languages metrics
           plugin_languages: yes # optional
           # Languages to ignore
-          plugin_languages_ignored: Inno Setup,Java,C#,Shell,Hack # optional, default is
+          plugin_languages_ignored: Inno Setup,Java,C#,Hack # optional, default is
           # Repositories to skip
           #plugin_languages_skipped: # optional, default is
           # Maximum number of languages to display
-          #plugin_languages_limit: # optional, default is 8
+          # plugin_languages_limit: 6 # optional, default is 8
           # Sections to display
           #plugin_languages_sections: # optional, default is most-used
           # Custom languages colors
@@ -92,7 +92,7 @@ jobs:
           # Display notable contributions in organizations
           plugin_notable: yes
           # Query filter
-          plugin_notable_filter: stars:>24 # optional, default is
+          plugin_notable_filter: stars:>49 # optional, default is
           # Filter by repository host account type
           plugin_notable_from: all # optional, default is organization
           # Also display repository name

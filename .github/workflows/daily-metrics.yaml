@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Update GitHub Metrics
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           # GitHub Personal Token
           token: ${{ secrets.GH_TOKEN }}

@@ -1,7 +1,7 @@
-name: Update the daily GitHub Metrics
+name: Update GitHub Metrics SVG
 
 on:
-  push: { branches: ["main"] }
+  schedule: [ { cron: "0 */14 * * *" } ]
   workflow_dispatch:
 
 jobs:

@@ -1,7 +1,7 @@
-name: Update the Daily.dev-Card
+name: Update Daily.dev-Card
 
 on:
-  push: { branches: ["main"] }
+  schedule: [ { cron: "0 */14 * * *" } ]
   workflow_dispatch:
 
 jobs:

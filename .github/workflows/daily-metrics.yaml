@@ -12,6 +12,9 @@ jobs:
       - name: Update GitHub Metrics
         uses: lowlighter/metrics@v3.20
         with:
+          # Include forks
+          repositories_forks: yes # optional, default is <default-value>
+
           # GitHub Personal Token
           token: ${{ secrets.GH_TOKEN }}
 
@@ -40,7 +43,7 @@ jobs:
           # Display unlocked secrets achievements
           #plugin_achievements_secrets: # optional, default is true
           # Achievements display style
-          #plugin_achievements_display: detailed # optional, default is detailed
+          plugin_achievements_display: compact # optional, default is detailed
           # Maximum number of achievements to display
           #plugin_achievements_limit: # optional, default is 0
           # Unlocked achievements to hide
@@ -48,46 +51,10 @@ jobs:
           # Unlocked achievements to display
           #plugin_achievements_only: # optional, default is
 
-          # Display follow-up of repositories issues and pull requests
-          plugin_followup: yes
-          # Sections to display
-          plugin_followup_sections: user # optional, default is repositories
-          # Indepth follow-up processing
-          plugin_followup_indepth: yes
-
-          # Display most used languages metrics
-          plugin_languages: yes # optional
-          # Languages to ignore
-          plugin_languages_ignored: Inno Setup,Java,C#,Hack # optional, default is
-          # Repositories to skip
-          #plugin_languages_skipped: # optional, default is
-          # Maximum number of languages to display
-          # plugin_languages_limit: 6 # optional, default is 8
-          # Sections to display
-          #plugin_languages_sections: # optional, default is most-used
-          # Custom languages colors
-          #plugin_languages_colors: # optional, default is github
-          # Custom languages names
-          #plugin_languages_aliases: # optional, default is
-          # Additional details
-          plugin_languages_details: percentage #bytes-size, percentage # optional, default is
-          # Minimum threshold
-          # plugin_languages_threshold: # optional, default is 0%
-          # Indepth languages processing (see documentation before enabling)
-          plugin_languages_indepth: yes # optional
-          # Languages analysis timeout
-          #plugin_languages_analysis_timeout: # optional, default is 15
-          # Language categories to display
-          #plugin_languages_categories: # optional, default is markup, programming
-          # Language categories to display (for recently used section)
-          #plugin_languages_recent_categories: # optional, default is markup, programming
-          # Number of events to load (for recently used section)
-          plugin_languages_recent_load: 500 # optional, default is 300
-          # Maximum event age (for recently used section)
-          plugin_languages_recent_days: 14 # optional, default is 14
-
           # Display lines of code metrics
           plugin_lines: yes
+          # Skipped repositories
+          #plugin_lines_skipped: # optional,
 
           # Display notable contributions in organizations
           plugin_notable: yes
@@ -98,7 +65,9 @@ jobs:
           # Also display repository name
           plugin_notable_repositories: yes # optional
           # Indepth notable contributions processing
-          #plugin_notable_indepth: yes # optional
+          plugin_notable_indepth: yes # optional
 
           # Display repositories traffic metrics
           plugin_traffic: yes
+          # Skipped repositories
+          #plugin_traffic_skipped: # optional

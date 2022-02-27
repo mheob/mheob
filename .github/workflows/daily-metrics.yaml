@@ -13,7 +13,7 @@ jobs:
         uses: lowlighter/metrics@v3.20
         with:
           # Include forks
-          repositories_forks: yes # optional, default is <default-value>
+          repositories_forks: yes # optional, default is
 
           # GitHub Personal Token
           token: ${{ secrets.GH_TOKEN }}
@@ -54,7 +54,38 @@ jobs:
           # Display lines of code metrics
           plugin_lines: yes
           # Skipped repositories
-          #plugin_lines_skipped: # optional,
+          #plugin_lines_skipped: # optional
+
+          # Enable languages plugin
+          plugin_languages: yes # optional, default is
+          # Ignored languages
+          plugin_languages_ignored: Inno Setup,Java,C#,Hack # optional, default is
+          # Skipped repositories
+          #plugin_languages_skipped: # optional, default is
+          # Display limit
+          plugin_languages_limit: 6 # optional, default is 8
+          # Display threshold (percentage)
+          #plugin_languages_threshold: # optional, default is 0%
+          # Custom languages colors
+          #plugin_languages_colors: # optional, default is github
+          # Custom languages names
+          #plugin_languages_aliases: # optional, default is
+          # Displayed sections
+          #plugin_languages_sections: # optional, default is most-used
+          # Additional details
+          plugin_languages_details: percentage #bytes-size, percentage # optional, default is
+          # Indepth mode (⚠️ read documentation first)
+          plugin_languages_indepth: yes # optional, default is
+          # Indepth mode - Analysis timeout
+          #plugin_languages_analysis_timeout: # optional, default is 15
+          # Indepth mode - Displayed categories (most-used section)
+          #plugin_languages_categories: # optional, default is markup, programming
+          # Indepth mode - Displayed categories (recently-used section)
+          #plugin_languages_recent_categories: # optional, default is markup, programming
+          # Events to load (recently-used section)
+          plugin_languages_recent_load: 500 # optional, default is 300
+          # Events maximum age (day, recently-used section)
+          #plugin_languages_recent_days: # optional, default is 14
 
           # Display notable contributions in organizations
           plugin_notable: yes

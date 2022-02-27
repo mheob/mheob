@@ -123,7 +123,7 @@ Last Updated on 27/02/2022 00:06:23 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mmheob)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=8&hide=inno%20setup,c%23,java)](https://github.com/mmheob)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&card_width=320&langs_count=8&hide=inno%20setup,c%23,java)](https://github.com/mmheob)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mmheob)
 

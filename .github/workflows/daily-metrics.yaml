@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Update GitHub Metrics
-        uses: lowlighter/metrics@v3.20
+        uses: lowlighter/metrics@v3.21
         with:
           # Include forks
           repositories_forks: yes # optional, default is

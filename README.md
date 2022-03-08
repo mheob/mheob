@@ -4,6 +4,16 @@ Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) an
 [IT Service Böhm](https://www.its-boehm.de).\
 Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
 
+I try to make the internet a bit nicer and look for interesting (open source) projects.
+
+## 🤝 Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mheob)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mheob_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/itsb)
+[![Xing](https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/Alexander_Boehm64)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/203514576841474049)
+
 <a href="https://app.daily.dev/mheob">
   <img
     align="right"
@@ -65,14 +75,6 @@ let mheob: FullStackDeveloper = {
 
 [![StackShare](https://img.shields.io/badge/StackShare-008FF9.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/mheob/general)
 
-## 💬 Get in touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mheob)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mheob_a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/itsb)
-[![Xing](https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/Alexander_Boehm64)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0B23.svg?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/mheob)
-
 ## ☕️ Help to support me and my open source projects
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-100000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sponsors/mheob)
@@ -82,51 +84,50 @@ let mheob: FullStackDeveloper = {
 ## 📈 Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    326 commits    ██████████░░░░░░░░░░░░░░░   40.05% 
-🌆 Daytime    354 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
-🌃 Evening    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+🌞 Morning    326 commits    ██████████░░░░░░░░░░░░░░░   40.05%
+🌆 Daytime    354 commits    ██████████░░░░░░░░░░░░░░░   43.49%
+🌃 Evening    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 🌙 Night      68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.35%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Thursday     135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-Friday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95%
+Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88%
+Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
+Thursday     135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58%
+Friday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09%
+Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
 Sunday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               47 hrs 36 mins      ██████████████████████░░░   87.68% 
-JSON                     5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-GraphQL                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
-YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+💬 Programming Languages:
+TypeScript               47 hrs 36 mins      ██████████████████████░░░   87.68%
+JSON                     5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+GraphQL                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 ```
 
+Last Updated on 08/03/2022 14:03:50 UTC
 
- Last Updated on 08/03/2022 14:03:50 UTC
 <!--END_SECTION:waka-->
+
+[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mmheob)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mmheob)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mmheob)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/anuraghazra/github-readme-stats)
 
-<img
-  width="67%"
-  src="https://raw.githubusercontent.com/mheob/mheob/github-metrics/github-metrics.svg"
-  alt="Alexander Böhm's GitHub Metrics"
-/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mmheob)

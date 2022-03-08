@@ -1,7 +1,9 @@
 name: Update Daily.dev-Card
 
+# Step values	20/15 * * * * runs every 15 minutes starting from minute 20 through 59 (minutes 20, 35, and 50).
+
 on:
-  schedule: [ { cron: "0 */14 * * *" } ]
+  schedule: [ { cron: "10 */16 * * *" } ]
   workflow_dispatch:
 
 jobs:

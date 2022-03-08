@@ -1,7 +1,7 @@
 name: Update Readme with Wakatime stats
 
 on:
-  schedule: [ { cron: "0 */14 * * *" } ]
+  schedule: [ { cron: "40 */16 * * *" } ]
   workflow_dispatch:
 
 jobs:

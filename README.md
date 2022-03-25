@@ -43,7 +43,7 @@ let mheob: FullStackDeveloper = {
     mobileApp: ['React Native'],
   },
   architecture: ['Serverless', 'PWA', 'SPA'],
-  currentFocus: ['NextJS', 'React / Preact', 'Go' 'Open Source'],
+  currentFocus: ['NextJS', 'React/Preact', 'Go' 'Open Source'],
 };
 ```
 

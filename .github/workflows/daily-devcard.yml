@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.5
+        uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: ${{ secrets.DAILYDEV_CARD_ID }}
           token: ${{ secrets.GH_TOKEN }}

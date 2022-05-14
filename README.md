@@ -84,43 +84,44 @@ let mheob: FullStackDeveloper = {
 ## 📈 Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    338 commits    ██████████░░░░░░░░░░░░░░░   40.77% 
-🌆 Daytime    323 commits    █████████░░░░░░░░░░░░░░░░   38.96% 
-🌃 Evening    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+🌞 Morning    338 commits    ██████████░░░░░░░░░░░░░░░   40.77%
+🌆 Daytime    323 commits    █████████░░░░░░░░░░░░░░░░   38.96%
+🌃 Evening    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6%
 🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Thursday     142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-Friday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-Saturday     91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Monday       136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41%
+Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.63%
+Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.15%
+Thursday     142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13%
+Friday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65%
+Saturday     91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
 Sunday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               60 hrs 28 mins      ███████████████████████░░   92.85% 
-GraphQL                  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+💬 Programming Languages:
+TypeScript               60 hrs 28 mins      ███████████████████████░░   92.85%
+GraphQL                  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
+JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 ```
 
+Last Updated on 14/05/2022 01:01:55 UTC
 
- Last Updated on 14/05/2022 01:01:55 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)
@@ -130,3 +131,9 @@ Other                    14 mins             ░░░░░░░░░░░�
 <!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mheob)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)
+
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mheob&theme=dracula)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)

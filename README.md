@@ -133,7 +133,5 @@ Last Updated on 14/05/2022 01:01:55 UTC
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mheob)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)
-
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mheob&theme=dracula)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)

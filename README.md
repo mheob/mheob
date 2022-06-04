@@ -125,11 +125,11 @@ Other                    42 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#609](https://github.com/mheob/include-fussball-de-widgets/pull/609) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#607](https://github.com/mheob/include-fussball-de-widgets/pull/607) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#608](https://github.com/mheob/include-fussball-de-widgets/pull/608) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. ❗️ Opened issue [#3](https://github.com/mheob/prettier-config/issues/3) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
-5. 🎉 Merged PR [#499](https://github.com/mheob/itsb-web/pull/499) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. ❌ Closed PR [#1](https://github.com/mheob/create-react-tsx-component/pull/1) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. ❌ Closed PR [#2](https://github.com/mheob/create-react-tsx-component/pull/2) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+3. 🎉 Merged PR [#609](https://github.com/mheob/include-fussball-de-widgets/pull/609) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#607](https://github.com/mheob/include-fussball-de-widgets/pull/607) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#608](https://github.com/mheob/include-fussball-de-widgets/pull/608) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

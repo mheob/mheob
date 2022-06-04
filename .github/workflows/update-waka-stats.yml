@@ -1,13 +1,14 @@
 name: Update Readme with Wakatime stats
 
 on:
-  schedule: [ { cron: "40 */16 * * *" } ]
+  schedule: [ { cron: "51 */13 * * *" } ]
   workflow_dispatch:
 
 jobs:
   update-waka:
     name: Update Readme with Wakatime stats
     runs-on: ubuntu-latest
+
     steps:
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master

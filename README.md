@@ -126,11 +126,11 @@ Other                    55 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mheob/create-react-tsx-component/pull/1) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-2. ❌ Closed PR [#2](https://github.com/mheob/create-react-tsx-component/pull/2) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-3. 🎉 Merged PR [#609](https://github.com/mheob/include-fussball-de-widgets/pull/609) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#607](https://github.com/mheob/include-fussball-de-widgets/pull/607) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#608](https://github.com/mheob/include-fussball-de-widgets/pull/608) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#10](https://github.com/mheob/generate-next-components/pull/10) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+2. 🎉 Merged PR [#9](https://github.com/mheob/generate-next-components/pull/9) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+3. 🎉 Merged PR [#21](https://github.com/mheob/create-nextjs-components/pull/21) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+4. 🎉 Merged PR [#20](https://github.com/mheob/create-nextjs-components/pull/20) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+5. ❌ Closed PR [#1](https://github.com/mheob/create-react-tsx-component/pull/1) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

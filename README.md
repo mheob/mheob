@@ -126,11 +126,11 @@ Other                    55 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. ❌ Closed PR [#593](https://github.com/mheob/include-fussball-de-widgets/pull/593) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#10](https://github.com/mheob/generate-next-components/pull/10) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
-4. 🎉 Merged PR [#9](https://github.com/mheob/generate-next-components/pull/9) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
-5. 🎉 Merged PR [#21](https://github.com/mheob/create-nextjs-components/pull/21) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+1. 🎉 Merged PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. ❌ Closed PR [#593](https://github.com/mheob/include-fussball-de-widgets/pull/593) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#10](https://github.com/mheob/generate-next-components/pull/10) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+5. 🎉 Merged PR [#9](https://github.com/mheob/generate-next-components/pull/9) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

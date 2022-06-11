@@ -126,11 +126,11 @@ Markdown                 43 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 💪 Opened PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. ❌ Closed PR [#593](https://github.com/mheob/include-fussball-de-widgets/pull/593) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#10](https://github.com/mheob/generate-next-components/pull/10) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
-5. 🎉 Merged PR [#9](https://github.com/mheob/generate-next-components/pull/9) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+1. 🎉 Merged PR [#612](https://github.com/mheob/include-fussball-de-widgets/pull/612) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#611](https://github.com/mheob/include-fussball-de-widgets/pull/611) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 💪 Opened PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. ❌ Closed PR [#593](https://github.com/mheob/include-fussball-de-widgets/pull/593) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

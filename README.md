@@ -126,11 +126,11 @@ Cheetah                  35 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/mheob/react-ui-library/pull/30) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-2. 🎉 Merged PR [#612](https://github.com/mheob/include-fussball-de-widgets/pull/612) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#611](https://github.com/mheob/include-fussball-de-widgets/pull/611) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 💪 Opened PR [#610](https://github.com/mheob/include-fussball-de-widgets/pull/610) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#88](https://github.com/mheob/react-ui-library/pull/88) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+2. 🎉 Merged PR [#40](https://github.com/mheob/react-ui-library/pull/40) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+3. 🎉 Merged PR [#30](https://github.com/mheob/react-ui-library/pull/30) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+4. 🎉 Merged PR [#612](https://github.com/mheob/include-fussball-de-widgets/pull/612) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#611](https://github.com/mheob/include-fussball-de-widgets/pull/611) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

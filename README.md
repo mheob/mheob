@@ -126,11 +126,11 @@ Cheetah                  35 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/mheob/react-ui-library/pull/84) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-2. 🎉 Merged PR [#35](https://github.com/mheob/react-ui-library/pull/35) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-3. 🎉 Merged PR [#33](https://github.com/mheob/react-ui-library/pull/33) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-4. 🎉 Merged PR [#89](https://github.com/mheob/react-ui-library/pull/89) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-5. 🎉 Merged PR [#88](https://github.com/mheob/react-ui-library/pull/88) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+1. 🎉 Merged PR [#94](https://github.com/mheob/react-ui-library/pull/94) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+2. 💪 Opened PR [#94](https://github.com/mheob/react-ui-library/pull/94) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+3. 🎉 Merged PR [#34](https://github.com/mheob/react-ui-library/pull/34) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+4. 🎉 Merged PR [#85](https://github.com/mheob/react-ui-library/pull/85) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+5. 🎉 Merged PR [#39](https://github.com/mheob/react-ui-library/pull/39) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

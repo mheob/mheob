@@ -126,11 +126,11 @@ Cheetah                  35 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#614](https://github.com/mheob/include-fussball-de-widgets/pull/614) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#613](https://github.com/mheob/include-fussball-de-widgets/pull/613) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#81](https://github.com/mheob/training-compensation/pull/81) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
-4. 🗣 Commented on [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. 🎉 Merged PR [#95](https://github.com/mheob/react-ui-library/pull/95) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+1. 🎉 Merged PR [#501](https://github.com/mheob/itsb-web/pull/501) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#500](https://github.com/mheob/itsb-web/pull/500) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#614](https://github.com/mheob/include-fussball-de-widgets/pull/614) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#613](https://github.com/mheob/include-fussball-de-widgets/pull/613) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#81](https://github.com/mheob/training-compensation/pull/81) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

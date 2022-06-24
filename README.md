@@ -126,11 +126,11 @@ Cheetah                  35 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#501](https://github.com/mheob/itsb-web/pull/501) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#500](https://github.com/mheob/itsb-web/pull/500) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#614](https://github.com/mheob/include-fussball-de-widgets/pull/614) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#613](https://github.com/mheob/include-fussball-de-widgets/pull/613) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#81](https://github.com/mheob/training-compensation/pull/81) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+1. 🎉 Merged PR [#616](https://github.com/mheob/include-fussball-de-widgets/pull/616) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#615](https://github.com/mheob/include-fussball-de-widgets/pull/615) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#501](https://github.com/mheob/itsb-web/pull/501) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#500](https://github.com/mheob/itsb-web/pull/500) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 🎉 Merged PR [#614](https://github.com/mheob/include-fussball-de-widgets/pull/614) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

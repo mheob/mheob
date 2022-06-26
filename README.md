@@ -27,7 +27,7 @@ I try to make the internet a bit nicer and look for interesting (open source) pr
 let mheob: FullStackDeveloper = {
   pronouns: 'He' | 'Him',
   askMeAbout: ['Web Dev', 'Tech', 'Soccer', 'Open Source'],
-  code: ['Typescript', 'Javascript', 'PHP'],
+  code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
       js: ['React', 'Preact', 'NextJS', 'Remix'],
@@ -36,7 +36,7 @@ let mheob: FullStackDeveloper = {
     backEnd: {
       cms: ['Contentful', 'Strapi', 'WordPress'],
       js: ['Node', 'Express'],
-      php: ['native oop'],
+      other: ['Go', 'PHP'],
     },
     databases: ['Mongo', 'MySql', 'PostgreSQL'],
     misc: ['GraphQL', 'REST'],

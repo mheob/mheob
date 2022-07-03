@@ -127,11 +127,11 @@ Cheetah                  35 mins             ░░░░░░░░░░░�
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/mheob/create-nextjs-components/pull/23) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-2. 🎉 Merged PR [#617](https://github.com/mheob/include-fussball-de-widgets/pull/617) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#502](https://github.com/mheob/itsb-web/pull/502) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. ❗️ Opened issue [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-5. ❗️ Opened issue [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+1. 🎉 Merged PR [#12](https://github.com/mheob/generate-next-components/pull/12) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+2. 🎉 Merged PR [#23](https://github.com/mheob/create-nextjs-components/pull/23) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+3. 🎉 Merged PR [#617](https://github.com/mheob/include-fussball-de-widgets/pull/617) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#502](https://github.com/mheob/itsb-web/pull/502) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. ❗️ Opened issue [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

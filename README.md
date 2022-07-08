@@ -85,11 +85,11 @@ let mheob: FullStackDeveloper = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/mheob/create-react-tsx-component/issues/5) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-2. 🎉 Merged PR [#12](https://github.com/mheob/generate-next-components/pull/12) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
-3. 🎉 Merged PR [#23](https://github.com/mheob/create-nextjs-components/pull/23) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-4. 🎉 Merged PR [#617](https://github.com/mheob/include-fussball-de-widgets/pull/617) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#502](https://github.com/mheob/itsb-web/pull/502) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#102](https://github.com/mheob/react-ui-library/pull/102) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+2. ❗️ Opened issue [#5](https://github.com/mheob/create-react-tsx-component/issues/5) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+3. 🎉 Merged PR [#12](https://github.com/mheob/generate-next-components/pull/12) in [mheob/generate-next-components](https://github.com/mheob/generate-next-components)
+4. 🎉 Merged PR [#23](https://github.com/mheob/create-nextjs-components/pull/23) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+5. 🎉 Merged PR [#617](https://github.com/mheob/include-fussball-de-widgets/pull/617) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -24,14 +24,14 @@ I try to make the internet a bit nicer and look for interesting (open source) pr
 </a>
 
 ```ts
-let mheob: FullStackDeveloper = {
+let mheob: FullStackEngineer = {
   pronouns: 'He' | 'Him',
   askMeAbout: ['Web Dev', 'Tech', 'Soccer', 'Open Source'],
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
       js: ['React', 'Preact', 'NextJS', 'Remix'],
-      css: ['Styled-Components', 'Chakra', 'Tailwind'],
+      css: ['Stitches', 'Emotion', 'Chakra', 'Mantine'],
     },
     backEnd: {
       cms: ['Contentful', 'Strapi', 'WordPress'],

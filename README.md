@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/mheob/hsv-neuwied/issues/1) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
-2. 🎉 Merged PR [#201](https://github.com/easyfeedback/RCL/pull/201) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-3. 🎉 Merged PR [#166](https://github.com/easyfeedback/RCL/pull/166) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-4. 🎉 Merged PR [#103](https://github.com/mheob/react-ui-library/pull/103) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-5. 🎉 Merged PR [#618](https://github.com/mheob/include-fussball-de-widgets/pull/618) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+2. 💪 Opened PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+3. 🎉 Merged PR [#6](https://github.com/mheob/clean-code-typescript/pull/6) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+4. 💪 Opened PR [#6](https://github.com/mheob/clean-code-typescript/pull/6) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+5. ❌ Closed PR [#3](https://github.com/mheob/clean-code-typescript/pull/3) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

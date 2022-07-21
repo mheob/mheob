@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-2. 💪 Opened PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-3. 🎉 Merged PR [#6](https://github.com/mheob/clean-code-typescript/pull/6) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-4. 💪 Opened PR [#6](https://github.com/mheob/clean-code-typescript/pull/6) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-5. ❌ Closed PR [#3](https://github.com/mheob/clean-code-typescript/pull/3) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+1. ❗️ Reopened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+2. ❗️ Closed issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+3. ❗️ Opened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+4. 🎉 Merged PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+5. 💪 Opened PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

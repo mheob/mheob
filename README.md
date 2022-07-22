@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
-2. ❗️ Closed issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
-3. ❗️ Opened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
-4. 🎉 Merged PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-5. 💪 Opened PR [#7](https://github.com/mheob/clean-code-typescript/pull/7) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+1. 🎉 Merged PR [#503](https://github.com/mheob/itsb-web/pull/503) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#619](https://github.com/mheob/include-fussball-de-widgets/pull/619) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#620](https://github.com/mheob/include-fussball-de-widgets/pull/620) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. ❗️ Reopened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+5. ❗️ Closed issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#503](https://github.com/mheob/itsb-web/pull/503) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#619](https://github.com/mheob/include-fussball-de-widgets/pull/619) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#620](https://github.com/mheob/include-fussball-de-widgets/pull/620) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. ❗️ Reopened issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
-5. ❗️ Closed issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+1. 🎉 Merged PR [#37](https://github.com/mheob/mheob-ui/pull/37) in [mheob/mheob-ui](https://github.com/mheob/mheob-ui)
+2. 🎉 Merged PR [#104](https://github.com/mheob/react-ui-library/pull/104) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+3. 🎉 Merged PR [#503](https://github.com/mheob/itsb-web/pull/503) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#619](https://github.com/mheob/include-fussball-de-widgets/pull/619) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#620](https://github.com/mheob/include-fussball-de-widgets/pull/620) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

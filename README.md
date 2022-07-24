@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mheob/config/pull/8) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#7](https://github.com/mheob/config/pull/7) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#6](https://github.com/mheob/config/pull/6) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#4](https://github.com/mheob/config/pull/4) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#3](https://github.com/mheob/config/pull/3) in [mheob/config](https://github.com/mheob/config)
+1. ❗️ Opened issue [#9](https://github.com/mheob/config/issues/9) in [mheob/config](https://github.com/mheob/config)
+2. ❗️ Closed issue [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+3. 🗣 Commented on [#4](https://github.com/mheob/prettier-config/issues/4) in [mheob/prettier-config](https://github.com/mheob/prettier-config)
+4. 🎉 Merged PR [#8](https://github.com/mheob/config/pull/8) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#7](https://github.com/mheob/config/pull/7) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

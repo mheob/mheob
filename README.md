@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2211](https://github.com/Kong/insomnia/issues/2211) in [Kong/insomnia](https://github.com/Kong/insomnia)
-2. 💪 Opened PR [#12](https://github.com/mheob/config/pull/12) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Closed issue [#9](https://github.com/mheob/config/issues/9) in [mheob/config](https://github.com/mheob/config)
-4. 🗣 Commented on [#9](https://github.com/mheob/config/issues/9) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#11](https://github.com/mheob/config/pull/11) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#622](https://github.com/mheob/include-fussball-de-widgets/pull/622) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#621](https://github.com/mheob/include-fussball-de-widgets/pull/621) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🗣 Commented on [#2211](https://github.com/Kong/insomnia/issues/2211) in [Kong/insomnia](https://github.com/Kong/insomnia)
+4. 💪 Opened PR [#12](https://github.com/mheob/config/pull/12) in [mheob/config](https://github.com/mheob/config)
+5. ❗️ Closed issue [#9](https://github.com/mheob/config/issues/9) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mheob/clean-code-typescript/pull/8) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-2. 💪 Opened PR [#8](https://github.com/mheob/clean-code-typescript/pull/8) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
-3. 🎉 Merged PR [#623](https://github.com/mheob/include-fussball-de-widgets/pull/623) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🗣 Commented on [#156](https://github.com/easyfeedback/RCL/issues/156) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-5. 🎉 Merged PR [#206](https://github.com/easyfeedback/RCL/pull/206) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+1. 🗣 Commented on [#12807](https://github.com/prettier/prettier/issues/12807) in [prettier/prettier](https://github.com/prettier/prettier)
+2. 🎉 Merged PR [#8](https://github.com/mheob/clean-code-typescript/pull/8) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+3. 💪 Opened PR [#8](https://github.com/mheob/clean-code-typescript/pull/8) in [mheob/clean-code-typescript](https://github.com/mheob/clean-code-typescript)
+4. 🎉 Merged PR [#623](https://github.com/mheob/include-fussball-de-widgets/pull/623) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🗣 Commented on [#156](https://github.com/easyfeedback/RCL/issues/156) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -98,7 +98,7 @@ let mheob: FullStackEngineer = {
 
 <!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/mheob)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=5&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
 
 [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
 [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)](https://github.com/mheob)

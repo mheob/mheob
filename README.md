@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hsv-neuwied/website/pull/1) in [hsv-neuwied/website](https://github.com/hsv-neuwied/website)
-2. 🎉 Merged PR [#625](https://github.com/mheob/include-fussball-de-widgets/pull/625) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#624](https://github.com/mheob/include-fussball-de-widgets/pull/624) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#105](https://github.com/mheob/react-ui-library/pull/105) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-5. 🗣 Commented on [#3440](https://github.com/chakra-ui/chakra-ui/issues/3440) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+1. ❗️ Closed issue [#1](https://github.com/mheob/update-mail-password-at-ubersapce/issues/1) in [mheob/update-mail-password-at-ubersapce](https://github.com/mheob/update-mail-password-at-ubersapce)
+2. ❌ Closed PR [#2](https://github.com/mheob/update-mail-password-at-ubersapce/pull/2) in [mheob/update-mail-password-at-ubersapce](https://github.com/mheob/update-mail-password-at-ubersapce)
+3. 🎉 Merged PR [#1](https://github.com/hsv-neuwied/.github/pull/1) in [hsv-neuwied/.github](https://github.com/hsv-neuwied/.github)
+4. 💪 Opened PR [#1](https://github.com/hsv-neuwied/.github/pull/1) in [hsv-neuwied/.github](https://github.com/hsv-neuwied/.github)
+5. ❌ Closed PR [#1](https://github.com/mheob/hsv-neuwied-.github/pull/1) in [mheob/hsv-neuwied-.github](https://github.com/mheob/hsv-neuwied-.github)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

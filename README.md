@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#626](https://github.com/mheob/include-fussball-de-widgets/pull/626) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. ❗️ Closed issue [#1](https://github.com/mheob/update-mail-password-at-ubersapce/issues/1) in [mheob/update-mail-password-at-ubersapce](https://github.com/mheob/update-mail-password-at-ubersapce)
-3. ❌ Closed PR [#2](https://github.com/mheob/update-mail-password-at-ubersapce/pull/2) in [mheob/update-mail-password-at-ubersapce](https://github.com/mheob/update-mail-password-at-ubersapce)
-4. 🎉 Merged PR [#1](https://github.com/hsv-neuwied/.github/pull/1) in [hsv-neuwied/.github](https://github.com/hsv-neuwied/.github)
-5. 💪 Opened PR [#1](https://github.com/hsv-neuwied/.github/pull/1) in [hsv-neuwied/.github](https://github.com/hsv-neuwied/.github)
+1. 🎉 Merged PR [#3](https://github.com/mheob/ef-calc/pull/3) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+2. 💪 Opened PR [#3](https://github.com/mheob/ef-calc/pull/3) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+3. 🎉 Merged PR [#1](https://github.com/mheob/ef-calc/pull/1) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+4. 💪 Opened PR [#1](https://github.com/mheob/ef-calc/pull/1) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+5. 🎉 Merged PR [#626](https://github.com/mheob/include-fussball-de-widgets/pull/626) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

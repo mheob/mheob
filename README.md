@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mheob/ef-calc/pull/5) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-2. 💪 Opened PR [#5](https://github.com/mheob/ef-calc/pull/5) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-3. 💪 Opened PR [#4](https://github.com/mheob/ef-calc/pull/4) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-4. 🎉 Merged PR [#3](https://github.com/mheob/ef-calc/pull/3) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-5. 💪 Opened PR [#3](https://github.com/mheob/ef-calc/pull/3) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+1. 💪 Opened PR [#7](https://github.com/mheob/ef-calc/pull/7) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+2. 💪 Opened PR [#6](https://github.com/mheob/ef-calc/pull/6) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+3. 🎉 Merged PR [#5](https://github.com/mheob/ef-calc/pull/5) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+4. 💪 Opened PR [#5](https://github.com/mheob/ef-calc/pull/5) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+5. 💪 Opened PR [#4](https://github.com/mheob/ef-calc/pull/4) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

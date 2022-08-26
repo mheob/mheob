@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/mheob/starter-kit/pull/6) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
-2. ❌ Closed PR [#1](https://github.com/mheob/starter-kit/pull/1) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
-3. ❌ Closed PR [#5](https://github.com/mheob/starter-kit/pull/5) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
-4. ❌ Closed PR [#3](https://github.com/mheob/starter-kit/pull/3) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
-5. ❌ Closed PR [#4](https://github.com/mheob/starter-kit/pull/4) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
+1. 💪 Opened PR [#21](https://github.com/mheob/config/pull/21) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#19](https://github.com/mheob/config/pull/19) in [mheob/config](https://github.com/mheob/config)
+3. ❌ Closed PR [#6](https://github.com/mheob/starter-kit/pull/6) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
+4. ❌ Closed PR [#1](https://github.com/mheob/starter-kit/pull/1) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
+5. ❌ Closed PR [#5](https://github.com/mheob/starter-kit/pull/5) in [mheob/starter-kit](https://github.com/mheob/starter-kit)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mheob/react-simple-split-pane/pull/2) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
-2. 💪 Opened PR [#2](https://github.com/mheob/react-simple-split-pane/pull/2) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
-3. 🎉 Merged PR [#505](https://github.com/mheob/itsb-web/pull/505) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 🎉 Merged PR [#506](https://github.com/mheob/itsb-web/pull/506) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#632](https://github.com/mheob/include-fussball-de-widgets/pull/632) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. ❗️ Opened issue [#28](https://github.com/mheob/config/issues/28) in [mheob/config](https://github.com/mheob/config)
+2. ❗️ Opened issue [#5](https://github.com/mheob/react-simple-split-pane/issues/5) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+3. ❗️ Opened issue [#4](https://github.com/mheob/react-simple-split-pane/issues/4) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+4. 🎉 Merged PR [#2](https://github.com/mheob/react-simple-split-pane/pull/2) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+5. 💪 Opened PR [#2](https://github.com/mheob/react-simple-split-pane/pull/2) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/mheob/config/pull/32) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#31](https://github.com/mheob/config/pull/31) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#29](https://github.com/mheob/config/pull/29) in [mheob/config](https://github.com/mheob/config)
-4. ❗️ Opened issue [#28](https://github.com/mheob/config/issues/28) in [mheob/config](https://github.com/mheob/config)
-5. ❗️ Opened issue [#5](https://github.com/mheob/react-simple-split-pane/issues/5) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+1. 🎉 Merged PR [#30](https://github.com/mheob/config/pull/30) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#32](https://github.com/mheob/config/pull/32) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#31](https://github.com/mheob/config/pull/31) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#29](https://github.com/mheob/config/pull/29) in [mheob/config](https://github.com/mheob/config)
+5. ❗️ Opened issue [#28](https://github.com/mheob/config/issues/28) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

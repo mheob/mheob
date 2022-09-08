@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-2. ❗️ Reopened issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. 🗣 Commented on [#2](https://github.com/hsv-neuwied/website/issues/2) in [hsv-neuwied/website](https://github.com/hsv-neuwied/website)
+2. ❗️ Opened issue [#2](https://github.com/hsv-neuwied/website/issues/2) in [hsv-neuwied/website](https://github.com/hsv-neuwied/website)
 3. ❗️ Closed issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-4. 🗣 Commented on [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. ❗️ Reopened issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. ❗️ Reopened issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+5. ❗️ Closed issue [#35](https://github.com/mheob/vscode-snippets/issues/35) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

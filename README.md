@@ -30,7 +30,7 @@ let mheob: FullStackEngineer = {
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
-      js: ['React', 'Preact', 'NextJS', 'Remix'],
+      js: ['React', 'Preact', 'NextJS', 'Remix', 'Astro'],
       css: ['Stitches', 'Emotion', 'Chakra', 'Mantine'],
     },
     backEnd: {

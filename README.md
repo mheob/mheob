@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/mheob/config/pull/36) in [mheob/config](https://github.com/mheob/config)
-2. ❗️ Opened issue [#35](https://github.com/mheob/config/issues/35) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Opened issue [#34](https://github.com/mheob/config/issues/34) in [mheob/config](https://github.com/mheob/config)
-4. ❗️ Opened issue [#33](https://github.com/mheob/config/issues/33) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#634](https://github.com/mheob/include-fussball-de-widgets/pull/634) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 💪 Opened PR [#38](https://github.com/mheob/config/pull/38) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#36](https://github.com/mheob/config/pull/36) in [mheob/config](https://github.com/mheob/config)
+3. ❗️ Opened issue [#35](https://github.com/mheob/config/issues/35) in [mheob/config](https://github.com/mheob/config)
+4. ❗️ Opened issue [#34](https://github.com/mheob/config/issues/34) in [mheob/config](https://github.com/mheob/config)
+5. ❗️ Opened issue [#33](https://github.com/mheob/config/issues/33) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

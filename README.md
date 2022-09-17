@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/mheob/config/pull/46) in [mheob/config](https://github.com/mheob/config)
-2. ❗️ Opened issue [#45](https://github.com/mheob/config/issues/45) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Opened issue [#44](https://github.com/mheob/config/issues/44) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#43](https://github.com/mheob/config/pull/43) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#42](https://github.com/mheob/config/pull/42) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#47](https://github.com/mheob/config/pull/47) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#46](https://github.com/mheob/config/pull/46) in [mheob/config](https://github.com/mheob/config)
+3. ❗️ Opened issue [#45](https://github.com/mheob/config/issues/45) in [mheob/config](https://github.com/mheob/config)
+4. ❗️ Opened issue [#44](https://github.com/mheob/config/issues/44) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#43](https://github.com/mheob/config/pull/43) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/mheob/ef-calc/pull/12) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-2. 💪 Opened PR [#57](https://github.com/mheob/config/pull/57) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#55](https://github.com/mheob/config/pull/55) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#53](https://github.com/mheob/config/pull/53) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#52](https://github.com/mheob/config/pull/52) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#636](https://github.com/mheob/include-fussball-de-widgets/pull/636) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#12](https://github.com/mheob/ef-calc/pull/12) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+3. 💪 Opened PR [#57](https://github.com/mheob/config/pull/57) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#55](https://github.com/mheob/config/pull/55) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#53](https://github.com/mheob/config/pull/53) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

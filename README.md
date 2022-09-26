@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/mheob/config/pull/60) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#59](https://github.com/mheob/config/pull/59) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#29](https://github.com/mheob/create-nextjs-components/pull/29) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-4. 🎉 Merged PR [#28](https://github.com/mheob/create-nextjs-components/pull/28) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-5. 🎉 Merged PR [#636](https://github.com/mheob/include-fussball-de-widgets/pull/636) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. ❗️ Opened issue [#61](https://github.com/mheob/config/issues/61) in [mheob/config](https://github.com/mheob/config)
+2. ❌ Closed PR [#4](https://github.com/ChrisCavs/bounds.js/pull/4) in [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js)
+3. 🗣 Commented on [#4](https://github.com/ChrisCavs/bounds.js/issues/4) in [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js)
+4. 💪 Opened PR [#60](https://github.com/mheob/config/pull/60) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#59](https://github.com/mheob/config/pull/59) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

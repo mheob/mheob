@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/mheob/update-mac/pull/7) in [mheob/update-mac](https://github.com/mheob/update-mac)
-2. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-3. ❗️ Opened issue [#61](https://github.com/mheob/config/issues/61) in [mheob/config](https://github.com/mheob/config)
-4. ❌ Closed PR [#4](https://github.com/ChrisCavs/bounds.js/pull/4) in [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js)
-5. 🗣 Commented on [#4](https://github.com/ChrisCavs/bounds.js/issues/4) in [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js)
+1. ❗️ Opened issue [#62](https://github.com/mheob/config/issues/62) in [mheob/config](https://github.com/mheob/config)
+2. 🎉 Merged PR [#7](https://github.com/mheob/update-mac/pull/7) in [mheob/update-mac](https://github.com/mheob/update-mac)
+3. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+4. ❗️ Opened issue [#61](https://github.com/mheob/config/issues/61) in [mheob/config](https://github.com/mheob/config)
+5. ❌ Closed PR [#4](https://github.com/ChrisCavs/bounds.js/pull/4) in [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/mheob/config/pull/64) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#63](https://github.com/mheob/config/pull/63) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Opened issue [#62](https://github.com/mheob/config/issues/62) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#7](https://github.com/mheob/update-mac/pull/7) in [mheob/update-mac](https://github.com/mheob/update-mac)
-5. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+1. ❗️ Opened issue [#65](https://github.com/mheob/config/issues/65) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#64](https://github.com/mheob/config/pull/64) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#63](https://github.com/mheob/config/pull/63) in [mheob/config](https://github.com/mheob/config)
+4. ❗️ Opened issue [#62](https://github.com/mheob/config/issues/62) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#7](https://github.com/mheob/update-mac/pull/7) in [mheob/update-mac](https://github.com/mheob/update-mac)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/mheob/config/pull/71) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#70](https://github.com/mheob/config/pull/70) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Opened issue [#67](https://github.com/mheob/config/issues/67) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#66](https://github.com/mheob/config/pull/66) in [mheob/config](https://github.com/mheob/config)
-5. ❗️ Opened issue [#65](https://github.com/mheob/config/issues/65) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. 💪 Opened PR [#71](https://github.com/mheob/config/pull/71) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#70](https://github.com/mheob/config/pull/70) in [mheob/config](https://github.com/mheob/config)
+4. ❗️ Opened issue [#67](https://github.com/mheob/config/issues/67) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#66](https://github.com/mheob/config/pull/66) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mheob/update-mac/pull/8) in [mheob/update-mac](https://github.com/mheob/update-mac)
-2. 🎉 Merged PR [#637](https://github.com/mheob/include-fussball-de-widgets/pull/637) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 💪 Opened PR [#71](https://github.com/mheob/config/pull/71) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#70](https://github.com/mheob/config/pull/70) in [mheob/config](https://github.com/mheob/config)
+1. ❗️ Opened issue [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+2. 🎉 Merged PR [#8](https://github.com/mheob/update-mac/pull/8) in [mheob/update-mac](https://github.com/mheob/update-mac)
+3. 🎉 Merged PR [#637](https://github.com/mheob/include-fussball-de-widgets/pull/637) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 💪 Opened PR [#71](https://github.com/mheob/config/pull/71) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

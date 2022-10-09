@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/mheob/create-nextjs-components/pull/30) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-2. 🎉 Merged PR [#638](https://github.com/mheob/include-fussball-de-widgets/pull/638) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. ❗️ Opened issue [#74](https://github.com/mheob/config/issues/74) in [mheob/config](https://github.com/mheob/config)
-4. ❗️ Opened issue [#73](https://github.com/mheob/config/issues/73) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#72](https://github.com/mheob/config/pull/72) in [mheob/config](https://github.com/mheob/config)
+1. ❗️ Opened issue [#13](https://github.com/mheob/ef-calc/issues/13) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+2. 🎉 Merged PR [#30](https://github.com/mheob/create-nextjs-components/pull/30) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+3. 🎉 Merged PR [#638](https://github.com/mheob/include-fussball-de-widgets/pull/638) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. ❗️ Opened issue [#74](https://github.com/mheob/config/issues/74) in [mheob/config](https://github.com/mheob/config)
+5. ❗️ Opened issue [#73](https://github.com/mheob/config/issues/73) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

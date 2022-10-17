@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/mheob/react-ui-library/pull/109) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-2. 🎉 Merged PR [#639](https://github.com/mheob/include-fussball-de-widgets/pull/639) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🗣 Commented on [#1](https://github.com/mheob/hsv-neuwied/issues/1) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
-4. 💪 Opened PR [#77](https://github.com/mheob/config/pull/77) in [mheob/config](https://github.com/mheob/config)
-5. 🗣 Commented on [#73](https://github.com/mheob/config/issues/73) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#98](https://github.com/mheob/vscode-snippets/pull/98) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+2. 🗣 Commented on [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. 💪 Opened PR [#98](https://github.com/mheob/vscode-snippets/pull/98) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. 🎉 Merged PR [#109](https://github.com/mheob/react-ui-library/pull/109) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+5. 🎉 Merged PR [#639](https://github.com/mheob/include-fussball-de-widgets/pull/639) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

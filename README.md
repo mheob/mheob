@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mheob/changeset-changelog/pull/3) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 💪 Opened PR [#2](https://github.com/mheob/changeset-changelog/pull/2) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 💪 Opened PR [#1](https://github.com/mheob/changeset-changelog/pull/1) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-4. 🎉 Merged PR [#98](https://github.com/mheob/vscode-snippets/pull/98) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. 🗣 Commented on [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. 💪 Opened PR [#78](https://github.com/mheob/config/pull/78) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#3](https://github.com/mheob/changeset-changelog/pull/3) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. 💪 Opened PR [#2](https://github.com/mheob/changeset-changelog/pull/2) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+4. 💪 Opened PR [#1](https://github.com/mheob/changeset-changelog/pull/1) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+5. 🎉 Merged PR [#98](https://github.com/mheob/vscode-snippets/pull/98) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

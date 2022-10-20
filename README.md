@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/mheob/changeset-changelog/pull/7) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 💪 Opened PR [#6](https://github.com/mheob/changeset-changelog/pull/6) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 🗣 Commented on [#516](https://github.com/istanbuljs/istanbuljs/issues/516) in [istanbuljs/istanbuljs](https://github.com/istanbuljs/istanbuljs)
-4. 💪 Opened PR [#5](https://github.com/mheob/changeset-changelog/pull/5) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-5. 💪 Opened PR [#78](https://github.com/mheob/config/pull/78) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#9](https://github.com/mheob/changeset-changelog/pull/9) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+2. 💪 Opened PR [#8](https://github.com/mheob/changeset-changelog/pull/8) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. 💪 Opened PR [#7](https://github.com/mheob/changeset-changelog/pull/7) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+4. 💪 Opened PR [#6](https://github.com/mheob/changeset-changelog/pull/6) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+5. 🗣 Commented on [#516](https://github.com/istanbuljs/istanbuljs/issues/516) in [istanbuljs/istanbuljs](https://github.com/istanbuljs/istanbuljs)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

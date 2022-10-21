@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/mheob/changeset-changelog/pull/11) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 💪 Opened PR [#10](https://github.com/mheob/changeset-changelog/pull/10) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 💪 Opened PR [#9](https://github.com/mheob/changeset-changelog/pull/9) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-4. 💪 Opened PR [#8](https://github.com/mheob/changeset-changelog/pull/8) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-5. 💪 Opened PR [#7](https://github.com/mheob/changeset-changelog/pull/7) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+1. 💪 Opened PR [#81](https://github.com/mheob/config/pull/81) in [mheob/config](https://github.com/mheob/config)
+2. ❗️ Closed issue [#79](https://github.com/mheob/config/issues/79) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#80](https://github.com/mheob/config/pull/80) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#80](https://github.com/mheob/config/pull/80) in [mheob/config](https://github.com/mheob/config)
+5. ❗️ Opened issue [#79](https://github.com/mheob/config/issues/79) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

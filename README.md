@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/alexlafroscia/alfred-switch-audio-source/issues/16) in [alexlafroscia/alfred-switch-audio-source](https://github.com/alexlafroscia/alfred-switch-audio-source)
-2. 💪 Opened PR [#83](https://github.com/mheob/config/pull/83) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#640](https://github.com/mheob/include-fussball-de-widgets/pull/640) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#82](https://github.com/mheob/config/pull/82) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#81](https://github.com/mheob/config/pull/81) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#111](https://github.com/mheob/react-ui-library/pull/111) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+2. 🗣 Commented on [#16](https://github.com/alexlafroscia/alfred-switch-audio-source/issues/16) in [alexlafroscia/alfred-switch-audio-source](https://github.com/alexlafroscia/alfred-switch-audio-source)
+3. 💪 Opened PR [#83](https://github.com/mheob/config/pull/83) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#640](https://github.com/mheob/include-fussball-de-widgets/pull/640) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 💪 Opened PR [#82](https://github.com/mheob/config/pull/82) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/mheob/react-ui-library/pull/110) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-2. 🎉 Merged PR [#642](https://github.com/mheob/include-fussball-de-widgets/pull/642) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#641](https://github.com/mheob/include-fussball-de-widgets/pull/641) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#111](https://github.com/mheob/react-ui-library/pull/111) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
-5. 🗣 Commented on [#16](https://github.com/alexlafroscia/alfred-switch-audio-source/issues/16) in [alexlafroscia/alfred-switch-audio-source](https://github.com/alexlafroscia/alfred-switch-audio-source)
+1. 🎉 Merged PR [#31](https://github.com/mheob/create-nextjs-components/pull/31) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+2. 🎉 Merged PR [#110](https://github.com/mheob/react-ui-library/pull/110) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
+3. 🎉 Merged PR [#642](https://github.com/mheob/include-fussball-de-widgets/pull/642) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#641](https://github.com/mheob/include-fussball-de-widgets/pull/641) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#111](https://github.com/mheob/react-ui-library/pull/111) in [mheob/react-ui-library](https://github.com/mheob/react-ui-library)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

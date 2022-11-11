@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/mheob/use-correct-pm/pull/5) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-2. 💪 Opened PR [#4](https://github.com/mheob/use-correct-pm/pull/4) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 💪 Opened PR [#3](https://github.com/mheob/use-correct-pm/pull/3) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 💪 Opened PR [#2](https://github.com/mheob/use-correct-pm/pull/2) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. 💪 Opened PR [#86](https://github.com/mheob/config/pull/86) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#6](https://github.com/mheob/use-correct-pm/pull/6) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+4. 💪 Opened PR [#6](https://github.com/mheob/use-correct-pm/pull/6) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 💪 Opened PR [#5](https://github.com/mheob/use-correct-pm/pull/5) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

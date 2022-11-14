@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/mheob/use-correct-pm/pull/7) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-2. 🎉 Merged PR [#32](https://github.com/mheob/create-nextjs-components/pull/32) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-3. 🎉 Merged PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#6](https://github.com/mheob/use-correct-pm/pull/6) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+1. ❗️ Opened issue [#2](https://github.com/go-task/go-npm/issues/2) in [go-task/go-npm](https://github.com/go-task/go-npm)
+2. 💪 Opened PR [#7](https://github.com/mheob/use-correct-pm/pull/7) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+3. 🎉 Merged PR [#32](https://github.com/mheob/create-nextjs-components/pull/32) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+4. 🎉 Merged PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#87](https://github.com/mheob/config/pull/87) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

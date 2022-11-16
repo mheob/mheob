@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/mheob/config/pull/89) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#88](https://github.com/mheob/config/pull/88) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#9](https://github.com/mheob/use-correct-pm/pull/9) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 💪 Opened PR [#8](https://github.com/mheob/use-correct-pm/pull/8) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. ❗️ Opened issue [#2](https://github.com/go-task/go-npm/issues/2) in [go-task/go-npm](https://github.com/go-task/go-npm)
+1. 🎉 Merged PR [#646](https://github.com/mheob/include-fussball-de-widgets/pull/646) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#89](https://github.com/mheob/config/pull/89) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#88](https://github.com/mheob/config/pull/88) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#9](https://github.com/mheob/use-correct-pm/pull/9) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 💪 Opened PR [#8](https://github.com/mheob/use-correct-pm/pull/8) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
 [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)

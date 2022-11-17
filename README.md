@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/mheob/changeset-changelog/pull/14) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 💪 Opened PR [#93](https://github.com/mheob/config/pull/93) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#646](https://github.com/mheob/include-fussball-de-widgets/pull/646) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#89](https://github.com/mheob/config/pull/89) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#88](https://github.com/mheob/config/pull/88) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#381](https://github.com/commitizen/cz-cli/issues/381) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
+2. 💪 Opened PR [#14](https://github.com/mheob/changeset-changelog/pull/14) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. 💪 Opened PR [#93](https://github.com/mheob/config/pull/93) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#646](https://github.com/mheob/include-fussball-de-widgets/pull/646) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 💪 Opened PR [#89](https://github.com/mheob/config/pull/89) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->

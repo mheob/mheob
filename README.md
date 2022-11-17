@@ -94,7 +94,7 @@ let mheob: FullStackEngineer = {
 5. 💪 Opened PR [#9](https://github.com/mheob/use-correct-pm/pull/9) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
-[![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob)
+<!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->
 
@@ -103,5 +103,6 @@ let mheob: FullStackEngineer = {
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=5&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
 
 [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
+
 [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)](https://github.com/mheob)
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)](https://github.com/mheob)

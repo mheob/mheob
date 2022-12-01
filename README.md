@@ -94,6 +94,8 @@ let mheob: FullStackEngineer = {
 5. 🎉 Merged PR [#647](https://github.com/mheob/include-fussball-de-widgets/pull/647) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
+## 📈 GitHub Stats
+
 <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->

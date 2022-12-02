@@ -87,11 +87,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/topgrade-rs/topgrade/issues/246) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-2. 🗣 Commented on [#2](https://github.com/go-task/go-npm/issues/2) in [go-task/go-npm](https://github.com/go-task/go-npm)
-3. ❗️ Opened issue [#246](https://github.com/topgrade-rs/topgrade/issues/246) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-4. 💪 Opened PR [#10](https://github.com/mheob/use-correct-pm/pull/10) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. 🎉 Merged PR [#84](https://github.com/mheob/training-compensation/pull/84) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+1. 🗣 Commented on [#2](https://github.com/go-task/go-npm/issues/2) in [go-task/go-npm](https://github.com/go-task/go-npm)
+2. 🗣 Commented on [#246](https://github.com/topgrade-rs/topgrade/issues/246) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
+3. 🗣 Commented on [#246](https://github.com/topgrade-rs/topgrade/issues/246) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
+4. 🗣 Commented on [#2](https://github.com/go-task/go-npm/issues/2) in [go-task/go-npm](https://github.com/go-task/go-npm)
+5. ❗️ Opened issue [#246](https://github.com/topgrade-rs/topgrade/issues/246) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

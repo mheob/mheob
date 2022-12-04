@@ -44,8 +44,7 @@ let mheob: FullStackEngineer = {
     misc: ['GraphQL', 'REST'],
     mobileApp: ['React Native'],
   },
-  architecture: ['Serverless', 'PWA', 'SPA'],
-  currentFocus: ['NextJS', 'Remix', 'React/Preact', 'Go'],
+  currentFocus: ['NextJS', 'Remix', 'Flutter', 'Go'],
 };
 ```
 

@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/mheob/changeset-changelog/pull/18) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. ❗️ Opened issue [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 🎉 Merged PR [#653](https://github.com/mheob/include-fussball-de-widgets/pull/653) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#652](https://github.com/mheob/include-fussball-de-widgets/pull/652) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#651](https://github.com/mheob/include-fussball-de-widgets/pull/651) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#86](https://github.com/mheob/training-compensation/pull/86) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+2. 💪 Opened PR [#18](https://github.com/mheob/changeset-changelog/pull/18) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. ❗️ Opened issue [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+4. 🎉 Merged PR [#653](https://github.com/mheob/include-fussball-de-widgets/pull/653) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#652](https://github.com/mheob/include-fussball-de-widgets/pull/652) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

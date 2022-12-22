@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8170](https://github.com/dotansimha/graphql-code-generator/issues/8170) in [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-2. ❗️ Closed issue [#13](https://github.com/easyfeedback/RCL/issues/13) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-3. 🗣 Commented on [#13](https://github.com/easyfeedback/RCL/issues/13) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-4. 🎉 Merged PR [#104](https://github.com/mheob/config/pull/104) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#104](https://github.com/mheob/config/pull/104) in [mheob/config](https://github.com/mheob/config)
+1. ❗️ Reopened issue [#5](https://github.com/mheob/create-react-tsx-component/issues/5) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. 🗣 Commented on [#8170](https://github.com/dotansimha/graphql-code-generator/issues/8170) in [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+3. ❗️ Closed issue [#13](https://github.com/easyfeedback/RCL/issues/13) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+4. 🗣 Commented on [#13](https://github.com/easyfeedback/RCL/issues/13) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+5. 🎉 Merged PR [#104](https://github.com/mheob/config/pull/104) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

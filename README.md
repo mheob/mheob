@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. ❗️ Opened issue [#105](https://github.com/mheob/config/issues/105) in [mheob/config](https://github.com/mheob/config)
-3. ❗️ Reopened issue [#5](https://github.com/mheob/create-react-tsx-component/issues/5) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 🗣 Commented on [#8170](https://github.com/dotansimha/graphql-code-generator/issues/8170) in [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-5. ❗️ Closed issue [#13](https://github.com/easyfeedback/RCL/issues/13) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+1. 🗣 Commented on [#15](https://github.com/stevensacks/storybook-react-i18next/issues/15) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
+2. ❗️ Opened issue [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. ❗️ Opened issue [#105](https://github.com/mheob/config/issues/105) in [mheob/config](https://github.com/mheob/config)
+4. ❗️ Reopened issue [#5](https://github.com/mheob/create-react-tsx-component/issues/5) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 🗣 Commented on [#8170](https://github.com/dotansimha/graphql-code-generator/issues/8170) in [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

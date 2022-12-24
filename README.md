@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/mheob/config/pull/106) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#34](https://github.com/mheob/create-nextjs-components/pull/34) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-3. 🗣 Commented on [#15](https://github.com/stevensacks/storybook-react-i18next/issues/15) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
-4. ❗️ Opened issue [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-5. ❗️ Opened issue [#105](https://github.com/mheob/config/issues/105) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#108](https://github.com/mheob/config/pull/108) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#106](https://github.com/mheob/config/pull/106) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#34](https://github.com/mheob/create-nextjs-components/pull/34) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+4. 🗣 Commented on [#15](https://github.com/stevensacks/storybook-react-i18next/issues/15) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
+5. ❗️ Opened issue [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

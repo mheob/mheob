@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/mheob/config/pull/108) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#106](https://github.com/mheob/config/pull/106) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#34](https://github.com/mheob/create-nextjs-components/pull/34) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-4. 🗣 Commented on [#15](https://github.com/stevensacks/storybook-react-i18next/issues/15) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
-5. ❗️ Opened issue [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+1. 🎉 Merged PR [#10](https://github.com/mheob/react-simple-split-pane/pull/10) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+2. 🎉 Merged PR [#9](https://github.com/mheob/react-simple-split-pane/pull/9) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
+3. 💪 Opened PR [#108](https://github.com/mheob/config/pull/108) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#106](https://github.com/mheob/config/pull/106) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#34](https://github.com/mheob/create-nextjs-components/pull/34) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/mheob/update-mac/pull/9) in [mheob/update-mac](https://github.com/mheob/update-mac)
-2. 🎉 Merged PR [#10](https://github.com/mheob/react-simple-split-pane/pull/10) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
-3. 🎉 Merged PR [#9](https://github.com/mheob/react-simple-split-pane/pull/9) in [mheob/react-simple-split-pane](https://github.com/mheob/react-simple-split-pane)
-4. 💪 Opened PR [#108](https://github.com/mheob/config/pull/108) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#106](https://github.com/mheob/config/pull/106) in [mheob/config](https://github.com/mheob/config)
+1. ❗️ Closed issue [#232](https://github.com/easyfeedback/RCL/issues/232) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+2. ❌ Closed PR [#231](https://github.com/easyfeedback/RCL/pull/231) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+3. ❌ Closed PR [#212](https://github.com/easyfeedback/RCL/pull/212) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+4. ❌ Closed PR [#227](https://github.com/easyfeedback/RCL/pull/227) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+5. ❌ Closed PR [#214](https://github.com/easyfeedback/RCL/pull/214) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

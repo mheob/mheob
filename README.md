@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#232](https://github.com/easyfeedback/RCL/issues/232) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-2. ❌ Closed PR [#231](https://github.com/easyfeedback/RCL/pull/231) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-3. ❌ Closed PR [#212](https://github.com/easyfeedback/RCL/pull/212) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-4. ❌ Closed PR [#227](https://github.com/easyfeedback/RCL/pull/227) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-5. ❌ Closed PR [#214](https://github.com/easyfeedback/RCL/pull/214) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+1. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. ❗️ Closed issue [#232](https://github.com/easyfeedback/RCL/issues/232) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+3. ❌ Closed PR [#231](https://github.com/easyfeedback/RCL/pull/231) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+4. ❌ Closed PR [#212](https://github.com/easyfeedback/RCL/pull/212) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+5. ❌ Closed PR [#227](https://github.com/easyfeedback/RCL/pull/227) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

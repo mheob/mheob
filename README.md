@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-2. ❗️ Opened issue [#2](https://github.com/mheob/go-bin-npm/issues/2) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-3. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. ❗️ Closed issue [#232](https://github.com/easyfeedback/RCL/issues/232) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
-5. ❌ Closed PR [#231](https://github.com/easyfeedback/RCL/pull/231) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
+1. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. 🗣 Commented on [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+3. ❗️ Opened issue [#2](https://github.com/mheob/go-bin-npm/issues/2) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+4. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. ❗️ Closed issue [#232](https://github.com/easyfeedback/RCL/issues/232) in [easyfeedback/RCL](https://github.com/easyfeedback/RCL)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

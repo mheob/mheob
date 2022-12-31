@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-2. 🗣 Commented on [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-3. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 🗣 Commented on [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. ❗️ Opened issue [#2](https://github.com/mheob/go-bin-npm/issues/2) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+1. 🎉 Merged PR [#100](https://github.com/mheob/vscode-snippets/pull/100) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+2. ❗️ Closed issue [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. 🗣 Commented on [#96](https://github.com/mheob/vscode-snippets/issues/96) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 🗣 Commented on [#11](https://github.com/mheob/use-correct-pm/issues/11) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

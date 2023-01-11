@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#659](https://github.com/mheob/include-fussball-de-widgets/pull/659) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#661](https://github.com/mheob/include-fussball-de-widgets/pull/661) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#658](https://github.com/mheob/include-fussball-de-widgets/pull/658) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#35](https://github.com/mheob/create-nextjs-components/pull/35) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-5. 💪 Opened PR [#23](https://github.com/mheob/changeset-changelog/pull/23) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+1. 🎉 Merged PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+2. ❌ Closed PR [#1](https://github.com/mheob/tsg-irlich-website/pull/1) in [mheob/tsg-irlich-website](https://github.com/mheob/tsg-irlich-website)
+3. 💪 Opened PR [#1](https://github.com/mheob/tsg-irlich-website/pull/1) in [mheob/tsg-irlich-website](https://github.com/mheob/tsg-irlich-website)
+4. 💪 Opened PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+5. 🎉 Merged PR [#1](https://github.com/tsg-irlich/.github/pull/1) in [tsg-irlich/.github](https://github.com/tsg-irlich/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

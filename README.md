@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
-2. ❌ Closed PR [#1](https://github.com/mheob/tsg-irlich-website/pull/1) in [mheob/tsg-irlich-website](https://github.com/mheob/tsg-irlich-website)
-3. 💪 Opened PR [#1](https://github.com/mheob/tsg-irlich-website/pull/1) in [mheob/tsg-irlich-website](https://github.com/mheob/tsg-irlich-website)
-4. 💪 Opened PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
-5. 🎉 Merged PR [#1](https://github.com/tsg-irlich/.github/pull/1) in [tsg-irlich/.github](https://github.com/tsg-irlich/.github)
+1. 🎉 Merged PR [#508](https://github.com/mheob/itsb-web/pull/508) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ❗️ Closed issue [#1](https://github.com/mheob/hsv-neuwied/issues/1) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
+3. 🗣 Commented on [#662](https://github.com/mheob/include-fussball-de-widgets/issues/662) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+5. ❌ Closed PR [#1](https://github.com/mheob/tsg-irlich-website/pull/1) in [mheob/tsg-irlich-website](https://github.com/mheob/tsg-irlich-website)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

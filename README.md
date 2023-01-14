@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#664](https://github.com/mheob/include-fussball-de-widgets/pull/664) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#508](https://github.com/mheob/itsb-web/pull/508) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. ❗️ Closed issue [#1](https://github.com/mheob/hsv-neuwied/issues/1) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
-4. 🗣 Commented on [#662](https://github.com/mheob/include-fussball-de-widgets/issues/662) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#1](https://github.com/tsg-irlich/website/pull/1) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+1. 🗣 Commented on [#662](https://github.com/mheob/include-fussball-de-widgets/issues/662) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#101](https://github.com/mheob/vscode-snippets/pull/101) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. 🎉 Merged PR [#664](https://github.com/mheob/include-fussball-de-widgets/pull/664) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#508](https://github.com/mheob/itsb-web/pull/508) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. ❗️ Closed issue [#1](https://github.com/mheob/hsv-neuwied/issues/1) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

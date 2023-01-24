@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#665](https://github.com/mheob/include-fussball-de-widgets/pull/665) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#102](https://github.com/mheob/vscode-snippets/pull/102) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-3. 🎉 Merged PR [#88](https://github.com/mheob/training-compensation/pull/88) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
-4. 🎉 Merged PR [#662](https://github.com/mheob/include-fussball-de-widgets/pull/662) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#663](https://github.com/mheob/include-fussball-de-widgets/pull/663) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#36](https://github.com/mheob/create-nextjs-components/pull/36) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+2. 🎉 Merged PR [#665](https://github.com/mheob/include-fussball-de-widgets/pull/665) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#102](https://github.com/mheob/vscode-snippets/pull/102) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. 🎉 Merged PR [#88](https://github.com/mheob/training-compensation/pull/88) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+5. 🎉 Merged PR [#662](https://github.com/mheob/include-fussball-de-widgets/pull/662) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

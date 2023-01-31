@@ -33,7 +33,7 @@ let mheob: FullStackEngineer = {
   technologies: {
     frontEnd: {
       js: ['React', 'Preact', 'NextJS', 'Astro', 'SvelteKit'],
-      css: ['Stitches', 'Emotion', 'Chakra', 'Mantine'],
+      css: ['Tailwind', 'Emotion', 'Chakra', 'Mantine'],
     },
     backEnd: {
       cms: ['Contentful', 'Strapi', 'WordPress'],

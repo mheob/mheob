@@ -32,7 +32,7 @@ let mheob: FullStackEngineer = {
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
-      js: ['React', 'Preact', 'NextJS', 'Remix', 'Astro'],
+      js: ['React', 'Preact', 'NextJS', 'Astro', 'SvelteKit'],
       css: ['Stitches', 'Emotion', 'Chakra', 'Mantine'],
     },
     backEnd: {
@@ -44,7 +44,7 @@ let mheob: FullStackEngineer = {
     misc: ['GraphQL', 'REST'],
     mobileApp: ['React Native'],
   },
-  currentFocus: ['NextJS', 'Remix', 'Flutter', 'Go'],
+  currentFocus: ['NextJS', 'SvelteKit', 'Flutter', 'Go'],
 };
 ```
 

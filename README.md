@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#669](https://github.com/mheob/include-fussball-de-widgets/pull/669) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 💪 Opened PR [#6068](https://github.com/pnpm/pnpm/pull/6068) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. 💪 Opened PR [#140714](https://github.com/Homebrew/homebrew-cask/pull/140714) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🎉 Merged PR [#668](https://github.com/mheob/include-fussball-de-widgets/pull/668) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. ❗️ Opened issue [#667](https://github.com/mheob/include-fussball-de-widgets/issues/667) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 💪 Opened PR [#111](https://github.com/mheob/config/pull/111) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#109](https://github.com/mheob/config/pull/109) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#669](https://github.com/mheob/include-fussball-de-widgets/pull/669) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 💪 Opened PR [#6068](https://github.com/pnpm/pnpm/pull/6068) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+5. 💪 Opened PR [#140714](https://github.com/Homebrew/homebrew-cask/pull/140714) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

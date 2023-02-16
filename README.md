@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/mheob/config/pull/117) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#116](https://github.com/mheob/config/pull/116) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#115](https://github.com/mheob/config/pull/115) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#670](https://github.com/mheob/include-fussball-de-widgets/pull/670) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#113](https://github.com/mheob/config/pull/113) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#90](https://github.com/mheob/training-compensation/pull/90) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+2. 💪 Opened PR [#117](https://github.com/mheob/config/pull/117) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#116](https://github.com/mheob/config/pull/116) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#115](https://github.com/mheob/config/pull/115) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#670](https://github.com/mheob/include-fussball-de-widgets/pull/670) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

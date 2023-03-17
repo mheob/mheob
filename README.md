@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/mheob/create-nextjs-components/pull/37) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-2. 🎉 Merged PR [#674](https://github.com/mheob/include-fussball-de-widgets/pull/674) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#673](https://github.com/mheob/include-fussball-de-widgets/pull/673) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#142561](https://github.com/Homebrew/homebrew-cask/pull/142561) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 🎉 Merged PR [#512](https://github.com/mheob/itsb-web/pull/512) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#675](https://github.com/mheob/include-fussball-de-widgets/pull/675) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#37](https://github.com/mheob/create-nextjs-components/pull/37) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+3. 🎉 Merged PR [#674](https://github.com/mheob/include-fussball-de-widgets/pull/674) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#673](https://github.com/mheob/include-fussball-de-widgets/pull/673) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 💪 Opened PR [#142561](https://github.com/Homebrew/homebrew-cask/pull/142561) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

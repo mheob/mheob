@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#677](https://github.com/mheob/include-fussball-de-widgets/issues/677) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#514](https://github.com/mheob/itsb-web/pull/514) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#676](https://github.com/mheob/include-fussball-de-widgets/pull/676) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🎉 Merged PR [#675](https://github.com/mheob/include-fussball-de-widgets/pull/675) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#37](https://github.com/mheob/create-nextjs-components/pull/37) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+1. 🗣 Commented on [#178](https://github.com/nrwl/nx-labs/issues/178) in [nrwl/nx-labs](https://github.com/nrwl/nx-labs)
+2. 🗣 Commented on [#677](https://github.com/mheob/include-fussball-de-widgets/issues/677) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#514](https://github.com/mheob/itsb-web/pull/514) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#676](https://github.com/mheob/include-fussball-de-widgets/pull/676) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#675](https://github.com/mheob/include-fussball-de-widgets/pull/675) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

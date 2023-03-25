@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/mheob/config/pull/121) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#178](https://github.com/nrwl/nx-labs/issues/178) in [nrwl/nx-labs](https://github.com/nrwl/nx-labs)
+1. 🎉 Merged PR [#677](https://github.com/mheob/include-fussball-de-widgets/pull/677) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#121](https://github.com/mheob/config/pull/121) in [mheob/config](https://github.com/mheob/config)
 3. 🗣 Commented on [#178](https://github.com/nrwl/nx-labs/issues/178) in [nrwl/nx-labs](https://github.com/nrwl/nx-labs)
-4. 🗣 Commented on [#677](https://github.com/mheob/include-fussball-de-widgets/issues/677) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#514](https://github.com/mheob/itsb-web/pull/514) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🗣 Commented on [#178](https://github.com/nrwl/nx-labs/issues/178) in [nrwl/nx-labs](https://github.com/nrwl/nx-labs)
+5. 🗣 Commented on [#677](https://github.com/mheob/include-fussball-de-widgets/issues/677) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

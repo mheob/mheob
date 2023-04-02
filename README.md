@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-2. 🎉 Merged PR [#14](https://github.com/mheob/mheob/pull/14) in [mheob/mheob](https://github.com/mheob/mheob)
-3. 🎉 Merged PR [#10](https://github.com/mheob/update-mac/pull/10) in [mheob/update-mac](https://github.com/mheob/update-mac)
-4. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-5. 🎉 Merged PR [#679](https://github.com/mheob/include-fussball-de-widgets/pull/679) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 💪 Opened PR [#17](https://github.com/mheob/use-correct-pm/pull/17) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+2. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+3. 🎉 Merged PR [#14](https://github.com/mheob/mheob/pull/14) in [mheob/mheob](https://github.com/mheob/mheob)
+4. 🎉 Merged PR [#10](https://github.com/mheob/update-mac/pull/10) in [mheob/update-mac](https://github.com/mheob/update-mac)
+5. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

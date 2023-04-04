@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#681](https://github.com/mheob/include-fussball-de-widgets/pull/681) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 💪 Opened PR [#17](https://github.com/mheob/use-correct-pm/pull/17) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 🎉 Merged PR [#14](https://github.com/mheob/mheob/pull/14) in [mheob/mheob](https://github.com/mheob/mheob)
-5. 🎉 Merged PR [#10](https://github.com/mheob/update-mac/pull/10) in [mheob/update-mac](https://github.com/mheob/update-mac)
+1. 💪 Opened PR [#16](https://github.com/mheob/used-pm/pull/16) in [mheob/used-pm](https://github.com/mheob/used-pm)
+2. 🎉 Merged PR [#681](https://github.com/mheob/include-fussball-de-widgets/pull/681) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 💪 Opened PR [#17](https://github.com/mheob/use-correct-pm/pull/17) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+4. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 🎉 Merged PR [#14](https://github.com/mheob/mheob/pull/14) in [mheob/mheob](https://github.com/mheob/mheob)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

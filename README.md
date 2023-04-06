@@ -1,10 +1,9 @@
 [![@mheob's Holopin board](https://holopin.me/mheob)](https://holopin.io/@mheob)
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> I'm Alex
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px" /> I'm Alex
 
-Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and
-[IT Service Böhm](https://www.its-boehm.de).\
-Currently I'm working on a project at [easyfeedback](https://easy-feedback.de/).
+Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
+Currently I'm working on a project at [empiriecom](https://empiriecom.com/).
 
 I try to make the internet a bit nicer and look for interesting (open source) projects.
 

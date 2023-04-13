@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/mheob/changeset-changelog/pull/26) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 💪 Opened PR [#26](https://github.com/mheob/changeset-changelog/pull/26) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 🗣 Commented on [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-4. 🎉 Merged PR [#682](https://github.com/mheob/include-fussball-de-widgets/pull/682) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#93](https://github.com/mheob/training-compensation/pull/93) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+1. 💪 Opened PR [#27](https://github.com/mheob/changeset-changelog/pull/27) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+2. 🎉 Merged PR [#26](https://github.com/mheob/changeset-changelog/pull/26) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. 💪 Opened PR [#26](https://github.com/mheob/changeset-changelog/pull/26) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+4. 🗣 Commented on [#19](https://github.com/mheob/changeset-changelog/issues/19) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+5. 🎉 Merged PR [#682](https://github.com/mheob/include-fussball-de-widgets/pull/682) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

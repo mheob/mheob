@@ -85,11 +85,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/labs42io/clean-code-typescript/issues/61) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
-2. 🎉 Merged PR [#520](https://github.com/mheob/itsb-web/pull/520) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#40](https://github.com/mheob/create-nextjs-components/pull/40) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-4. ❗️ Opened issue [#29](https://github.com/mheob/changeset-changelog/issues/29) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-5. 🎉 Merged PR [#684](https://github.com/mheob/include-fussball-de-widgets/pull/684) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#41](https://github.com/mheob/create-nextjs-components/pull/41) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+2. 🗣 Commented on [#61](https://github.com/labs42io/clean-code-typescript/issues/61) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+3. 🎉 Merged PR [#520](https://github.com/mheob/itsb-web/pull/520) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#40](https://github.com/mheob/create-nextjs-components/pull/40) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+5. ❗️ Opened issue [#29](https://github.com/mheob/changeset-changelog/issues/29) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

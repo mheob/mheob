@@ -8,12 +8,13 @@ jobs:
   devcard:
     name: Update Daily.dev-Card
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Update Daily.dev-Card
         uses: dailydotdev/action-devcard@2.2.0
         with:
-          devcard_id: ${{ secrets.DAILYDEV_CARD_ID }}
           token: ${{ secrets.GH_TOKEN }}
-          commit_branch: devcard
+          devcard_id: ${{ secrets.DAILYDEV_CARD_ID }}
           commit_message: "Update `${filename}`"

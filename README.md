@@ -19,7 +19,7 @@ I try to make the internet a bit nicer and look for interesting (open source) pr
   <img
     align="right"
     width="256"
-    src="https://raw.githubusercontent.com/mheob/mheob/devcard/devcard.svg"
+    src="https://raw.githubusercontent.com/mheob/mheob/main/devcard.svg"
     alt="Alexander Böhm's daily.dev Card"
   />
 </a>

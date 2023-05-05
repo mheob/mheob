@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/mheob/mheob/issues/12) in [mheob/mheob](https://github.com/mheob/mheob)
-2. 🗣 Commented on [#12](https://github.com/mheob/mheob/issues/12) in [mheob/mheob](https://github.com/mheob/mheob)
-3. 🎉 Merged PR [#687](https://github.com/mheob/include-fussball-de-widgets/pull/687) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#303](https://github.com/dailydotdev/action-devcard/pull/303) in [dailydotdev/action-devcard](https://github.com/dailydotdev/action-devcard)
-5. 🎉 Merged PR [#94](https://github.com/mheob/training-compensation/pull/94) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+1. 💪 Opened PR [#19](https://github.com/mheob/used-pm/pull/19) in [mheob/used-pm](https://github.com/mheob/used-pm)
+2. 🗣 Commented on [#17](https://github.com/mheob/used-pm/issues/17) in [mheob/used-pm](https://github.com/mheob/used-pm)
+3. 💪 Opened PR [#18](https://github.com/mheob/used-pm/pull/18) in [mheob/used-pm](https://github.com/mheob/used-pm)
+4. ❗️ Closed issue [#12](https://github.com/mheob/mheob/issues/12) in [mheob/mheob](https://github.com/mheob/mheob)
+5. 🗣 Commented on [#12](https://github.com/mheob/mheob/issues/12) in [mheob/mheob](https://github.com/mheob/mheob)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

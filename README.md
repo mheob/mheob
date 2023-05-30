@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/mheob/used-pm/pull/32) in [mheob/used-pm](https://github.com/mheob/used-pm)
-2. ❗️ Opened issue [#31](https://github.com/mheob/used-pm/issues/31) in [mheob/used-pm](https://github.com/mheob/used-pm)
-3. 💪 Opened PR [#30](https://github.com/mheob/used-pm/pull/30) in [mheob/used-pm](https://github.com/mheob/used-pm)
-4. 🗣 Commented on [#27](https://github.com/mheob/used-pm/issues/27) in [mheob/used-pm](https://github.com/mheob/used-pm)
-5. 🎉 Merged PR [#525](https://github.com/mheob/itsb-web/pull/525) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 💪 Opened PR [#33](https://github.com/mheob/used-pm/pull/33) in [mheob/used-pm](https://github.com/mheob/used-pm)
+2. 💪 Opened PR [#32](https://github.com/mheob/used-pm/pull/32) in [mheob/used-pm](https://github.com/mheob/used-pm)
+3. ❗️ Opened issue [#31](https://github.com/mheob/used-pm/issues/31) in [mheob/used-pm](https://github.com/mheob/used-pm)
+4. 💪 Opened PR [#30](https://github.com/mheob/used-pm/pull/30) in [mheob/used-pm](https://github.com/mheob/used-pm)
+5. 🗣 Commented on [#27](https://github.com/mheob/used-pm/issues/27) in [mheob/used-pm](https://github.com/mheob/used-pm)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

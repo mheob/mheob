@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/mheob/used-pm/pull/34) in [mheob/used-pm](https://github.com/mheob/used-pm)
-2. 💪 Opened PR [#33](https://github.com/mheob/used-pm/pull/33) in [mheob/used-pm](https://github.com/mheob/used-pm)
-3. 💪 Opened PR [#32](https://github.com/mheob/used-pm/pull/32) in [mheob/used-pm](https://github.com/mheob/used-pm)
-4. ❗ Opened issue [#31](https://github.com/mheob/used-pm/issues/31) in [mheob/used-pm](https://github.com/mheob/used-pm)
-5. 🚀 Published release [v1.0.3](https://github.com/v1.0.3) in [mheob/used-pm](https://github.com/mheob/used-pm)
+1. 🎉 Merged PR [#696](https://github.com/mheob/include-fussball-de-widgets/pull/696) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#696](https://github.com/mheob/include-fussball-de-widgets/pull/696) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#694](https://github.com/mheob/include-fussball-de-widgets/pull/694) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 💪 Opened PR [#34](https://github.com/mheob/used-pm/pull/34) in [mheob/used-pm](https://github.com/mheob/used-pm)
+5. 💪 Opened PR [#33](https://github.com/mheob/used-pm/pull/33) in [mheob/used-pm](https://github.com/mheob/used-pm)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

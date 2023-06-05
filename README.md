@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#126](https://github.com/mheob/config/issues/126) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#19](https://github.com/mheob/use-correct-pm/pull/19) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 💪 Opened PR [#18](https://github.com/mheob/use-correct-pm/pull/18) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 🎉 Merged PR [#697](https://github.com/mheob/include-fussball-de-widgets/pull/697) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#527](https://github.com/mheob/itsb-web/pull/527) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 💪 Opened PR [#128](https://github.com/mheob/config/pull/128) in [mheob/config](https://github.com/mheob/config)
+2. ❗ Opened issue [#126](https://github.com/mheob/config/issues/126) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#19](https://github.com/mheob/use-correct-pm/pull/19) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+4. 💪 Opened PR [#18](https://github.com/mheob/use-correct-pm/pull/18) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 🎉 Merged PR [#697](https://github.com/mheob/include-fussball-de-widgets/pull/697) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#698](https://github.com/mheob/include-fussball-de-widgets/pull/698) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 💪 Opened PR [#128](https://github.com/mheob/config/pull/128) in [mheob/config](https://github.com/mheob/config)
-3. ❗ Opened issue [#126](https://github.com/mheob/config/issues/126) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#19](https://github.com/mheob/use-correct-pm/pull/19) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. 💪 Opened PR [#18](https://github.com/mheob/use-correct-pm/pull/18) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+1. 🗣 Commented on [#10](https://github.com/go-task/go-npm/issues/10) in [go-task/go-npm](https://github.com/go-task/go-npm)
+2. 🎉 Merged PR [#698](https://github.com/mheob/include-fussball-de-widgets/pull/698) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 💪 Opened PR [#128](https://github.com/mheob/config/pull/128) in [mheob/config](https://github.com/mheob/config)
+4. ❗ Opened issue [#126](https://github.com/mheob/config/issues/126) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#19](https://github.com/mheob/use-correct-pm/pull/19) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

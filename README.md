@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/mheob/greenvinyl-vue/pull/148) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-2. 🗣 Commented on [#10](https://github.com/go-task/go-npm/issues/10) in [go-task/go-npm](https://github.com/go-task/go-npm)
-3. 🎉 Merged PR [#698](https://github.com/mheob/include-fussball-de-widgets/pull/698) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#128](https://github.com/mheob/config/pull/128) in [mheob/config](https://github.com/mheob/config)
-5. ❗ Opened issue [#126](https://github.com/mheob/config/issues/126) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#151](https://github.com/mheob/greenvinyl-vue/pull/151) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+2. 🎉 Merged PR [#149](https://github.com/mheob/greenvinyl-vue/pull/149) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+3. 🎉 Merged PR [#148](https://github.com/mheob/greenvinyl-vue/pull/148) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+4. 🗣 Commented on [#10](https://github.com/go-task/go-npm/issues/10) in [go-task/go-npm](https://github.com/go-task/go-npm)
+5. 🎉 Merged PR [#698](https://github.com/mheob/include-fussball-de-widgets/pull/698) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

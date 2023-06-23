@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/mheob/greenvinyl-vue/pull/150) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-2. 🎉 Merged PR [#151](https://github.com/mheob/greenvinyl-vue/pull/151) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-3. 🎉 Merged PR [#149](https://github.com/mheob/greenvinyl-vue/pull/149) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-4. 🎉 Merged PR [#148](https://github.com/mheob/greenvinyl-vue/pull/148) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-5. 🗣 Commented on [#10](https://github.com/go-task/go-npm/issues/10) in [go-task/go-npm](https://github.com/go-task/go-npm)
+1. 🎉 Merged PR [#153](https://github.com/mheob/greenvinyl-vue/pull/153) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+2. 🎉 Merged PR [#154](https://github.com/mheob/greenvinyl-vue/pull/154) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+3. 🎉 Merged PR [#150](https://github.com/mheob/greenvinyl-vue/pull/150) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+4. 🎉 Merged PR [#151](https://github.com/mheob/greenvinyl-vue/pull/151) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+5. 🎉 Merged PR [#149](https://github.com/mheob/greenvinyl-vue/pull/149) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

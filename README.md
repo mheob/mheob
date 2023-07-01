@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/mheob/greenvinyl-vue/pull/158) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-2. 🎉 Merged PR [#44](https://github.com/mheob/create-nextjs-components/pull/44) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-3. 💪 Opened PR [#65](https://github.com/labs42io/clean-code-typescript/pull/65) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
-4. 🎉 Merged PR [#157](https://github.com/mheob/greenvinyl-vue/pull/157) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-5. 🎉 Merged PR [#156](https://github.com/mheob/greenvinyl-vue/pull/156) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. 🎉 Merged PR [#158](https://github.com/mheob/greenvinyl-vue/pull/158) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+3. 🎉 Merged PR [#44](https://github.com/mheob/create-nextjs-components/pull/44) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+4. 💪 Opened PR [#65](https://github.com/labs42io/clean-code-typescript/pull/65) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+5. 🎉 Merged PR [#157](https://github.com/mheob/greenvinyl-vue/pull/157) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

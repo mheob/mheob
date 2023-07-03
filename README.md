@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-2. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-3. 🎉 Merged PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#129](https://github.com/mheob/config/pull/129) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#5](https://github.com/Devographics/locale-de-DE/pull/5) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+2. ❌ Closed PR [#1](https://github.com/mheob/state-of-js---locale-de-DE/pull/1) in [mheob/state-of-js---locale-de-DE](https://github.com/mheob/state-of-js---locale-de-DE)
+3. 💪 Opened PR [#1](https://github.com/mheob/state-of-js---locale-de-DE/pull/1) in [mheob/state-of-js---locale-de-DE](https://github.com/mheob/state-of-js---locale-de-DE)
+4. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+5. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

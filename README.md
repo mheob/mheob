@@ -87,10 +87,10 @@ let mheob: FullStackEngineer = {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-2. 🎉 Merged PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#129](https://github.com/mheob/config/pull/129) in [mheob/config](https://github.com/mheob/config)
-5. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+2. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+3. 🎉 Merged PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#131](https://github.com/mheob/config/pull/131) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#129](https://github.com/mheob/config/pull/129) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

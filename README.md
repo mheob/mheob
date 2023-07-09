@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/mheob/config/pull/133) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#4](https://github.com/Devographics/locale-de-DE/pull/4) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-3. 🎉 Merged PR [#3](https://github.com/Devographics/locale-de-DE/pull/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-4. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-5. 🗣 Commented on [#5](https://github.com/Devographics/locale-de-DE/issues/5) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+1. 💪 Opened PR [#134](https://github.com/mheob/config/pull/134) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#133](https://github.com/mheob/config/pull/133) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#4](https://github.com/Devographics/locale-de-DE/pull/4) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+4. 🎉 Merged PR [#3](https://github.com/Devographics/locale-de-DE/pull/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+5. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

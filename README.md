@@ -35,7 +35,7 @@ let mheob: FullStackEngineer = {
       css: ['Tailwind', 'Emotion', 'Chakra', 'Mantine'],
     },
     backEnd: {
-      cms: ['Contentful', 'Strapi', 'WordPress'],
+      cms: ['Sanity', 'Strapi', 'WordPress'],
       js: ['Node', 'Express'],
       other: ['Go', 'PHP'],
     },

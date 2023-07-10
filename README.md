@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/mheob/config/pull/134) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#133](https://github.com/mheob/config/pull/133) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#4](https://github.com/Devographics/locale-de-DE/pull/4) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-4. 🎉 Merged PR [#3](https://github.com/Devographics/locale-de-DE/pull/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-5. 🗣 Commented on [#3](https://github.com/Devographics/locale-de-DE/issues/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+1. 🎉 Merged PR [#159](https://github.com/mheob/greenvinyl-vue/pull/159) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+2. 💪 Opened PR [#134](https://github.com/mheob/config/pull/134) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#133](https://github.com/mheob/config/pull/133) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#4](https://github.com/Devographics/locale-de-DE/pull/4) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+5. 🎉 Merged PR [#3](https://github.com/Devographics/locale-de-DE/pull/3) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

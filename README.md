@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/mheob/greenvinyl-vue/pull/160) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-2. 🎉 Merged PR [#45](https://github.com/mheob/create-nextjs-components/pull/45) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-3. 💪 Opened PR [#135](https://github.com/mheob/config/pull/135) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#95](https://github.com/mheob/training-compensation/pull/95) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
-5. 🎉 Merged PR [#159](https://github.com/mheob/greenvinyl-vue/pull/159) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 🎉 Merged PR [#529](https://github.com/mheob/itsb-web/pull/529) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#528](https://github.com/mheob/itsb-web/pull/528) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#160](https://github.com/mheob/greenvinyl-vue/pull/160) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+4. 🎉 Merged PR [#45](https://github.com/mheob/create-nextjs-components/pull/45) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+5. 💪 Opened PR [#135](https://github.com/mheob/config/pull/135) in [mheob/config](https://github.com/mheob/config)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

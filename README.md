@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/mheob/create-nextjs-components/pull/49) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-2. 🎉 Merged PR [#532](https://github.com/mheob/itsb-web/pull/532) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🚀 Published release [v2.1.0](https://github.com/mheob/vscode-snippets/releases/tag/v2.1.0) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-4. 🎉 Merged PR [#104](https://github.com/mheob/vscode-snippets/pull/104) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. 💪 Opened PR [#104](https://github.com/mheob/vscode-snippets/pull/104) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. 💪 Opened PR [#138](https://github.com/mheob/config/pull/138) in [mheob/config](https://github.com/mheob/config)
+2. 🎉 Merged PR [#49](https://github.com/mheob/create-nextjs-components/pull/49) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
+3. 🎉 Merged PR [#532](https://github.com/mheob/itsb-web/pull/532) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🚀 Published release [v2.1.0](https://github.com/mheob/vscode-snippets/releases/tag/v2.1.0) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+5. 🎉 Merged PR [#104](https://github.com/mheob/vscode-snippets/pull/104) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

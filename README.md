@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/mheob/used-pm/pull/38) in [mheob/used-pm](https://github.com/mheob/used-pm)
-2. 🎉 Merged PR [#533](https://github.com/mheob/itsb-web/pull/533) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 💪 Opened PR [#138](https://github.com/mheob/config/pull/138) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#49](https://github.com/mheob/create-nextjs-components/pull/49) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
-5. 🎉 Merged PR [#532](https://github.com/mheob/itsb-web/pull/532) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#702](https://github.com/mheob/include-fussball-de-widgets/pull/702) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#38](https://github.com/mheob/used-pm/pull/38) in [mheob/used-pm](https://github.com/mheob/used-pm)
+3. 🎉 Merged PR [#533](https://github.com/mheob/itsb-web/pull/533) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 💪 Opened PR [#138](https://github.com/mheob/config/pull/138) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#49](https://github.com/mheob/create-nextjs-components/pull/49) in [mheob/create-nextjs-components](https://github.com/mheob/create-nextjs-components)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

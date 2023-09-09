@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/kencrocken/FiraCodeiScript/issues/4#issuecomment-1712444119) in [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript)
-2. 🎉 Merged PR [#11](https://github.com/mheob/update-mac/pull/11) in [mheob/update-mac](https://github.com/mheob/update-mac)
-3. 🎉 Merged PR [#97](https://github.com/mheob/training-compensation/pull/97) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
-4. 🎉 Merged PR [#15](https://github.com/mheob/mheob/pull/15) in [mheob/mheob](https://github.com/mheob/mheob)
-5. 🎉 Merged PR [#702](https://github.com/mheob/include-fussball-de-widgets/pull/702) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#540](https://github.com/mheob/itsb-web/pull/540) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🗣 Commented on [#4](https://github.com/kencrocken/FiraCodeiScript/issues/4#issuecomment-1712444119) in [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript)
+3. 🎉 Merged PR [#11](https://github.com/mheob/update-mac/pull/11) in [mheob/update-mac](https://github.com/mheob/update-mac)
+4. 🎉 Merged PR [#97](https://github.com/mheob/training-compensation/pull/97) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
+5. 🎉 Merged PR [#15](https://github.com/mheob/mheob/pull/15) in [mheob/mheob](https://github.com/mheob/mheob)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

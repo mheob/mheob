@@ -18,3 +18,5 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           devcard_id: ${{ secrets.DAILYDEV_CARD_ID }}
           commit_message: "Update `${filename}`"
+          committer_email: "tools@boehm.work"
+          committer_name: "Alex Böhm"

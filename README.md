@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#543](https://github.com/mheob/itsb-web/pull/543) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#163](https://github.com/mheob/greenvinyl-vue/pull/163) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-3. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3#issuecomment-1763301072) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 🎉 Merged PR [#715](https://github.com/mheob/include-fussball-de-widgets/pull/715) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#16](https://github.com/mheob/mheob/pull/16) in [mheob/mheob](https://github.com/mheob/mheob)
+1. 🎉 Merged PR [#544](https://github.com/mheob/itsb-web/pull/544) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#543](https://github.com/mheob/itsb-web/pull/543) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#163](https://github.com/mheob/greenvinyl-vue/pull/163) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+4. 🗣 Commented on [#3](https://github.com/mheob/create-react-tsx-component/issues/3#issuecomment-1763301072) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 🎉 Merged PR [#715](https://github.com/mheob/include-fussball-de-widgets/pull/715) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

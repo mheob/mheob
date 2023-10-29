@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/mheob/config/pull/145) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#43](https://github.com/mheob/ef-calc/pull/43#issuecomment-1782748764) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-3. 🗣 Commented on [#45](https://github.com/mheob/changeset-changelog/pull/45#issuecomment-1774598079) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-4. 🎉 Merged PR [#98](https://github.com/mheob/training-compensation/pull/98) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
-5. 🎉 Merged PR [#716](https://github.com/mheob/include-fussball-de-widgets/pull/716) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#3](https://github.com/mheob/hsv-neuwied/pull/3) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
+2. 💪 Opened PR [#145](https://github.com/mheob/config/pull/145) in [mheob/config](https://github.com/mheob/config)
+3. 🗣 Commented on [#43](https://github.com/mheob/ef-calc/pull/43#issuecomment-1782748764) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+4. 🗣 Commented on [#45](https://github.com/mheob/changeset-changelog/pull/45#issuecomment-1774598079) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+5. 🎉 Merged PR [#98](https://github.com/mheob/training-compensation/pull/98) in [mheob/training-compensation](https://github.com/mheob/training-compensation)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

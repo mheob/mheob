@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 🚀 Recent GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/mheob/use-correct-pm/releases/tag/v1.2.0) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-2. 💪 Opened PR [#25](https://github.com/mheob/use-correct-pm/pull/25) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 💪 Opened PR [#24](https://github.com/mheob/use-correct-pm/pull/24) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 🎉 Merged PR [#3](https://github.com/mheob/hsv-neuwied/pull/3) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
-5. 💪 Opened PR [#145](https://github.com/mheob/config/pull/145) in [mheob/config](https://github.com/mheob/config)
+1. 🚀 Published release [v1.1.0](https://github.com/mheob/used-pm/releases/tag/v1.1.0) in [mheob/used-pm](https://github.com/mheob/used-pm)
+2. 💪 Opened PR [#45](https://github.com/mheob/used-pm/pull/45) in [mheob/used-pm](https://github.com/mheob/used-pm)
+3. 🚀 Published release [v1.2.0](https://github.com/mheob/use-correct-pm/releases/tag/v1.2.0) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+4. 💪 Opened PR [#25](https://github.com/mheob/use-correct-pm/pull/25) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 💪 Opened PR [#24](https://github.com/mheob/use-correct-pm/pull/24) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats

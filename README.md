@@ -82,27 +82,32 @@ let mheob: FullStackEngineer = {
 [![PayPal donate button](https://img.shields.io/badge/PayPal-00457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F.svg?style=for-the-badge&logo=Buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)
 
-## 🚀 Recent GitHub Activities
+## 📈 GitHub Stats and Activities
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#717](https://github.com/mheob/include-fussball-de-widgets/pull/717) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🚀 Published release [v1.1.0](https://github.com/mheob/used-pm/releases/tag/v1.1.0) in [mheob/used-pm](https://github.com/mheob/used-pm)
-3. 💪 Opened PR [#45](https://github.com/mheob/used-pm/pull/45) in [mheob/used-pm](https://github.com/mheob/used-pm)
-4. 🚀 Published release [v1.2.0](https://github.com/mheob/use-correct-pm/releases/tag/v1.2.0) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. 💪 Opened PR [#25](https://github.com/mheob/use-correct-pm/pull/25) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-<!--END_SECTION:activity-->
+<details>
+  <summary>View my last Recent GitHub Activities</summary>
 
-## 📈 GitHub Stats
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#717](https://github.com/mheob/include-fussball-de-widgets/pull/717) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+  2. 🚀 Published release [v1.1.0](https://github.com/mheob/used-pm/releases/tag/v1.1.0) in [mheob/used-pm](https://github.com/mheob/used-pm)
+  3. 💪 Opened PR [#45](https://github.com/mheob/used-pm/pull/45) in [mheob/used-pm](https://github.com/mheob/used-pm)
+  4. 🚀 Published release [v1.2.0](https://github.com/mheob/use-correct-pm/releases/tag/v1.2.0) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+  5. 💪 Opened PR [#25](https://github.com/mheob/use-correct-pm/pull/25) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+  <!--END_SECTION:activity-->
+</details>
 
-<!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->
-
-<!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=5&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
-
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
-
-[![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)](https://github.com/mheob)
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)](https://github.com/mheob)
+<details>
+  <summary>View my last GitHub stats</summary>
+  <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
+  
+  <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->
+  
+  <!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
+  
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=5&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
+  
+  [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
+  
+  [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)](https://github.com/mheob)
+  [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)](https://github.com/mheob)
+</details>

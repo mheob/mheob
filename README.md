@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px" /> I'm Alex
 
-Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).\
+Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).
 
 I try to make the internet a bit nicer and look for interesting (open source) projects.
 

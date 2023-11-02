@@ -87,6 +87,8 @@ let mheob: FullStackEngineer = {
 <details>
   <summary>View my last Recent GitHub Activities</summary>
 
+  &nbsp;
+
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#17](https://github.com/mheob/mheob/pull/17) in [mheob/mheob](https://github.com/mheob/mheob)
 2. 🎉 Merged PR [#717](https://github.com/mheob/include-fussball-de-widgets/pull/717) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
@@ -98,13 +100,16 @@ let mheob: FullStackEngineer = {
 
 <details>
   <summary>View my last GitHub stats</summary>
+
+  &nbsp;
+    
   <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
   
   <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->
   
   <!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
   
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=5&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=6&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
   
   [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
   

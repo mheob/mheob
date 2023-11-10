@@ -90,11 +90,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/githubnext/monaspace/pull/33) in [githubnext/monaspace](https://github.com/githubnext/monaspace)
-2. 💪 Opened PR [#151](https://github.com/mheob/config/pull/151) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#150](https://github.com/mheob/config/pull/150) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#149](https://github.com/mheob/config/pull/149) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#147](https://github.com/mheob/config/pull/147) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#33](https://github.com/githubnext/monaspace/pull/33#issuecomment-1805445889) in [githubnext/monaspace](https://github.com/githubnext/monaspace)
+2. 💪 Opened PR [#33](https://github.com/githubnext/monaspace/pull/33) in [githubnext/monaspace](https://github.com/githubnext/monaspace)
+3. 💪 Opened PR [#151](https://github.com/mheob/config/pull/151) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#150](https://github.com/mheob/config/pull/150) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#149](https://github.com/mheob/config/pull/149) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

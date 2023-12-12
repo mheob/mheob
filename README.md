@@ -90,9 +90,9 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#921](https://github.com/wallabyjs/quokka/issues/921) in [wallabyjs/quokka](https://github.com/wallabyjs/quokka)
-2. 🎉 Merged PR [#546](https://github.com/mheob/itsb-web/pull/546) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#545](https://github.com/mheob/itsb-web/pull/545) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#12](https://github.com/mheob/update-mac/pull/12) in [mheob/update-mac](https://github.com/mheob/update-mac)
+2. ❗ Opened issue [#921](https://github.com/wallabyjs/quokka/issues/921) in [wallabyjs/quokka](https://github.com/wallabyjs/quokka)
+3. 🎉 Merged PR [#546](https://github.com/mheob/itsb-web/pull/546) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
 4. 🗣 Commented on [#33](https://github.com/githubnext/monaspace/pull/33#issuecomment-1805445889) in [githubnext/monaspace](https://github.com/githubnext/monaspace)
 5. 💪 Opened PR [#33](https://github.com/githubnext/monaspace/pull/33) in [githubnext/monaspace](https://github.com/githubnext/monaspace)
   <!--END_SECTION:activity-->

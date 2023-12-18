@@ -90,11 +90,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
-2. 🎉 Merged PR [#549](https://github.com/mheob/itsb-web/pull/549) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4#issuecomment-1857582588) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
-4. 🎉 Merged PR [#12](https://github.com/mheob/update-mac/pull/12) in [mheob/update-mac](https://github.com/mheob/update-mac)
-5. ❗ Opened issue [#921](https://github.com/wallabyjs/quokka/issues/921) in [wallabyjs/quokka](https://github.com/wallabyjs/quokka)
+1. 🗣 Commented on [#718](https://github.com/mheob/include-fussball-de-widgets/pull/718#issuecomment-1859633158) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
+3. 🎉 Merged PR [#549](https://github.com/mheob/itsb-web/pull/549) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🗣 Commented on [#4](https://github.com/mheob/create-react-tsx-component/issues/4#issuecomment-1857582588) in [mheob/create-react-tsx-component](https://github.com/mheob/create-react-tsx-component)
+5. 🎉 Merged PR [#12](https://github.com/mheob/update-mac/pull/12) in [mheob/update-mac](https://github.com/mheob/update-mac)
   <!--END_SECTION:activity-->
 </details>
 

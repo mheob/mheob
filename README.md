@@ -90,11 +90,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2156](https://github.com/shadcn-ui/ui/pull/2156#issuecomment-1868316792) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🎉 Merged PR [#13](https://github.com/mheob/update-mac/pull/13) in [mheob/update-mac](https://github.com/mheob/update-mac)
-3. 🎉 Merged PR [#718](https://github.com/mheob/include-fussball-de-widgets/pull/718) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 🗣 Commented on [#718](https://github.com/mheob/include-fussball-de-widgets/pull/718#issuecomment-1859633158) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 💪 Opened PR [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
+1. 🎉 Merged PR [#157](https://github.com/mheob/config/pull/157) in [mheob/config](https://github.com/mheob/config)
+2. 🗣 Commented on [#2156](https://github.com/shadcn-ui/ui/pull/2156#issuecomment-1868316792) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. 🎉 Merged PR [#13](https://github.com/mheob/update-mac/pull/13) in [mheob/update-mac](https://github.com/mheob/update-mac)
+4. 🎉 Merged PR [#718](https://github.com/mheob/include-fussball-de-widgets/pull/718) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🗣 Commented on [#718](https://github.com/mheob/include-fussball-de-widgets/pull/718#issuecomment-1859633158) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
   <!--END_SECTION:activity-->
 </details>
 

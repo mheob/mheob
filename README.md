@@ -90,11 +90,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#553](https://github.com/mheob/itsb-web/pull/553) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#552](https://github.com/mheob/itsb-web/pull/552) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#56](https://github.com/mheob/changeset-changelog/pull/56) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-4. 🗣 Commented on [#720](https://github.com/mheob/include-fussball-de-widgets/issues/720#issuecomment-1914096713) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🗣 Commented on [#720](https://github.com/mheob/include-fussball-de-widgets/issues/720#issuecomment-1913013266) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 💪 Opened PR [#165](https://github.com/mheob/config/pull/165) in [mheob/config](https://github.com/mheob/config)
+2. 🎉 Merged PR [#553](https://github.com/mheob/itsb-web/pull/553) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#552](https://github.com/mheob/itsb-web/pull/552) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#56](https://github.com/mheob/changeset-changelog/pull/56) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+5. 🗣 Commented on [#720](https://github.com/mheob/include-fussball-de-widgets/issues/720#issuecomment-1914096713) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
   <!--END_SECTION:activity-->
 </details>
 

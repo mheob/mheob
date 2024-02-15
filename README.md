@@ -18,7 +18,7 @@ I try to make the internet a bit nicer and look for interesting (open source) pr
   <img
     align="right"
     width="256"
-    src="https://raw.githubusercontent.com/mheob/mheob/main/devcard.svg"
+    src="https://raw.githubusercontent.com/mheob/mheob/main/devcard.png"
     alt="Alexander Böhm's daily.dev Card"
   />
 </a>
@@ -57,7 +57,7 @@ let mheob: FullStackEngineer = {
 [![React](https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Contentful](https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)](https://www.contentful.com/)
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://wordpress.org/)
+[![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://wordpress.org/)
 \
 [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)](https://styled-components.com/)
 [![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)](https://chakra-ui.com/)
@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/mheob/mheob/pull/18) in [mheob/mheob](https://github.com/mheob/mheob)
-2. 🎉 Merged PR [#27](https://github.com/mheob/use-correct-pm/pull/27) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 💪 Opened PR [#165](https://github.com/mheob/config/pull/165) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#553](https://github.com/mheob/itsb-web/pull/553) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#552](https://github.com/mheob/itsb-web/pull/552) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+  1. 🎉 Merged PR [#18](https://github.com/mheob/mheob/pull/18) in [mheob/mheob](https://github.com/mheob/mheob)
+  2. 🎉 Merged PR [#27](https://github.com/mheob/use-correct-pm/pull/27) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+  3. 💪 Opened PR [#165](https://github.com/mheob/config/pull/165) in [mheob/config](https://github.com/mheob/config)
+  4. 🎉 Merged PR [#553](https://github.com/mheob/itsb-web/pull/553) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+  5. 🎉 Merged PR [#552](https://github.com/mheob/itsb-web/pull/552) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 
@@ -103,17 +103,17 @@ let mheob: FullStackEngineer = {
   <summary>View my last GitHub stats</summary>
 
   &nbsp;
-    
+
   <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
-  
+
   <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mheob&theme=github_dark&show_icons=true&line_height=24&count_private=true)](https://github.com/mheob) -->
-  
+
   <!-- [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mheob&theme=github_dark&layout=compact&langs_count=6&hide=Inno%20Setup,C%23,Java)](https://github.com/mheob) -->
-  
+
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mheob&theme=darkhub&column=6&margin-w=16&margin-h=16&no-bg=true)](https://github.com/mheob)
-  
+
   [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mheob&theme=dracula)](https://github.com/mheob)
-  
+
   [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mheob&theme=dracula)](https://github.com/mheob)
   [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mheob&theme=dracula)](https://github.com/mheob)
 </details>

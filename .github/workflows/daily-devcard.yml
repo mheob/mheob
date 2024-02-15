@@ -16,7 +16,7 @@ jobs:
         uses: dailydotdev/action-devcard@3.0.0
         with:
           token: ${{ secrets.GH_TOKEN }}
-          devcard_id: ${{ secrets.DAILYDEV_CARD_ID }}
+          user_id: ${{ secrets.DAILYDEV_USER_ID }}
           commit_message: "Update `${filename}`"
           committer_email: "tools@boehm.work"
           committer_name: "Alex Böhm"

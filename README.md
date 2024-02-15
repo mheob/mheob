@@ -30,8 +30,8 @@ let mheob: FullStackEngineer = {
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
-      js: ['React', 'Preact', 'NextJS', 'Astro', 'SvelteKit'],
-      css: ['Tailwind', 'Emotion', 'Chakra', 'Mantine'],
+      js: ['React', 'NextJS', 'Astro', 'SvelteKit'],
+      css: ['Tailwind', 'Shadcn/ui', 'Chakra', 'Mantine'],
     },
     backEnd: {
       cms: ['Sanity', 'Strapi', 'WordPress'],
@@ -42,7 +42,7 @@ let mheob: FullStackEngineer = {
     misc: ['GraphQL', 'REST'],
     mobileApp: ['React Native'],
   },
-  currentFocus: ['NextJS', 'SvelteKit', 'Flutter', 'Go'],
+  currentFocus: ['NextJS', 'SvelteKit', 'Astro', 'Go'],
 };
 ```
 

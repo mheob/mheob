@@ -79,6 +79,7 @@ let mheob: FullStackEngineer = {
 ## ☕️ Help to support me and my open source projects
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-100000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sponsors/mheob)
+[![Ko-fi](https://img.shields.io/badge/ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mheob)
 [![PayPal donate button](https://img.shields.io/badge/PayPal-00457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F.svg?style=for-the-badge&logo=Buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)
 

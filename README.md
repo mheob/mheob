@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/mheob/vscode-snippets/pull/111) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-2. 🎉 Merged PR [#19](https://github.com/mheob/mheob/pull/19) in [mheob/mheob](https://github.com/mheob/mheob)
-3. 🎉 Merged PR [#166](https://github.com/mheob/greenvinyl-vue/pull/166) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-4. 🎉 Merged PR [#558](https://github.com/mheob/itsb-web/pull/558) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#721](https://github.com/mheob/include-fussball-de-widgets/pull/721) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#560](https://github.com/mheob/itsb-web/pull/560) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#111](https://github.com/mheob/vscode-snippets/pull/111) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. 🎉 Merged PR [#19](https://github.com/mheob/mheob/pull/19) in [mheob/mheob](https://github.com/mheob/mheob)
+4. 🎉 Merged PR [#166](https://github.com/mheob/greenvinyl-vue/pull/166) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+5. 🎉 Merged PR [#558](https://github.com/mheob/itsb-web/pull/558) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#722](https://github.com/mheob/include-fussball-de-widgets/pull/722) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#560](https://github.com/mheob/itsb-web/pull/560) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#111](https://github.com/mheob/vscode-snippets/pull/111) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-4. 🎉 Merged PR [#19](https://github.com/mheob/mheob/pull/19) in [mheob/mheob](https://github.com/mheob/mheob)
-5. 🎉 Merged PR [#166](https://github.com/mheob/greenvinyl-vue/pull/166) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 🗣 Commented on [#56](https://github.com/mheob/used-pm/issues/56#issuecomment-1962824884) in [mheob/used-pm](https://github.com/mheob/used-pm)
+2. 🚀 Published release [v1.1.1](https://github.com/mheob/used-pm/releases/tag/v1.1.1) in [mheob/used-pm](https://github.com/mheob/used-pm)
+3. 🚀 Published release [v1.1.1](https://github.com/mheob/used-pm/releases/tag/v1.1.1) in [mheob/used-pm](https://github.com/mheob/used-pm)
+4. 💪 Opened PR [#57](https://github.com/mheob/used-pm/pull/57) in [mheob/used-pm](https://github.com/mheob/used-pm)
+5. 🗣 Commented on [#56](https://github.com/mheob/used-pm/issues/56#issuecomment-1962823011) in [mheob/used-pm](https://github.com/mheob/used-pm)
   <!--END_SECTION:activity-->
 </details>
 

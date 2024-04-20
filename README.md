@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#572](https://github.com/mheob/itsb-web/pull/572#issuecomment-2067547306) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🗣 Commented on [#167](https://github.com/mheob/config/pull/167#issuecomment-2063223745) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#2](https://github.com/mheob/learning-nextjs-dashboard/pull/2) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
-4. 🎉 Merged PR [#569](https://github.com/mheob/itsb-web/pull/569) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#170](https://github.com/mheob/greenvinyl-vue/pull/170) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 🎉 Merged PR [#572](https://github.com/mheob/itsb-web/pull/572) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🗣 Commented on [#572](https://github.com/mheob/itsb-web/pull/572#issuecomment-2067547306) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🗣 Commented on [#167](https://github.com/mheob/config/pull/167#issuecomment-2063223745) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#2](https://github.com/mheob/learning-nextjs-dashboard/pull/2) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
+5. 🎉 Merged PR [#569](https://github.com/mheob/itsb-web/pull/569) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/mheob/config/pull/176) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#62](https://github.com/mheob/used-pm/pull/62#issuecomment-2094033260) in [mheob/used-pm](https://github.com/mheob/used-pm)
-3. 🎉 Merged PR [#29](https://github.com/mheob/use-correct-pm/pull/29) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 🗣 Commented on [#53](https://github.com/mheob/ef-calc/pull/53#issuecomment-2068515322) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-5. 🎉 Merged PR [#572](https://github.com/mheob/itsb-web/pull/572) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#176](https://github.com/mheob/config/pull/176) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#176](https://github.com/mheob/config/pull/176) in [mheob/config](https://github.com/mheob/config)
+3. 🗣 Commented on [#62](https://github.com/mheob/used-pm/pull/62#issuecomment-2094033260) in [mheob/used-pm](https://github.com/mheob/used-pm)
+4. 🎉 Merged PR [#29](https://github.com/mheob/use-correct-pm/pull/29) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 🗣 Commented on [#53](https://github.com/mheob/ef-calc/pull/53#issuecomment-2068515322) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
   <!--END_SECTION:activity-->
 </details>
 

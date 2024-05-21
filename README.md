@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#30](https://github.com/mheob/use-correct-pm/pull/30) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-3. 🎉 Merged PR [#32](https://github.com/mheob/use-correct-pm/pull/32) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-4. 🎉 Merged PR [#726](https://github.com/mheob/include-fussball-de-widgets/pull/726) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🎉 Merged PR [#5](https://github.com/mheob/hsv-neuwied/pull/5) in [mheob/hsv-neuwied](https://github.com/mheob/hsv-neuwied)
+1. 🎉 Merged PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#33](https://github.com/mheob/use-correct-pm/pull/33) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+3. 💪 Opened PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#30](https://github.com/mheob/use-correct-pm/pull/30) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. 🎉 Merged PR [#32](https://github.com/mheob/use-correct-pm/pull/32) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
   <!--END_SECTION:activity-->
 </details>
 

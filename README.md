@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/sanity-io/eslint-config-studio/issues/39) in [sanity-io/eslint-config-studio](https://github.com/sanity-io/eslint-config-studio)
-2. 💪 Opened PR [#178](https://github.com/mheob/config/pull/178) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#33](https://github.com/mheob/use-correct-pm/pull/33) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-5. 💪 Opened PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#179](https://github.com/mheob/config/pull/179) in [mheob/config](https://github.com/mheob/config)
+2. ❗ Opened issue [#39](https://github.com/sanity-io/eslint-config-studio/issues/39) in [sanity-io/eslint-config-studio](https://github.com/sanity-io/eslint-config-studio)
+3. 💪 Opened PR [#178](https://github.com/mheob/config/pull/178) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#177](https://github.com/mheob/config/pull/177) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#33](https://github.com/mheob/use-correct-pm/pull/33) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
   <!--END_SECTION:activity-->
 </details>
 

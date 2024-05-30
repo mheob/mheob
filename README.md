@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/mheob/config/pull/182) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#181](https://github.com/mheob/config/pull/181) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#179](https://github.com/mheob/config/pull/179) in [mheob/config](https://github.com/mheob/config)
-4. ❗ Opened issue [#39](https://github.com/sanity-io/eslint-config-studio/issues/39) in [sanity-io/eslint-config-studio](https://github.com/sanity-io/eslint-config-studio)
-5. 💪 Opened PR [#178](https://github.com/mheob/config/pull/178) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#3](https://github.com/tsg-irlich/website/pull/3) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+2. 💪 Opened PR [#3](https://github.com/tsg-irlich/website/pull/3) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
+3. 💪 Opened PR [#182](https://github.com/mheob/config/pull/182) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#181](https://github.com/mheob/config/pull/181) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#179](https://github.com/mheob/config/pull/179) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

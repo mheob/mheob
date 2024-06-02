@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mheob/tsg-irlich-web/pull/3) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#2](https://github.com/mheob/tsg-irlich-web/pull/2) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#2](https://github.com/mheob/tsg-irlich-web/pull/2) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#4](https://github.com/tsg-irlich/website/pull/4) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
-5. 💪 Opened PR [#184](https://github.com/mheob/config/pull/184) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#3](https://github.com/mheob/tsg-irlich-web/pull/3) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#3](https://github.com/mheob/tsg-irlich-web/pull/3) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#2](https://github.com/mheob/tsg-irlich-web/pull/2) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#2](https://github.com/mheob/tsg-irlich-web/pull/2) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#4](https://github.com/tsg-irlich/website/pull/4) in [tsg-irlich/website](https://github.com/tsg-irlich/website)
   <!--END_SECTION:activity-->
 </details>
 

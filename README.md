@@ -91,11 +91,11 @@ let mheob: FullStackEngineer = {
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/mheob/tsg-irlich-web/issues/26) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#3](https://github.com/mheob/learning-nextjs-dashboard/pull/3) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
-3. ❗ Opened issue [#25](https://github.com/mheob/tsg-irlich-web/issues/25) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#24](https://github.com/mheob/tsg-irlich-web/issues/24) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#23](https://github.com/mheob/tsg-irlich-web/issues/23) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#12](https://github.com/mheob/tsg-irlich-web/issues/12) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#27](https://github.com/mheob/tsg-irlich-web/pull/27) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#26](https://github.com/mheob/tsg-irlich-web/issues/26) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#3](https://github.com/mheob/learning-nextjs-dashboard/pull/3) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
+5. ❗ Opened issue [#25](https://github.com/mheob/tsg-irlich-web/issues/25) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

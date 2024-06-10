@@ -2,7 +2,8 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px" /> I'm Alex
 
-Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and [IT Service Böhm](https://www.its-boehm.de).
+Full Stack Engineer at [AWESOME! Software 🚀](https://awesome-software.de/) and
+[IT Service Böhm](https://www.its-boehm.de).
 
 I try to make the internet a bit nicer and look for interesting (open source) projects.
 
@@ -83,7 +84,10 @@ let mheob: FullStackEngineer = {
 [![PayPal donate button](https://img.shields.io/badge/PayPal-00457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white)](https://www.paypal.me/mheob)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F.svg?style=for-the-badge&logo=Buy%20me%20a%20coffee&logoColor=white)](https://www.buymeacoffee.com/mheob)
 
-## 📈 GitHub Stats and Activities
+## 📈 Stats and Activities
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>View my last Recent GitHub Activities</summary>

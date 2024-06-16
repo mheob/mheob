@@ -108,11 +108,11 @@ YAML         57 mins         -------------------------   01.37 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/nrwl/ci/pull/103) in [nrwl/ci](https://github.com/nrwl/ci)
-2. ❗ Opened issue [#35](https://github.com/mheob/tsg-irlich-web/issues/35) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#34](https://github.com/mheob/tsg-irlich-web/pull/34) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
-5. 🗣 Commented on [#45](https://github.com/sanity-io/assist/issues/45#issuecomment-2156512705) in [sanity-io/assist](https://github.com/sanity-io/assist)
+1. 💪 Opened PR [#36](https://github.com/mheob/tsg-irlich-web/pull/36) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#103](https://github.com/nrwl/ci/pull/103) in [nrwl/ci](https://github.com/nrwl/ci)
+3. ❗ Opened issue [#35](https://github.com/mheob/tsg-irlich-web/issues/35) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#34](https://github.com/mheob/tsg-irlich-web/pull/34) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

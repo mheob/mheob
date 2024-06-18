@@ -108,11 +108,11 @@ JavaScript   1 hr 14 mins    -------------------------   01.79 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/mheob/greenvinyl-vue/pull/171) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-2. 💪 Opened PR [#39](https://github.com/mheob/tsg-irlich-web/pull/39) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#38](https://github.com/mheob/tsg-irlich-web/pull/38) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#37](https://github.com/mheob/tsg-irlich-web/issues/37) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#36](https://github.com/mheob/tsg-irlich-web/pull/36) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#40](https://github.com/mheob/tsg-irlich-web/pull/40) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#171](https://github.com/mheob/greenvinyl-vue/pull/171) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+3. 💪 Opened PR [#39](https://github.com/mheob/tsg-irlich-web/pull/39) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#38](https://github.com/mheob/tsg-irlich-web/pull/38) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#37](https://github.com/mheob/tsg-irlich-web/issues/37) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

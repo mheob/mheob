@@ -108,11 +108,11 @@ YAML              2 hrs 16 mins   >------------------------   03.17 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/mheob/tsg-irlich-web/pull/41) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#727](https://github.com/mheob/include-fussball-de-widgets/pull/727) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 💪 Opened PR [#40](https://github.com/mheob/tsg-irlich-web/pull/40) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#171](https://github.com/mheob/greenvinyl-vue/pull/171) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-5. 💪 Opened PR [#39](https://github.com/mheob/tsg-irlich-web/pull/39) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#43](https://github.com/mheob/tsg-irlich-web/pull/43) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#42](https://github.com/mheob/tsg-irlich-web/issues/42) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#41](https://github.com/mheob/tsg-irlich-web/pull/41) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#727](https://github.com/mheob/include-fussball-de-widgets/pull/727) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 💪 Opened PR [#40](https://github.com/mheob/tsg-irlich-web/pull/40) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

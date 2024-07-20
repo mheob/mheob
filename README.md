@@ -108,11 +108,11 @@ JSON         2 mins          -------------------------   00.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#730](https://github.com/mheob/include-fussball-de-widgets/issues/730) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#733](https://github.com/mheob/include-fussball-de-widgets/pull/733) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 💪 Opened PR [#733](https://github.com/mheob/include-fussball-de-widgets/pull/733) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. ❗ Opened issue [#731](https://github.com/mheob/include-fussball-de-widgets/issues/731) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. ❗ Opened issue [#730](https://github.com/mheob/include-fussball-de-widgets/issues/730) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 💪 Opened PR [#734](https://github.com/mheob/include-fussball-de-widgets/pull/734) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🔒 Closed issue [#730](https://github.com/mheob/include-fussball-de-widgets/issues/730) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#733](https://github.com/mheob/include-fussball-de-widgets/pull/733) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 💪 Opened PR [#733](https://github.com/mheob/include-fussball-de-widgets/pull/733) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. ❗ Opened issue [#731](https://github.com/mheob/include-fussball-de-widgets/issues/731) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
   <!--END_SECTION:activity-->
 </details>
 

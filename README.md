@@ -108,11 +108,11 @@ JSON         2 mins          -------------------------   00.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mheob/go-bin-npm/pull/4) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-2. 🎉 Merged PR [#3](https://github.com/mheob/go-bin-npm/pull/3) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-3. 🔓 Reopened issue [#48](https://github.com/mheob/tsg-irlich-web/issues/48) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#49](https://github.com/mheob/tsg-irlich-web/pull/49) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#47](https://github.com/mheob/tsg-irlich-web/issues/47) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❗ Opened issue [#731](https://github.com/mheob/include-fussball-de-widgets/issues/731) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. ❗ Opened issue [#730](https://github.com/mheob/include-fussball-de-widgets/issues/730) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🔒 Closed issue [#11](https://github.com/mheob/include-fussball-de-widgets/issues/11) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. ❗ Opened issue [#729](https://github.com/mheob/include-fussball-de-widgets/issues/729) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. ❗ Opened issue [#728](https://github.com/mheob/include-fussball-de-widgets/issues/728) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
   <!--END_SECTION:activity-->
 </details>
 

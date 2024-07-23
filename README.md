@@ -108,11 +108,11 @@ Markdown          2 hrs 24 mins   >------------------------   03.87 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#737](https://github.com/mheob/include-fussball-de-widgets/pull/737) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 💪 Opened PR [#736](https://github.com/mheob/include-fussball-de-widgets/pull/736) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🗣 Commented on [#103](https://github.com/nrwl/ci/pull/103#issuecomment-2242306274) in [nrwl/ci](https://github.com/nrwl/ci)
-4. 🎉 Merged PR [#573](https://github.com/mheob/itsb-web/pull/573) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🗣 Commented on [#731](https://github.com/mheob/include-fussball-de-widgets/issues/731#issuecomment-2241152410) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🚀 Published release [v4.0.0](https://github.com/mheob/include-fussball-de-widgets/releases/tag/v4.0.0) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 💪 Opened PR [#737](https://github.com/mheob/include-fussball-de-widgets/pull/737) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 💪 Opened PR [#736](https://github.com/mheob/include-fussball-de-widgets/pull/736) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🗣 Commented on [#103](https://github.com/nrwl/ci/pull/103#issuecomment-2242306274) in [nrwl/ci](https://github.com/nrwl/ci)
+5. 🎉 Merged PR [#573](https://github.com/mheob/itsb-web/pull/573) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ JSON              4 hrs 29 mins   >>-----------------------   06.49 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#50](https://github.com/mheob/tsg-irlich-web/issues/50) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🗣 Commented on [#338](https://github.com/mheob/include-fussball-de-widgets/issues/338#issuecomment-2244456738) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🔒 Closed issue [#338](https://github.com/mheob/include-fussball-de-widgets/issues/338) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-4. 💪 Opened PR [#738](https://github.com/mheob/include-fussball-de-widgets/pull/738) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-5. 🚀 Published release [v4.0.0](https://github.com/mheob/include-fussball-de-widgets/releases/tag/v4.0.0) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🗣 Commented on [#47](https://github.com/mheob/tsg-irlich-web/issues/47#issuecomment-2254419818) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#47](https://github.com/mheob/tsg-irlich-web/issues/47) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#50](https://github.com/mheob/tsg-irlich-web/issues/50) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🗣 Commented on [#338](https://github.com/mheob/include-fussball-de-widgets/issues/338#issuecomment-2244456738) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🔒 Closed issue [#338](https://github.com/mheob/include-fussball-de-widgets/issues/338) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ Other        2 mins          -------------------------   00.08 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#574](https://github.com/mheob/itsb-web/pull/574) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#5](https://github.com/mheob/go-bin-npm/pull/5) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-3. ❗ Opened issue [#51](https://github.com/mheob/tsg-irlich-web/issues/51) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#47](https://github.com/mheob/tsg-irlich-web/issues/47) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔓 Reopened issue [#47](https://github.com/mheob/tsg-irlich-web/issues/47) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
+2. 🎉 Merged PR [#574](https://github.com/mheob/itsb-web/pull/574) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#5](https://github.com/mheob/go-bin-npm/pull/5) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+4. ❗ Opened issue [#51](https://github.com/mheob/tsg-irlich-web/issues/51) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#47](https://github.com/mheob/tsg-irlich-web/issues/47) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

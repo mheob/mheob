@@ -108,11 +108,11 @@ Other        2 mins          -------------------------   00.08 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11102](https://github.com/vercel/vercel/issues/11102#issuecomment-2267622195) in [vercel/vercel](https://github.com/vercel/vercel)
-2. 🎉 Merged PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#574](https://github.com/mheob/itsb-web/pull/574) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#5](https://github.com/mheob/go-bin-npm/pull/5) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+1. 🎉 Merged PR [#194](https://github.com/mheob/config/pull/194) in [mheob/config](https://github.com/mheob/config)
+2. 🗣 Commented on [#11102](https://github.com/vercel/vercel/issues/11102#issuecomment-2267622195) in [vercel/vercel](https://github.com/vercel/vercel)
+3. 🎉 Merged PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#574](https://github.com/mheob/itsb-web/pull/574) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ Git Config    11 mins         -------------------------   00.29 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/mheob/config/pull/194) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#11102](https://github.com/vercel/vercel/issues/11102#issuecomment-2267622195) in [vercel/vercel](https://github.com/vercel/vercel)
-3. 🎉 Merged PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#574](https://github.com/mheob/itsb-web/pull/574) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#172](https://github.com/mheob/greenvinyl-vue/pull/172) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+2. 🎉 Merged PR [#194](https://github.com/mheob/config/pull/194) in [mheob/config](https://github.com/mheob/config)
+3. 🗣 Commented on [#11102](https://github.com/vercel/vercel/issues/11102#issuecomment-2267622195) in [vercel/vercel](https://github.com/vercel/vercel)
+4. 🎉 Merged PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#193](https://github.com/mheob/config/pull/193) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

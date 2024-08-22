@@ -108,11 +108,11 @@ GraphQL      2 hrs 39 mins   >------------------------   04.29 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1#issuecomment-2301753225) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
-2. ❌ Closed PR [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
-3. 💪 Opened PR [#6218](https://github.com/prisma/docs/pull/6218) in [prisma/docs](https://github.com/prisma/docs)
-4. 🎉 Merged PR [#575](https://github.com/mheob/itsb-web/pull/575) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#172](https://github.com/mheob/greenvinyl-vue/pull/172) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 🎉 Merged PR [#6](https://github.com/mheob/go-bin-npm/pull/6) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+2. 🗣 Commented on [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1#issuecomment-2301753225) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
+3. ❌ Closed PR [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
+4. 💪 Opened PR [#6218](https://github.com/prisma/docs/pull/6218) in [prisma/docs](https://github.com/prisma/docs)
+5. 🎉 Merged PR [#575](https://github.com/mheob/itsb-web/pull/575) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

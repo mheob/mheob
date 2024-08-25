@@ -108,11 +108,11 @@ JSON         1 hr 38 mins    >------------------------   02.22 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/mheob/tsg-irlich-web/pull/59) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#35](https://github.com/mheob/tsg-irlich-web/issues/35) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#58](https://github.com/mheob/tsg-irlich-web/pull/58) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#6](https://github.com/mheob/go-bin-npm/pull/6) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-5. 🗣 Commented on [#1](https://github.com/contentful/nextjs-contentful-guide/pull/1#issuecomment-2301753225) in [contentful/nextjs-contentful-guide](https://github.com/contentful/nextjs-contentful-guide)
+1. 💪 Opened PR [#60](https://github.com/mheob/tsg-irlich-web/pull/60) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#59](https://github.com/mheob/tsg-irlich-web/pull/59) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#35](https://github.com/mheob/tsg-irlich-web/issues/35) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#58](https://github.com/mheob/tsg-irlich-web/pull/58) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🎉 Merged PR [#6](https://github.com/mheob/go-bin-npm/pull/6) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
   <!--END_SECTION:activity-->
 </details>
 

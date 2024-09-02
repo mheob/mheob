@@ -108,11 +108,11 @@ TSConfig          1 hr 45 mins    >------------------------   02.15 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/mheob/tsg-irlich-web/pull/73) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#72](https://github.com/mheob/tsg-irlich-web/issues/72) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#71](https://github.com/mheob/tsg-irlich-web/issues/71) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#200](https://github.com/mheob/config/pull/200) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#198](https://github.com/mheob/config/pull/198) in [mheob/config](https://github.com/mheob/config)
+1. ❗ Opened issue [#84](https://github.com/mheob/tsg-irlich-web/issues/84) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#83](https://github.com/mheob/tsg-irlich-web/issues/83) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#82](https://github.com/mheob/tsg-irlich-web/issues/82) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#81](https://github.com/mheob/tsg-irlich-web/issues/81) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#80](https://github.com/mheob/tsg-irlich-web/issues/80) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

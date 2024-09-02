@@ -108,11 +108,11 @@ Image (svg)   1 hr 47 mins    >------------------------   02.29 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#84](https://github.com/mheob/tsg-irlich-web/issues/84) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#83](https://github.com/mheob/tsg-irlich-web/issues/83) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#82](https://github.com/mheob/tsg-irlich-web/issues/82) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#81](https://github.com/mheob/tsg-irlich-web/issues/81) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#80](https://github.com/mheob/tsg-irlich-web/issues/80) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#85](https://github.com/mheob/tsg-irlich-web/pull/85) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#84](https://github.com/mheob/tsg-irlich-web/issues/84) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#83](https://github.com/mheob/tsg-irlich-web/issues/83) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#82](https://github.com/mheob/tsg-irlich-web/issues/82) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#81](https://github.com/mheob/tsg-irlich-web/issues/81) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

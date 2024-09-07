@@ -108,11 +108,11 @@ Image (svg)       1 hr 47 mins    >------------------------   02.37 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/mheob/tsg-irlich-web/issues/4) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#87](https://github.com/mheob/tsg-irlich-web/pull/87) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#86](https://github.com/mheob/tsg-irlich-web/pull/86) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#85](https://github.com/mheob/tsg-irlich-web/pull/85) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#84](https://github.com/mheob/tsg-irlich-web/issues/84) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#4](https://github.com/mheob/learning-nextjs-dashboard/pull/4) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
+2. 🔒 Closed issue [#4](https://github.com/mheob/tsg-irlich-web/issues/4) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#87](https://github.com/mheob/tsg-irlich-web/pull/87) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#86](https://github.com/mheob/tsg-irlich-web/pull/86) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#85](https://github.com/mheob/tsg-irlich-web/pull/85) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

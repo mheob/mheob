@@ -108,11 +108,11 @@ Bash              3 hrs 33 mins   >>-----------------------   07.11 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/mheob/tsg-irlich-web/pull/89) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#88](https://github.com/mheob/tsg-irlich-web/pull/88) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🗣 Commented on [#185](https://github.com/mheob/config/issues/185#issuecomment-2334524678) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#4](https://github.com/mheob/learning-nextjs-dashboard/pull/4) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
-5. 🔒 Closed issue [#4](https://github.com/mheob/tsg-irlich-web/issues/4) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#90](https://github.com/mheob/tsg-irlich-web/pull/90) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#89](https://github.com/mheob/tsg-irlich-web/pull/89) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#88](https://github.com/mheob/tsg-irlich-web/pull/88) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🗣 Commented on [#185](https://github.com/mheob/config/issues/185#issuecomment-2334524678) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#4](https://github.com/mheob/learning-nextjs-dashboard/pull/4) in [mheob/learning-nextjs-dashboard](https://github.com/mheob/learning-nextjs-dashboard)
   <!--END_SECTION:activity-->
 </details>
 

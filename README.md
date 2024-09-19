@@ -108,11 +108,11 @@ JSON          36 mins         -------------------------   01.35 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#51](https://github.com/mheob/tsg-irlich-web/issues/51) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#95](https://github.com/mheob/tsg-irlich-web/pull/95) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#94](https://github.com/mheob/tsg-irlich-web/pull/94) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#93](https://github.com/mheob/tsg-irlich-web/pull/93) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#92](https://github.com/mheob/tsg-irlich-web/pull/92) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❗ Opened issue [#96](https://github.com/mheob/tsg-irlich-web/issues/96) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#51](https://github.com/mheob/tsg-irlich-web/issues/51) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#95](https://github.com/mheob/tsg-irlich-web/pull/95) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#94](https://github.com/mheob/tsg-irlich-web/pull/94) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#93](https://github.com/mheob/tsg-irlich-web/pull/93) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

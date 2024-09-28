@@ -108,11 +108,11 @@ JavaScript    10 mins         -------------------------   00.53 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/mheob/tsg-irlich-web/pull/100) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#99](https://github.com/mheob/tsg-irlich-web/issues/99) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#98](https://github.com/mheob/tsg-irlich-web/issues/98) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#97](https://github.com/mheob/tsg-irlich-web/issues/97) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#96](https://github.com/mheob/tsg-irlich-web/issues/96) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#55](https://github.com/mheob/tsg-irlich-web/issues/55) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#53](https://github.com/mheob/tsg-irlich-web/issues/53) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#57](https://github.com/mheob/tsg-irlich-web/issues/57) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#54](https://github.com/mheob/tsg-irlich-web/issues/54) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#56](https://github.com/mheob/tsg-irlich-web/issues/56) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

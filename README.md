@@ -108,11 +108,11 @@ JavaScript   1 hr 48 mins    >------------------------   04.88 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/mheob/config/pull/204) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#211](https://github.com/mheob/config/pull/211) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#210](https://github.com/mheob/config/pull/210) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#209](https://github.com/mheob/config/pull/209) in [mheob/config](https://github.com/mheob/config)
-5. 🗣 Commented on [#130](https://github.com/antfu-collective/taze/issues/130#issuecomment-2410939083) in [antfu-collective/taze](https://github.com/antfu-collective/taze)
+1. 🎉 Merged PR [#207](https://github.com/mheob/config/pull/207) in [mheob/config](https://github.com/mheob/config)
+2. ❌ Closed PR [#208](https://github.com/mheob/config/pull/208) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#204](https://github.com/mheob/config/pull/204) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#211](https://github.com/mheob/config/pull/211) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#210](https://github.com/mheob/config/pull/210) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

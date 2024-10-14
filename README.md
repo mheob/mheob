@@ -108,11 +108,11 @@ JavaScript   1 hr 48 mins    >------------------------   04.88 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/antfu-collective/taze/issues/130#issuecomment-2410939083) in [antfu-collective/taze](https://github.com/antfu-collective/taze)
-2. 🎉 Merged PR [#178](https://github.com/mheob/greenvinyl-vue/pull/178) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-3. 🎉 Merged PR [#175](https://github.com/mheob/greenvinyl-vue/pull/175) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-4. 🎉 Merged PR [#174](https://github.com/mheob/greenvinyl-vue/pull/174) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
-5. 🎉 Merged PR [#176](https://github.com/mheob/greenvinyl-vue/pull/176) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+1. 💪 Opened PR [#209](https://github.com/mheob/config/pull/209) in [mheob/config](https://github.com/mheob/config)
+2. 🗣 Commented on [#130](https://github.com/antfu-collective/taze/issues/130#issuecomment-2410939083) in [antfu-collective/taze](https://github.com/antfu-collective/taze)
+3. 🎉 Merged PR [#178](https://github.com/mheob/greenvinyl-vue/pull/178) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+4. 🎉 Merged PR [#175](https://github.com/mheob/greenvinyl-vue/pull/175) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
+5. 🎉 Merged PR [#174](https://github.com/mheob/greenvinyl-vue/pull/174) in [mheob/greenvinyl-vue](https://github.com/mheob/greenvinyl-vue)
   <!--END_SECTION:activity-->
 </details>
 

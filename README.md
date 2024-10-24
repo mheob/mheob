@@ -108,11 +108,11 @@ GraphQL      54 mins         >------------------------   02.24 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/mheob/changeset-changelog/pull/80) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 🎉 Merged PR [#577](https://github.com/mheob/itsb-web/pull/577) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#578](https://github.com/mheob/itsb-web/pull/578) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 🗣 Commented on [#4100](https://github.com/conventional-changelog/commitlint/issues/4100#issuecomment-2413589471) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-5. 🎉 Merged PR [#207](https://github.com/mheob/config/pull/207) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#21](https://github.com/mheob/mheob/pull/21) in [mheob/mheob](https://github.com/mheob/mheob)
+2. 🎉 Merged PR [#80](https://github.com/mheob/changeset-changelog/pull/80) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+3. 🎉 Merged PR [#577](https://github.com/mheob/itsb-web/pull/577) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#578](https://github.com/mheob/itsb-web/pull/578) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 🗣 Commented on [#4100](https://github.com/conventional-changelog/commitlint/issues/4100#issuecomment-2413589471) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
   <!--END_SECTION:activity-->
 </details>
 

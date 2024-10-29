@@ -108,11 +108,11 @@ GraphQL      14 mins         -------------------------   00.71 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🎉 Merged PR [#115](https://github.com/mheob/tsg-irlich-web/pull/115) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#115](https://github.com/mheob/tsg-irlich-web/pull/115) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#115](https://github.com/mheob/tsg-irlich-web/pull/115) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#115](https://github.com/mheob/tsg-irlich-web/pull/115) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

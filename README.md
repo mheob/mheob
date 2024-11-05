@@ -108,11 +108,11 @@ JavaScript        14 mins         -------------------------   00.50 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-2. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🎉 Merged PR [#115](https://github.com/mheob/tsg-irlich-web/pull/115) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#745](https://github.com/mheob/include-fussball-de-widgets/pull/745) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+3. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ GraphQL      8 mins          -------------------------   00.36 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#745](https://github.com/mheob/include-fussball-de-widgets/pull/745) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-3. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#747](https://github.com/mheob/include-fussball-de-widgets/pull/747) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+2. 🎉 Merged PR [#745](https://github.com/mheob/include-fussball-de-widgets/pull/745) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+3. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
+4. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

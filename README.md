@@ -108,11 +108,11 @@ JavaScript   26 mins         -------------------------   01.19 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#747](https://github.com/mheob/include-fussball-de-widgets/pull/747) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-2. 🎉 Merged PR [#745](https://github.com/mheob/include-fussball-de-widgets/pull/745) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
-3. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-4. 🔓 Reopened issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🗣 Commented on [#114](https://github.com/mheob/tsg-irlich-web/issues/114#issuecomment-2442305846) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#69](https://github.com/mheob/ef-calc/pull/69) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+2. 🎉 Merged PR [#585](https://github.com/mheob/itsb-web/pull/585) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#747](https://github.com/mheob/include-fussball-de-widgets/pull/747) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+4. 🎉 Merged PR [#745](https://github.com/mheob/include-fussball-de-widgets/pull/745) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+5. 🎉 Merged PR [#7](https://github.com/mheob/go-bin-npm/pull/7) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
   <!--END_SECTION:activity-->
 </details>
 

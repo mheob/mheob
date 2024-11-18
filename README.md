@@ -108,11 +108,11 @@ Other         33 mins         -------------------------   01.23 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#214](https://github.com/mheob/config/pull/214) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#212](https://github.com/mheob/config/pull/212) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#69](https://github.com/mheob/ef-calc/pull/69) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-4. 🎉 Merged PR [#585](https://github.com/mheob/itsb-web/pull/585) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#747](https://github.com/mheob/include-fussball-de-widgets/pull/747) in [mheob/include-fussball-de-widgets](https://github.com/mheob/include-fussball-de-widgets)
+1. 🎉 Merged PR [#582](https://github.com/mheob/itsb-web/pull/582) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#586](https://github.com/mheob/itsb-web/pull/586) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 🎉 Merged PR [#214](https://github.com/mheob/config/pull/214) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#212](https://github.com/mheob/config/pull/212) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#69](https://github.com/mheob/ef-calc/pull/69) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
   <!--END_SECTION:activity-->
 </details>
 

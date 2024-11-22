@@ -108,11 +108,11 @@ CSS           27 mins         -------------------------   01.47 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#582](https://github.com/mheob/itsb-web/pull/582) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#586](https://github.com/mheob/itsb-web/pull/586) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 🎉 Merged PR [#214](https://github.com/mheob/config/pull/214) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#212](https://github.com/mheob/config/pull/212) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#184](https://github.com/antfu/vscode-file-nesting-config/pull/184#issuecomment-2490839369) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+2. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#582](https://github.com/mheob/itsb-web/pull/582) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#586](https://github.com/mheob/itsb-web/pull/586) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 🎉 Merged PR [#214](https://github.com/mheob/config/pull/214) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

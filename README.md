@@ -108,11 +108,11 @@ JSON          25 mins         >------------------------   02.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#247](https://github.com/antfu/vscode-file-nesting-config/pull/247) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-2. 💪 Opened PR [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-3. 🗣 Commented on [#184](https://github.com/antfu/vscode-file-nesting-config/pull/184#issuecomment-2490839369) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-4. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🎉 Merged PR [#582](https://github.com/mheob/itsb-web/pull/582) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 💪 Opened PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#247](https://github.com/antfu/vscode-file-nesting-config/pull/247) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+3. 💪 Opened PR [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+4. 🗣 Commented on [#184](https://github.com/antfu/vscode-file-nesting-config/pull/184#issuecomment-2490839369) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+5. 🔒 Closed issue [#114](https://github.com/mheob/tsg-irlich-web/issues/114) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

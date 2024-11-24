@@ -108,11 +108,11 @@ JSON          25 mins         >------------------------   02.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#247](https://github.com/antfu/vscode-file-nesting-config/pull/247) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-4. 💪 Opened PR [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-5. 🗣 Commented on [#184](https://github.com/antfu/vscode-file-nesting-config/pull/184#issuecomment-2490839369) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+1. 💪 Opened PR [#120](https://github.com/mheob/tsg-irlich-web/pull/120) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#247](https://github.com/antfu/vscode-file-nesting-config/pull/247) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+5. 💪 Opened PR [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
   <!--END_SECTION:activity-->
 </details>
 

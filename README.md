@@ -108,11 +108,11 @@ JSON          25 mins         >------------------------   02.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/mheob/tsg-irlich-web/pull/120) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#247](https://github.com/antfu/vscode-file-nesting-config/pull/247) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-5. 💪 Opened PR [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+1. 🔒 Closed issue [#7](https://github.com/Devographics/locale-de-DE/issues/7) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+2. 🗣 Commented on [#246](https://github.com/antfu/vscode-file-nesting-config/pull/246#issuecomment-2496880433) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+3. 💪 Opened PR [#120](https://github.com/mheob/tsg-irlich-web/pull/120) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#119](https://github.com/mheob/tsg-irlich-web/pull/119) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

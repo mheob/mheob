@@ -108,11 +108,11 @@ Other        4 mins          -------------------------   00.22 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#122](https://github.com/mheob/tsg-irlich-web/issues/122) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#121](https://github.com/mheob/tsg-irlich-web/issues/121) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#121](https://github.com/mheob/tsg-irlich-web/issues/121) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#120](https://github.com/mheob/tsg-irlich-web/pull/120) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#7](https://github.com/Devographics/locale-de-DE/issues/7) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+1. 💪 Opened PR [#123](https://github.com/mheob/tsg-irlich-web/pull/123) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#122](https://github.com/mheob/tsg-irlich-web/issues/122) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#121](https://github.com/mheob/tsg-irlich-web/issues/121) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#121](https://github.com/mheob/tsg-irlich-web/issues/121) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🎉 Merged PR [#120](https://github.com/mheob/tsg-irlich-web/pull/120) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

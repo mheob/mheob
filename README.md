@@ -108,11 +108,11 @@ YAML              0 secs          -------------------------   00.03 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#155](https://github.com/mheob/tsg-irlich-web/pull/155) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#154](https://github.com/mheob/tsg-irlich-web/issues/154) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#153](https://github.com/mheob/tsg-irlich-web/issues/153) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#70](https://github.com/mheob/tsg-irlich-web/issues/70) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#150](https://github.com/mheob/tsg-irlich-web/issues/150) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#145](https://github.com/mheob/tsg-irlich-web/issues/145) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#155](https://github.com/mheob/tsg-irlich-web/pull/155) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#154](https://github.com/mheob/tsg-irlich-web/issues/154) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#153](https://github.com/mheob/tsg-irlich-web/issues/153) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#70](https://github.com/mheob/tsg-irlich-web/issues/70) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

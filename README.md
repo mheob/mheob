@@ -108,11 +108,11 @@ JavaScript        44 mins         -------------------------   01.30 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2842](https://github.com/material-extensions/vscode-material-icon-theme/issues/2842#issuecomment-2613863244) in [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
-2. 💪 Opened PR [#224](https://github.com/mheob/config/pull/224) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#10](https://github.com/mheob/go-bin-npm/pull/10) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
-4. 💪 Opened PR [#223](https://github.com/mheob/config/pull/223) in [mheob/config](https://github.com/mheob/config)
-5. ❗ Opened issue [#222](https://github.com/mheob/config/issues/222) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#227](https://github.com/mheob/config/pull/227) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#226](https://github.com/mheob/config/pull/226) in [mheob/config](https://github.com/mheob/config)
+3. 🗣 Commented on [#2842](https://github.com/material-extensions/vscode-material-icon-theme/issues/2842#issuecomment-2613863244) in [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
+4. 💪 Opened PR [#224](https://github.com/mheob/config/pull/224) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#10](https://github.com/mheob/go-bin-npm/pull/10) in [mheob/go-bin-npm](https://github.com/mheob/go-bin-npm)
   <!--END_SECTION:activity-->
 </details>
 

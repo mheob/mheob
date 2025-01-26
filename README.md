@@ -108,11 +108,11 @@ JavaScript        44 mins         -------------------------   01.30 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/mheob/tsg-irlich-web/pull/166) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#227](https://github.com/mheob/config/pull/227) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#226](https://github.com/mheob/config/pull/226) in [mheob/config](https://github.com/mheob/config)
-4. 🗣 Commented on [#2842](https://github.com/material-extensions/vscode-material-icon-theme/issues/2842#issuecomment-2613863244) in [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
-5. 💪 Opened PR [#224](https://github.com/mheob/config/pull/224) in [mheob/config](https://github.com/mheob/config)
+1. ❗ Opened issue [#167](https://github.com/mheob/tsg-irlich-web/issues/167) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#166](https://github.com/mheob/tsg-irlich-web/pull/166) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#227](https://github.com/mheob/config/pull/227) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#226](https://github.com/mheob/config/pull/226) in [mheob/config](https://github.com/mheob/config)
+5. 🗣 Commented on [#2842](https://github.com/material-extensions/vscode-material-icon-theme/issues/2842#issuecomment-2613863244) in [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
   <!--END_SECTION:activity-->
 </details>
 

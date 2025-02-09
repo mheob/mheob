@@ -108,11 +108,11 @@ Markdown     2 mins          -------------------------   00.15 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#173](https://github.com/mheob/tsg-irlich-web/issues/173) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#161](https://github.com/mheob/tsg-irlich-web/issues/161) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#65](https://github.com/mheob/tsg-irlich-web/issues/65) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#157](https://github.com/mheob/tsg-irlich-web/issues/157) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#230](https://github.com/mheob/config/pull/230) in [mheob/config](https://github.com/mheob/config)
+2. 🔒 Closed issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
+3. 🔒 Closed issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#229](https://github.com/mheob/config/pull/229) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#229](https://github.com/mheob/config/pull/229) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

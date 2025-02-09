@@ -108,11 +108,11 @@ Markdown     2 mins          -------------------------   00.13 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#157](https://github.com/mheob/tsg-irlich-web/issues/157) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#69](https://github.com/mheob/tsg-irlich-web/issues/69) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#1032](https://github.com/topgrade-rs/topgrade/pull/1032) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-4. ❗ Opened issue [#171](https://github.com/mheob/tsg-irlich-web/issues/171) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#170](https://github.com/mheob/tsg-irlich-web/issues/170) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#161](https://github.com/mheob/tsg-irlich-web/issues/161) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#65](https://github.com/mheob/tsg-irlich-web/issues/65) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#157](https://github.com/mheob/tsg-irlich-web/issues/157) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#69](https://github.com/mheob/tsg-irlich-web/issues/69) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ Prisma       42 mins         -------------------------   01.94 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/mheob/tsg-irlich-web/pull/174) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#230](https://github.com/mheob/config/pull/230) in [mheob/config](https://github.com/mheob/config)
-3. 🔒 Closed issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#175](https://github.com/mheob/tsg-irlich-web/pull/175) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#174](https://github.com/mheob/tsg-irlich-web/pull/174) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#230](https://github.com/mheob/config/pull/230) in [mheob/config](https://github.com/mheob/config)
 4. 🔒 Closed issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#229](https://github.com/mheob/config/pull/229) in [mheob/config](https://github.com/mheob/config)
+5. 🔒 Closed issue [#185](https://github.com/mheob/config/issues/185) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ JavaScript    1 hr 29 mins    >------------------------   03.02 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#234](https://github.com/mheob/config/pull/234) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#87](https://github.com/mheob/changeset-changelog/pull/87) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 🎉 Merged PR [#22](https://github.com/mheob/mheob/pull/22) in [mheob/mheob](https://github.com/mheob/mheob)
-4. 💪 Opened PR [#175](https://github.com/mheob/tsg-irlich-web/pull/175) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#174](https://github.com/mheob/tsg-irlich-web/pull/174) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#236](https://github.com/mheob/config/pull/236) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#234](https://github.com/mheob/config/pull/234) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#87](https://github.com/mheob/changeset-changelog/pull/87) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+4. 🎉 Merged PR [#22](https://github.com/mheob/mheob/pull/22) in [mheob/mheob](https://github.com/mheob/mheob)
+5. 💪 Opened PR [#175](https://github.com/mheob/tsg-irlich-web/pull/175) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

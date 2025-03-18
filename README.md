@@ -108,11 +108,11 @@ CSS          25 mins         -------------------------   00.87 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#273](https://github.com/antfu/vscode-file-nesting-config/pull/273) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-2. ❗ Opened issue [#3558](https://github.com/EclipseFdn/open-vsx.org/issues/3558) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. 💪 Opened PR [#236](https://github.com/mheob/config/pull/236) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#234](https://github.com/mheob/config/pull/234) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#87](https://github.com/mheob/changeset-changelog/pull/87) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+1. 💪 Opened PR [#238](https://github.com/mheob/config/pull/238) in [mheob/config](https://github.com/mheob/config)
+2. ❗ Opened issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#273](https://github.com/antfu/vscode-file-nesting-config/pull/273) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+4. ❗ Opened issue [#3558](https://github.com/EclipseFdn/open-vsx.org/issues/3558) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. 💪 Opened PR [#236](https://github.com/mheob/config/pull/236) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

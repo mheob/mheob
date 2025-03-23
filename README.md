@@ -108,11 +108,11 @@ Other        39 mins         -------------------------   01.84 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#240](https://github.com/mheob/config/pull/240) in [mheob/config](https://github.com/mheob/config)
-2. ❌ Closed PR [#231](https://github.com/mheob/config/pull/231) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#238](https://github.com/mheob/config/pull/238) in [mheob/config](https://github.com/mheob/config)
-4. ❗ Opened issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#273](https://github.com/antfu/vscode-file-nesting-config/pull/273) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+1. 💪 Opened PR [#242](https://github.com/mheob/config/pull/242) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#240](https://github.com/mheob/config/pull/240) in [mheob/config](https://github.com/mheob/config)
+3. ❌ Closed PR [#231](https://github.com/mheob/config/pull/231) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#238](https://github.com/mheob/config/pull/238) in [mheob/config](https://github.com/mheob/config)
+5. ❗ Opened issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ JavaScript    2 hrs 5 mins    >------------------------   03.77 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/mheob/config/pull/243) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#242](https://github.com/mheob/config/pull/242) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#240](https://github.com/mheob/config/pull/240) in [mheob/config](https://github.com/mheob/config)
-4. ❌ Closed PR [#231](https://github.com/mheob/config/pull/231) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#238](https://github.com/mheob/config/pull/238) in [mheob/config](https://github.com/mheob/config)
+1. ❗ Opened issue [#1](https://github.com/mheob/scopevisio-coding-challenge/issues/1) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+2. 💪 Opened PR [#243](https://github.com/mheob/config/pull/243) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#242](https://github.com/mheob/config/pull/242) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#240](https://github.com/mheob/config/pull/240) in [mheob/config](https://github.com/mheob/config)
+5. ❌ Closed PR [#231](https://github.com/mheob/config/pull/231) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

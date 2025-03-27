@@ -108,11 +108,11 @@ JavaScript    2 hrs 5 mins    >------------------------   03.77 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/mheob/scopevisio-coding-challenge/issues/9) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-2. ❗ Opened issue [#8](https://github.com/mheob/scopevisio-coding-challenge/issues/8) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-3. ❗ Opened issue [#7](https://github.com/mheob/scopevisio-coding-challenge/issues/7) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-4. ❗ Opened issue [#6](https://github.com/mheob/scopevisio-coding-challenge/issues/6) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-5. ❗ Opened issue [#5](https://github.com/mheob/scopevisio-coding-challenge/issues/5) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+1. ❗ Opened issue [#12](https://github.com/mheob/scopevisio-coding-challenge/issues/12) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+2. 🗣 Commented on [#5](https://github.com/mheob/scopevisio-coding-challenge/issues/5#issuecomment-2755383786) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+3. ❗ Opened issue [#11](https://github.com/mheob/scopevisio-coding-challenge/issues/11) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+4. ❗ Opened issue [#10](https://github.com/mheob/scopevisio-coding-challenge/issues/10) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+5. ❗ Opened issue [#9](https://github.com/mheob/scopevisio-coding-challenge/issues/9) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
   <!--END_SECTION:activity-->
 </details>
 

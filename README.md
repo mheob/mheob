@@ -108,11 +108,11 @@ Other         2 hrs 34 mins   >------------------------   03.62 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/mheob/scopevisio-coding-challenge/issues/16) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-2. ❗ Opened issue [#15](https://github.com/mheob/scopevisio-coding-challenge/issues/15) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-3. ❗ Opened issue [#14](https://github.com/mheob/scopevisio-coding-challenge/issues/14) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-4. ❗ Opened issue [#13](https://github.com/mheob/scopevisio-coding-challenge/issues/13) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-5. ❗ Opened issue [#12](https://github.com/mheob/scopevisio-coding-challenge/issues/12) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+1. 🚀 Published release [v1.0.0](https://github.com/mheob/compare-by-key/releases/tag/v1.0.0) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+2. ❗ Opened issue [#16](https://github.com/mheob/scopevisio-coding-challenge/issues/16) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+3. ❗ Opened issue [#15](https://github.com/mheob/scopevisio-coding-challenge/issues/15) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+4. ❗ Opened issue [#14](https://github.com/mheob/scopevisio-coding-challenge/issues/14) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+5. ❗ Opened issue [#13](https://github.com/mheob/scopevisio-coding-challenge/issues/13) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
   <!--END_SECTION:activity-->
 </details>
 

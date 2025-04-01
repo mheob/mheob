@@ -108,11 +108,11 @@ Other         2 hrs 23 mins   >------------------------   03.98 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-2. 💪 Opened PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-3. ❗ Opened issue [#1](https://github.com/mheob/compare-by-key/issues/1) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-4. 🚀 Published release [v1.0.0](https://github.com/mheob/compare-by-key/releases/tag/v1.0.0) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-5. ❗ Opened issue [#16](https://github.com/mheob/scopevisio-coding-challenge/issues/16) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+1. 🚀 Published release [v1.0.0](https://github.com/mheob/renovate-config/releases/tag/v1.0.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+2. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 💪 Opened PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+4. ❗ Opened issue [#1](https://github.com/mheob/compare-by-key/issues/1) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+5. 🚀 Published release [v1.0.0](https://github.com/mheob/compare-by-key/releases/tag/v1.0.0) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
   <!--END_SECTION:activity-->
 </details>
 

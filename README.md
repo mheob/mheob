@@ -108,11 +108,11 @@ JavaScript   57 mins         -------------------------   01.68 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/mheob/renovate-config/releases/tag/v1.0.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-2. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-3. 💪 Opened PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-4. ❗ Opened issue [#1](https://github.com/mheob/compare-by-key/issues/1) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-5. 🚀 Published release [v1.0.0](https://github.com/mheob/compare-by-key/releases/tag/v1.0.0) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+1. 💪 Opened PR [#245](https://github.com/mheob/config/pull/245) in [mheob/config](https://github.com/mheob/config)
+2. 🚀 Published release [v1.0.0](https://github.com/mheob/renovate-config/releases/tag/v1.0.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+4. 💪 Opened PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+5. ❗ Opened issue [#1](https://github.com/mheob/compare-by-key/issues/1) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
   <!--END_SECTION:activity-->
 </details>
 

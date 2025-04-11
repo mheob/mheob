@@ -108,11 +108,11 @@ GraphQL           13 mins         -------------------------   01.01 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#178](https://github.com/mheob/tsg-irlich-web/pull/178) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#245](https://github.com/mheob/config/pull/245) in [mheob/config](https://github.com/mheob/config)
-3. 🚀 Published release [v1.0.0](https://github.com/mheob/renovate-config/releases/tag/v1.0.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-4. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-5. 💪 Opened PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🎉 Merged PR [#23](https://github.com/mheob/mheob/pull/23) in [mheob/mheob](https://github.com/mheob/mheob)
+2. 🎉 Merged PR [#178](https://github.com/mheob/tsg-irlich-web/pull/178) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#245](https://github.com/mheob/config/pull/245) in [mheob/config](https://github.com/mheob/config)
+4. 🚀 Published release [v1.0.0](https://github.com/mheob/renovate-config/releases/tag/v1.0.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+5. 🎉 Merged PR [#2](https://github.com/mheob/renovate-config/pull/2) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
   <!--END_SECTION:activity-->
 </details>
 

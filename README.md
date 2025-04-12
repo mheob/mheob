@@ -108,11 +108,11 @@ YAML              10 mins         -------------------------   00.70 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#252](https://github.com/mheob/config/issues/252) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#251](https://github.com/mheob/config/pull/251) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#249](https://github.com/mheob/config/pull/249) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#247](https://github.com/mheob/config/pull/247) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#23](https://github.com/mheob/mheob/pull/23) in [mheob/mheob](https://github.com/mheob/mheob)
+1. 💪 Opened PR [#253](https://github.com/mheob/config/pull/253) in [mheob/config](https://github.com/mheob/config)
+2. ❗ Opened issue [#252](https://github.com/mheob/config/issues/252) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#251](https://github.com/mheob/config/pull/251) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#249](https://github.com/mheob/config/pull/249) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#247](https://github.com/mheob/config/pull/247) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ YAML              7 mins          -------------------------   00.34 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#237](https://github.com/mheob/config/issues/237#issuecomment-2799955840) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#254](https://github.com/mheob/config/pull/254) in [mheob/config](https://github.com/mheob/config)
-4. 🔒 Closed issue [#16](https://github.com/mheob/scopevisio-coding-challenge/issues/16) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
-5. 🔒 Closed issue [#12](https://github.com/mheob/scopevisio-coding-challenge/issues/12) in [mheob/scopevisio-coding-challenge](https://github.com/mheob/scopevisio-coding-challenge)
+1. 🎉 Merged PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+2. 💪 Opened PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 💪 Opened PR [#255](https://github.com/mheob/config/pull/255) in [mheob/config](https://github.com/mheob/config)
+4. 🔒 Closed issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
+5. 🗣 Commented on [#237](https://github.com/mheob/config/issues/237#issuecomment-2799955840) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

@@ -67,7 +67,7 @@ let mheob: FullStackEngineer = {
 ### Tools
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
-[![GitKraken](https://img.shields.io/badge/GitKraken%2A-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://www.gitkraken.com/invite/sPijQ3nc)
+[![GitKraken](https://img.shields.io/badge/GitKraken%2A-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://gitkraken.cello.so/VubG66Ey6TT)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7.svg?&style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/)

@@ -108,11 +108,11 @@ YAML              43 mins         -------------------------   01.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#256](https://github.com/mheob/config/pull/256) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-3. 💪 Opened PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-4. 💪 Opened PR [#255](https://github.com/mheob/config/pull/255) in [mheob/config](https://github.com/mheob/config)
-5. 🔒 Closed issue [#237](https://github.com/mheob/config/issues/237) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#257](https://github.com/mheob/config/pull/257) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#256](https://github.com/mheob/config/pull/256) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+4. 💪 Opened PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+5. 💪 Opened PR [#255](https://github.com/mheob/config/pull/255) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

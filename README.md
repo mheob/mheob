@@ -108,11 +108,11 @@ Prisma       2 hrs 5 mins    >------------------------   05.08 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#180](https://github.com/mheob/tsg-irlich-web/issues/180) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#67](https://github.com/mheob/tsg-irlich-web/issues/67) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#257](https://github.com/mheob/config/pull/257) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#256](https://github.com/mheob/config/pull/256) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#4](https://github.com/mheob/renovate-config/pull/4) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 💪 Opened PR [#72](https://github.com/labs42io/clean-code-typescript/pull/72) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+2. ❗ Opened issue [#180](https://github.com/mheob/tsg-irlich-web/issues/180) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#67](https://github.com/mheob/tsg-irlich-web/issues/67) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#257](https://github.com/mheob/config/pull/257) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#256](https://github.com/mheob/config/pull/256) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

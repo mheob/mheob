@@ -108,11 +108,11 @@ Prisma       2 hrs 5 mins    >>-----------------------   06.16 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#263](https://github.com/mheob/config/pull/263) in [mheob/config](https://github.com/mheob/config)
-3. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844638441) in [mheob/config](https://github.com/mheob/config)
-4. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844637883) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#262](https://github.com/mheob/config/pull/262) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+2. 💪 Opened PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+3. 🎉 Merged PR [#88](https://github.com/mheob/ef-calc/pull/88) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+4. ❗ Opened issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#263](https://github.com/mheob/config/pull/263) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

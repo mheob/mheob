@@ -108,11 +108,11 @@ Prisma       2 hrs 5 mins    >>-----------------------   06.16 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844638441) in [mheob/config](https://github.com/mheob/config)
-2. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844637883) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#262](https://github.com/mheob/config/pull/262) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#260](https://github.com/mheob/config/pull/260) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#72](https://github.com/labs42io/clean-code-typescript/pull/72) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+1. ❗ Opened issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#263](https://github.com/mheob/config/pull/263) in [mheob/config](https://github.com/mheob/config)
+3. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844638441) in [mheob/config](https://github.com/mheob/config)
+4. 🗣 Commented on [#259](https://github.com/mheob/config/pull/259#issuecomment-2844637883) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#262](https://github.com/mheob/config/pull/262) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

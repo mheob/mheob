@@ -108,11 +108,11 @@ JSON         2 hrs 29 mins   >>-----------------------   06.13 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#266](https://github.com/mheob/config/issues/266) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-3. 💪 Opened PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-4. 🎉 Merged PR [#88](https://github.com/mheob/ef-calc/pull/88) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
-5. ❗ Opened issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#3](https://github.com/mheob/rollup-plugins/pull/3) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+2. 🎉 Merged PR [#1](https://github.com/mheob/rollup-plugins/pull/1) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+3. ❗ Opened issue [#266](https://github.com/mheob/config/issues/266) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+5. 💪 Opened PR [#7](https://github.com/mheob/compare-by-key/pull/7) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
   <!--END_SECTION:activity-->
 </details>
 

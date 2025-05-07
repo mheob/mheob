@@ -108,11 +108,11 @@ YAML         2 hrs 23 mins   >>-----------------------   06.93 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#267](https://github.com/mheob/config/issues/267) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
-3. 💪 Opened PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
-4. 🗣 Commented on [#7](https://github.com/mheob/rollup-plugins/pull/7#issuecomment-2854531718) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
-5. 💪 Opened PR [#7](https://github.com/mheob/rollup-plugins/pull/7) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+1. 💪 Opened PR [#268](https://github.com/mheob/config/pull/268) in [mheob/config](https://github.com/mheob/config)
+2. ❗ Opened issue [#267](https://github.com/mheob/config/issues/267) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+4. 💪 Opened PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+5. 🗣 Commented on [#7](https://github.com/mheob/rollup-plugins/pull/7#issuecomment-2854531718) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
   <!--END_SECTION:activity-->
 </details>
 

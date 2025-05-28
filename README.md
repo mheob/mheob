@@ -108,11 +108,11 @@ Java Properties   23 mins         -------------------------   00.94 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mheob/compare-by-key/pull/8) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-2. 💪 Opened PR [#8](https://github.com/mheob/compare-by-key/pull/8) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-3. 🎉 Merged PR [#6](https://github.com/mheob/renovate-config/pull/6) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-4. 💪 Opened PR [#6](https://github.com/mheob/renovate-config/pull/6) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-5. 🎉 Merged PR [#5](https://github.com/mheob/renovate-config/pull/5) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🎉 Merged PR [#9](https://github.com/mheob/compare-by-key/pull/9) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+2. 💪 Opened PR [#9](https://github.com/mheob/compare-by-key/pull/9) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+3. 🎉 Merged PR [#8](https://github.com/mheob/compare-by-key/pull/8) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+4. 💪 Opened PR [#8](https://github.com/mheob/compare-by-key/pull/8) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+5. 🎉 Merged PR [#6](https://github.com/mheob/renovate-config/pull/6) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
   <!--END_SECTION:activity-->
 </details>
 

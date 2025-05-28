@@ -108,11 +108,11 @@ Java Properties   23 mins         -------------------------   00.94 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#268](https://github.com/mheob/config/pull/268) in [mheob/config](https://github.com/mheob/config)
-2. ❗ Opened issue [#267](https://github.com/mheob/config/issues/267) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
-4. 💪 Opened PR [#10](https://github.com/mheob/rollup-plugins/pull/10) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
-5. 🗣 Commented on [#7](https://github.com/mheob/rollup-plugins/pull/7#issuecomment-2854531718) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+1. 🎉 Merged PR [#6](https://github.com/mheob/renovate-config/pull/6) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+2. 💪 Opened PR [#6](https://github.com/mheob/renovate-config/pull/6) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 🎉 Merged PR [#5](https://github.com/mheob/renovate-config/pull/5) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+4. 💪 Opened PR [#90](https://github.com/mheob/ef-calc/pull/90) in [mheob/ef-calc](https://github.com/mheob/ef-calc)
+5. 💪 Opened PR [#268](https://github.com/mheob/config/pull/268) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

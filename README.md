@@ -108,11 +108,11 @@ JavaScript        7 mins          -------------------------   00.34 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/mheob/tsg-irlich-web/pull/189#issuecomment-2918694452) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#189](https://github.com/mheob/tsg-irlich-web/pull/189) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🗣 Commented on [#188](https://github.com/mheob/tsg-irlich-web/pull/188#issuecomment-2918688529) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#188](https://github.com/mheob/tsg-irlich-web/pull/188) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❌ Closed PR [#186](https://github.com/mheob/tsg-irlich-web/pull/186) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❗ Opened issue [#190](https://github.com/mheob/tsg-irlich-web/issues/190) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🗣 Commented on [#189](https://github.com/mheob/tsg-irlich-web/pull/189#issuecomment-2918694452) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#189](https://github.com/mheob/tsg-irlich-web/pull/189) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🗣 Commented on [#188](https://github.com/mheob/tsg-irlich-web/pull/188#issuecomment-2918688529) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#188](https://github.com/mheob/tsg-irlich-web/pull/188) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

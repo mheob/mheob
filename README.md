@@ -108,11 +108,11 @@ JavaScript        27 mins         -------------------------   00.89 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#284](https://github.com/antfu/vscode-file-nesting-config/pull/284) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-3. 🎉 Merged PR [#192](https://github.com/mheob/tsg-irlich-web/pull/192) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔓 Reopened issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#7](https://github.com/mheob/renovate-config/pull/7) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🎉 Merged PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#284](https://github.com/antfu/vscode-file-nesting-config/pull/284) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+4. 🎉 Merged PR [#192](https://github.com/mheob/tsg-irlich-web/pull/192) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔓 Reopened issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

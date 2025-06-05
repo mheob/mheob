@@ -108,11 +108,11 @@ YAML              51 mins         -------------------------   01.34 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#284](https://github.com/antfu/vscode-file-nesting-config/pull/284) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
-4. 🎉 Merged PR [#192](https://github.com/mheob/tsg-irlich-web/pull/192) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔓 Reopened issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🚀 Published release [v1.1.0](https://github.com/mheob/renovate-config/releases/tag/v1.1.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+2. 💪 Opened PR [#8](https://github.com/mheob/renovate-config/pull/8) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 🎉 Merged PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#284](https://github.com/antfu/vscode-file-nesting-config/pull/284) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
   <!--END_SECTION:activity-->
 </details>
 

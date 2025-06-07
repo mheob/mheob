@@ -108,11 +108,11 @@ YAML              2 hrs 3 mins    >------------------------   03.08 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#273](https://github.com/mheob/config/pull/273) in [mheob/config](https://github.com/mheob/config)
-2. 🚀 Published release [v1.1.0](https://github.com/mheob/renovate-config/releases/tag/v1.1.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-3. 💪 Opened PR [#8](https://github.com/mheob/renovate-config/pull/8) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-4. 🎉 Merged PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#193](https://github.com/mheob/tsg-irlich-web/pull/193) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#274](https://github.com/mheob/config/pull/274) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#274](https://github.com/mheob/config/pull/274) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#273](https://github.com/mheob/config/pull/273) in [mheob/config](https://github.com/mheob/config)
+4. 🚀 Published release [v1.1.0](https://github.com/mheob/renovate-config/releases/tag/v1.1.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+5. 💪 Opened PR [#8](https://github.com/mheob/renovate-config/pull/8) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
   <!--END_SECTION:activity-->
 </details>
 

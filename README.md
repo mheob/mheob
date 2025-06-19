@@ -108,11 +108,11 @@ C#            27 mins         -------------------------   00.93 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com/mheob/config/pull/280) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#278](https://github.com/mheob/config/pull/278) in [mheob/config](https://github.com/mheob/config)
-3. 🗣 Commented on [#1721](https://github.com/kubb-labs/kubb/issues/1721#issuecomment-2976001502) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-4. 🎉 Merged PR [#197](https://github.com/mheob/tsg-irlich-web/pull/197) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#276](https://github.com/mheob/config/pull/276) in [mheob/config](https://github.com/mheob/config)
+1. ❗ Opened issue [#202](https://github.com/mheob/tsg-irlich-web/issues/202) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#201](https://github.com/mheob/tsg-irlich-web/issues/201) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#200](https://github.com/mheob/tsg-irlich-web/issues/200) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔓 Reopened issue [#170](https://github.com/mheob/tsg-irlich-web/issues/170) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#170](https://github.com/mheob/tsg-irlich-web/issues/170) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

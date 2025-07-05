@@ -108,11 +108,11 @@ Bash              1 hr 25 mins    >------------------------   03.31 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1773](https://github.com/kubb-labs/kubb/issues/1773#issuecomment-3015331682) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-2. ❗ Opened issue [#1773](https://github.com/kubb-labs/kubb/issues/1773) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-3. 💪 Opened PR [#281](https://github.com/mheob/config/pull/281) in [mheob/config](https://github.com/mheob/config)
-4. 🔒 Closed issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🎉 Merged PR [#206](https://github.com/mheob/tsg-irlich-web/pull/206) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#103](https://github.com/mheob/tsg-irlich-web/issues/103) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🗣 Commented on [#1773](https://github.com/kubb-labs/kubb/issues/1773#issuecomment-3015331682) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
+3. ❗ Opened issue [#1773](https://github.com/kubb-labs/kubb/issues/1773) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
+4. 💪 Opened PR [#281](https://github.com/mheob/config/pull/281) in [mheob/config](https://github.com/mheob/config)
+5. 🔒 Closed issue [#172](https://github.com/mheob/tsg-irlich-web/issues/172) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

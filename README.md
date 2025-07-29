@@ -108,11 +108,11 @@ YAML              1 hr            >------------------------   02.45 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🎉 Merged PR [#198](https://github.com/mheob/tsg-irlich-web/pull/198) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#103](https://github.com/mheob/tsg-irlich-web/issues/103) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🗣 Commented on [#1773](https://github.com/kubb-labs/kubb/issues/1773#issuecomment-3015331682) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
+1. 🎉 Merged PR [#10](https://github.com/Devographics/locale-de-DE/pull/10) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+2. 🎉 Merged PR [#9](https://github.com/Devographics/locale-de-DE/pull/9) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+3. 🎉 Merged PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🎉 Merged PR [#198](https://github.com/mheob/tsg-irlich-web/pull/198) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

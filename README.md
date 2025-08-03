@@ -108,11 +108,11 @@ JSON              55 mins         >------------------------   02.64 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Devographics/locale-de-DE/pull/10) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-2. 🎉 Merged PR [#9](https://github.com/Devographics/locale-de-DE/pull/9) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
-3. 🎉 Merged PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🎉 Merged PR [#198](https://github.com/mheob/tsg-irlich-web/pull/198) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#214](https://github.com/mheob/tsg-irlich-web/pull/214) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#10](https://github.com/Devographics/locale-de-DE/pull/10) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+3. 🎉 Merged PR [#9](https://github.com/Devographics/locale-de-DE/pull/9) in [Devographics/locale-de-DE](https://github.com/Devographics/locale-de-DE)
+4. 🎉 Merged PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#212](https://github.com/mheob/tsg-irlich-web/pull/212) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

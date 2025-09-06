@@ -108,11 +108,11 @@ Bash         26 mins         -------------------------   00.78 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#227](https://github.com/mheob/tsg-irlich-web/pull/227) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#226](https://github.com/mheob/tsg-irlich-web/pull/226) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#226](https://github.com/mheob/tsg-irlich-web/pull/226) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🚀 Published release [v1.2.0](https://github.com/mheob/renovate-config/releases/tag/v1.2.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
-5. 🎉 Merged PR [#11](https://github.com/mheob/renovate-config/pull/11) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🎉 Merged PR [#227](https://github.com/mheob/tsg-irlich-web/pull/227) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 💪 Opened PR [#227](https://github.com/mheob/tsg-irlich-web/pull/227) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#226](https://github.com/mheob/tsg-irlich-web/pull/226) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#226](https://github.com/mheob/tsg-irlich-web/pull/226) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🚀 Published release [v1.2.0](https://github.com/mheob/renovate-config/releases/tag/v1.2.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
   <!--END_SECTION:activity-->
 </details>
 

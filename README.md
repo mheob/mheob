@@ -108,11 +108,11 @@ Bash         26 mins         -------------------------   00.83 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#190](https://github.com/mheob/tsg-irlich-web/issues/190) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#216](https://github.com/mheob/tsg-irlich-web/issues/216) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🔒 Closed issue [#167](https://github.com/mheob/tsg-irlich-web/issues/167) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#233](https://github.com/mheob/tsg-irlich-web/issues/233) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#232](https://github.com/mheob/tsg-irlich-web/issues/232) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#234](https://github.com/mheob/tsg-irlich-web/pull/234) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#190](https://github.com/mheob/tsg-irlich-web/issues/190) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#216](https://github.com/mheob/tsg-irlich-web/issues/216) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#167](https://github.com/mheob/tsg-irlich-web/issues/167) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#233](https://github.com/mheob/tsg-irlich-web/issues/233) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

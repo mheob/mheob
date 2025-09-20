@@ -108,11 +108,11 @@ JSON with Comments   13 mins         -------------------------   01.97 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#144](https://github.com/mheob/tsg-irlich-web/issues/144) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#234](https://github.com/mheob/tsg-irlich-web/pull/234) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🔒 Closed issue [#190](https://github.com/mheob/tsg-irlich-web/issues/190) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#216](https://github.com/mheob/tsg-irlich-web/issues/216) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#167](https://github.com/mheob/tsg-irlich-web/issues/167) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#239](https://github.com/mheob/tsg-irlich-web/pull/239) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#237](https://github.com/mheob/tsg-irlich-web/pull/237) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#236](https://github.com/mheob/tsg-irlich-web/pull/236) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#144](https://github.com/mheob/tsg-irlich-web/issues/144) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#234](https://github.com/mheob/tsg-irlich-web/pull/234) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

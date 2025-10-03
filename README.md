@@ -108,11 +108,11 @@ TSConfig     11 mins         -------------------------   00.43 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#241](https://github.com/mheob/tsg-irlich-web/issues/241) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#240](https://github.com/mheob/tsg-irlich-web/issues/240) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🔒 Closed issue [#26](https://github.com/mheob/tsg-irlich-web/issues/26) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#62](https://github.com/mheob/tsg-irlich-web/issues/62) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔓 Reopened issue [#62](https://github.com/mheob/tsg-irlich-web/issues/62) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#221](https://github.com/mheob/tsg-irlich-web/issues/221) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#253](https://github.com/mheob/tsg-irlich-web/issues/253) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#252](https://github.com/mheob/tsg-irlich-web/issues/252) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#241](https://github.com/mheob/tsg-irlich-web/issues/241) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#240](https://github.com/mheob/tsg-irlich-web/issues/240) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

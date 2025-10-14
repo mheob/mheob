@@ -108,11 +108,11 @@ JavaScript   2 hrs 15 mins   >------------------------   04.92 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#597](https://github.com/mheob/itsb-web/pull/597) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 🎉 Merged PR [#309](https://github.com/mheob/config/pull/309) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#309](https://github.com/mheob/config/pull/309) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#308](https://github.com/mheob/config/pull/308) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#307](https://github.com/mheob/config/pull/307) in [mheob/config](https://github.com/mheob/config)
+1. 💪 Opened PR [#597](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ❌ Labeled PR [#309](undefined) in [mheob/config](https://github.com/mheob/config)
+3. ❌ Unlabeled PR [#309](undefined) in [mheob/config](https://github.com/mheob/config)
+4. ❌ Unlabeled PR [#309](undefined) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#309](undefined) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

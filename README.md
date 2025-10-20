@@ -108,9 +108,9 @@ Git Config           2 hrs 34 mins   >>-----------------------   06.48 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#275](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#275](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❌ Labeled PR [#274](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#311](undefined) in [mheob/config](https://github.com/mheob/config)
+2. ❌ Labeled PR [#275](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#275](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 4. ❌ Labeled PR [#274](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ❌ Labeled PR [#274](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->

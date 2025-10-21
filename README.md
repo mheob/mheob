@@ -108,11 +108,11 @@ Git Config           2 hrs 34 mins   >>-----------------------   06.48 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#317](undefined) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#317](undefined) in [mheob/config](https://github.com/mheob/config)
-3. ❌ Labeled PR [#315](undefined) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#315](undefined) in [mheob/config](https://github.com/mheob/config)
-5. ❌ Labeled PR [#313](undefined) in [mheob/config](https://github.com/mheob/config)
+1. ❌ Closed PR [#251](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❌ Labeled PR [#276](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#276](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❌ Labeled PR [#317](undefined) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#317](undefined) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

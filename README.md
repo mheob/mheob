@@ -108,11 +108,11 @@ Other                29 mins         -------------------------   00.88 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](undefined) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-2. ❌ Closed PR [#251](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❌ Labeled PR [#276](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#276](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❌ Labeled PR [#317](undefined) in [mheob/config](https://github.com/mheob/config)
+1. ❌ Labeled PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❌ Labeled PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❌ Labeled PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#15](undefined) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
   <!--END_SECTION:activity-->
 </details>
 

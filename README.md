@@ -108,11 +108,11 @@ YAML                 1 hr 24 mins    >------------------------   02.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#279](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❌ Labeled PR [#279](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#279](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❌ Unlabeled PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❌ Labeled PR [#278](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1.  Labeled issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2.  Labeled issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❌ Labeled PR [#279](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❌ Labeled PR [#279](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

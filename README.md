@@ -108,11 +108,11 @@ GraphQL              1 hr 3 mins     -------------------------   01.70 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1514](https://github.com/warpdotdev/Warp/issues/1514#issuecomment-3467320818) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. 🗣 Commented on [#34649](https://github.com/Azure/azure-sdk-for-js/issues/34649#issuecomment-3456445554) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-3.  Labeled issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🗣 Commented on [#74](https://github.com/labs42io/clean-code-typescript/pull/74#issuecomment-3468808029) in [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+2. 🗣 Commented on [#1514](https://github.com/warpdotdev/Warp/issues/1514#issuecomment-3467320818) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 🗣 Commented on [#34649](https://github.com/Azure/azure-sdk-for-js/issues/34649#issuecomment-3456445554) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
 4.  Labeled issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5.  Labeled issue [#280](https://github.com/mheob/tsg-irlich-web/issues/280) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ Other        53 mins         >------------------------   02.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#327](undefined) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#327](undefined) in [mheob/config](https://github.com/mheob/config)
-3. ❌ Labeled PR [#326](undefined) in [mheob/config](https://github.com/mheob/config)
-4. ❌ Labeled PR [#326](undefined) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#326](undefined) in [mheob/config](https://github.com/mheob/config)
+1. ❗ Opened issue [#288](https://github.com/mheob/tsg-irlich-web/issues/288) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2.  Labeled issue [#288](https://github.com/mheob/tsg-irlich-web/issues/288) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3.  Assigned issue [#288](https://github.com/mheob/tsg-irlich-web/issues/288) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4.  Labeled issue [#287](https://github.com/mheob/tsg-irlich-web/issues/287) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#287](https://github.com/mheob/tsg-irlich-web/issues/287) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

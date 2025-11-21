@@ -108,11 +108,11 @@ Other        1 hr            >------------------------   02.04 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#295](https://github.com/mheob/tsg-irlich-web/issues/295) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2.  Labeled issue [#294](https://github.com/mheob/tsg-irlich-web/issues/294) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3.  Labeled issue [#294](https://github.com/mheob/tsg-irlich-web/issues/294) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#294](https://github.com/mheob/tsg-irlich-web/issues/294) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5.  Assigned issue [#294](https://github.com/mheob/tsg-irlich-web/issues/294) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
+2. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
+3. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
+4. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

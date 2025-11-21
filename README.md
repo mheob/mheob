@@ -108,10 +108,10 @@ Other        1 hr            >------------------------   02.04 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#296](https://github.com/mheob/tsg-irlich-web/issues/296) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
-3. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
-4. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
+1. ❌ Labeled PR [#297](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❌ Labeled PR [#297](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#297](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#296](https://github.com/mheob/tsg-irlich-web/issues/296) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ❌ Labeled PR [#330](undefined) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>

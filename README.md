@@ -108,11 +108,11 @@ GraphQL      42 mins         -------------------------   01.29 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#300](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#300](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3.  Unassigned issue [#71](https://github.com/mheob/tsg-irlich-web/issues/71) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4.  Labeled issue [#299](https://github.com/mheob/tsg-irlich-web/issues/299) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#299](https://github.com/mheob/tsg-irlich-web/issues/299) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❗ Opened issue [#301](https://github.com/mheob/tsg-irlich-web/issues/301) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2.  Assigned issue [#301](https://github.com/mheob/tsg-irlich-web/issues/301) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#259](https://github.com/mheob/tsg-irlich-web/issues/259) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#254](https://github.com/mheob/tsg-irlich-web/issues/254) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#299](https://github.com/mheob/tsg-irlich-web/issues/299) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -108,11 +108,11 @@ TOML         1 hr 41 mins    >------------------------   02.47 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#306](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#306](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🗣 Commented on [#305](https://github.com/mheob/tsg-irlich-web/pull/305#issuecomment-3567989537) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#305](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5.  Labeled issue [#304](https://github.com/mheob/tsg-irlich-web/issues/304) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1.  Assigned issue [#307](https://github.com/mheob/tsg-irlich-web/issues/307) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#307](https://github.com/mheob/tsg-irlich-web/issues/307) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❌ Labeled PR [#306](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#306](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🗣 Commented on [#305](https://github.com/mheob/tsg-irlich-web/pull/305#issuecomment-3567989537) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

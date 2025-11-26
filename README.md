@@ -109,10 +109,10 @@ GraphQL      1 hr 36 mins    >------------------------   02.44 %
 
   <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#332](undefined) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#332](undefined) in [mheob/config](https://github.com/mheob/config)
-3. ❌ Labeled PR [#308](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#308](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5.  Assigned issue [#307](https://github.com/mheob/tsg-irlich-web/issues/307) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❌ Unlabeled PR [#332](undefined) in [mheob/config](https://github.com/mheob/config)
+3. ❌ Labeled PR [#332](undefined) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#332](undefined) in [mheob/config](https://github.com/mheob/config)
+5. ❌ Labeled PR [#308](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

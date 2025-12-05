@@ -89,15 +89,15 @@ let mheob: FullStackEngineer = {
 <!--START_SECTION:waka-->
 
 ```ts
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Total Time: 37 hrs 55 mins
+Total Time: 40 hrs 51 mins
 
-TypeScript   27 hrs 3 mins   >>>>>>>>>>>>>>>>>>-------   71.36 %
-YAML         5 hrs 20 mins   >>>>---------------------   14.08 %
-Markdown     2 hrs 41 mins   >>-----------------------   07.09 %
-JSON         52 mins         >------------------------   02.31 %
-GraphQL      52 mins         >------------------------   02.31 %
+TypeScript   25 hrs 54 mins  >>>>>>>>>>>>>>>>---------   63.42 %
+YAML         6 hrs 24 mins   >>>>---------------------   15.69 %
+Markdown     2 hrs 45 mins   >>-----------------------   06.74 %
+JSON         2 hrs 30 mins   >>-----------------------   06.15 %
+GraphQL      52 mins         >------------------------   02.14 %
 ```
 
 <!--END_SECTION:waka-->

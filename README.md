@@ -108,9 +108,9 @@ Other        56 mins         -------------------------   01.41 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#328](https://github.com/mheob/tsg-irlich-web/issues/328) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❌ Merged PR [#327](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❌ Labeled PR [#327](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❗ Opened issue [#329](https://github.com/mheob/tsg-irlich-web/issues/329) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#328](https://github.com/mheob/tsg-irlich-web/issues/328) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❌ Merged PR [#327](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 4. ❌ Labeled PR [#327](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ❌ Labeled PR [#327](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->

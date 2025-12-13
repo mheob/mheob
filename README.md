@@ -108,11 +108,11 @@ Docker       36 mins         -------------------------   00.96 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1.  Labeled issue [#337](https://github.com/mheob/tsg-irlich-web/issues/337) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2.  Labeled issue [#337](https://github.com/mheob/tsg-irlich-web/issues/337) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3.  Labeled issue [#337](https://github.com/mheob/tsg-irlich-web/issues/337) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#337](https://github.com/mheob/tsg-irlich-web/issues/337) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5.  Labeled issue [#336](https://github.com/mheob/tsg-irlich-web/issues/336) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❌ Merged PR [#338](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❌ Labeled PR [#338](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❌ Labeled PR [#338](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 💪 Opened PR [#338](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5.  Labeled issue [#337](https://github.com/mheob/tsg-irlich-web/issues/337) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

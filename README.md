@@ -53,22 +53,21 @@ let mheob: FullStackEngineer = {
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)](https://php.net/)
 \
 [![React](https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Contentful](https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)](https://www.contentful.com/)
-[![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://wordpress.org/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03E2F.svg?style=for-the-badge&logo=Sanity&logoColor=white)](https://www.sanity.io/)
 \
-[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)](https://styled-components.com/)
-[![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)](https://chakra-ui.com/)
+[![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)](https://chakra-ui.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)](https://styled-components.com/)
 
 ### Tools
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 [![GitKraken](https://img.shields.io/badge/GitKraken%2A-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://gitkraken.cello.so/VubG66Ey6TT)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Bruno](https://img.shields.io/badge/bruno-F4AA41.svg?&style=for-the-badge&logo=bruno&logoColor=black)](https://www.postman.com/)
 [![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7.svg?&style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/)

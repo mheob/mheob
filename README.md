@@ -107,11 +107,11 @@ CSS          12 mins         -------------------------   00.39 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Merged PR [#361](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🗣 Commented on [#361](https://github.com/mheob/tsg-irlich-web/pull/361#issuecomment-3675793204) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❌ Labeled PR [#361](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❌ Labeled PR [#361](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#361](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1.  Labeled issue [#362](https://github.com/mheob/tsg-irlich-web/issues/362) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2.  Labeled issue [#362](https://github.com/mheob/tsg-irlich-web/issues/362) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#362](https://github.com/mheob/tsg-irlich-web/issues/362) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#351](https://github.com/mheob/tsg-irlich-web/issues/351) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#353](https://github.com/mheob/tsg-irlich-web/issues/353) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

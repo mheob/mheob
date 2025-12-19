@@ -107,11 +107,11 @@ Git Config   8 mins          -------------------------   00.29 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1.  Assigned issue [#359](https://github.com/mheob/tsg-irlich-web/issues/359) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2.  Labeled issue [#359](https://github.com/mheob/tsg-irlich-web/issues/359) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#359](https://github.com/mheob/tsg-irlich-web/issues/359) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❌ Merged PR [#358](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❌ Labeled PR [#358](undefined) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1.  Labeled issue [#360](https://github.com/mheob/tsg-irlich-web/issues/360) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#360](https://github.com/mheob/tsg-irlich-web/issues/360) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3.  Assigned issue [#360](https://github.com/mheob/tsg-irlich-web/issues/360) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4.  Assigned issue [#359](https://github.com/mheob/tsg-irlich-web/issues/359) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5.  Labeled issue [#359](https://github.com/mheob/tsg-irlich-web/issues/359) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

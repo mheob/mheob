@@ -27,7 +27,7 @@ I try to make the internet a bit nicer and look for interesting (open source) pr
 ```ts
 let mheob: FullStackEngineer = {
   pronouns: 'He' | 'Him',
-  askMeAbout: ['Web Dev', 'Tech', 'Soccer', 'Open Source'],
+  askMeAbout: ['Web Dev', 'Open Source', 'Sport', 'Soccer'],
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
@@ -43,14 +43,14 @@ let mheob: FullStackEngineer = {
     misc: ['GraphQL', 'REST'],
     mobileApp: ['React Native'],
   },
-  currentFocus: ['NextJS', 'SvelteKit', 'Astro', 'Go'],
+  currentFocus: ['NextJS', 'Astro', 'Go', 'NestJS'],
 };
 ```
 
 ## 🧑🏽‍💻 Technology Stack
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)
 \
@@ -59,7 +59,7 @@ let mheob: FullStackEngineer = {
 [![Contentful](https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)](https://www.contentful.com/)
 [![Sanity](https://img.shields.io/badge/Sanity-F03E2F.svg?style=for-the-badge&logo=Sanity&logoColor=white)](https://www.sanity.io/)
 \
-[![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)](https://chakra-ui.com/)
+[![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)](https://styled-components.com/)
 
@@ -67,7 +67,7 @@ let mheob: FullStackEngineer = {
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 [![GitKraken](https://img.shields.io/badge/GitKraken%2A-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://gitkraken.cello.so/VubG66Ey6TT)
-[![Bruno](https://img.shields.io/badge/bruno-F4AA41.svg?&style=for-the-badge&logo=bruno&logoColor=black)](https://www.postman.com/)
+[![Bruno](https://img.shields.io/badge/bruno-F4AA41.svg?&style=for-the-badge&logo=bruno&logoColor=black)](https://www.usebruno.com/)
 [![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7.svg?&style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/)

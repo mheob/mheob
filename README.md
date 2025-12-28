@@ -107,11 +107,11 @@ CSS                  47 mins         -------------------------   01.72 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1.  Labeled issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2.  Labeled issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3.  Labeled issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5.  Assigned issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1.  Labeled issue [#374](https://github.com/mheob/tsg-irlich-web/issues/374) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2.  Labeled issue [#374](https://github.com/mheob/tsg-irlich-web/issues/374) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3.  Assigned issue [#374](https://github.com/mheob/tsg-irlich-web/issues/374) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#374](https://github.com/mheob/tsg-irlich-web/issues/374) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5.  Labeled issue [#373](https://github.com/mheob/tsg-irlich-web/issues/373) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

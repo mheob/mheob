@@ -107,11 +107,11 @@ JSON         12 mins         -------------------------   00.65 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. ❌ Merged PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
 2. ❌ Labeled PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 💪 Opened PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 🗣 Commented on [#580](https://github.com/mheob/itsb-web/pull/580#issuecomment-3703840796) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🗣 Commented on [#579](https://github.com/mheob/itsb-web/pull/579#issuecomment-3703840374) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. ❌ Labeled PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 💪 Opened PR [#599](undefined) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 🗣 Commented on [#580](https://github.com/mheob/itsb-web/pull/580#issuecomment-3703840796) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -90,11 +90,11 @@ let mheob: FullStackEngineer = {
 ```ts
 From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 37 hrs 13 mins
+Total Time: 37 hrs 18 mins
 
-TypeScript   23 hrs 37 mins  >>>>>>>>>>>>>>>>---------   63.45 %
-Astro        5 hrs 46 mins   >>>>---------------------   15.51 %
-JSON         2 hrs 52 mins   >>-----------------------   07.70 %
+TypeScript   23 hrs 41 mins  >>>>>>>>>>>>>>>>---------   63.52 %
+Astro        5 hrs 46 mins   >>>>---------------------   15.48 %
+JSON         2 hrs 52 mins   >>-----------------------   07.69 %
 Svelte       59 mins         >------------------------   02.66 %
 Bash         57 mins         >------------------------   02.58 %
 ```

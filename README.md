@@ -107,11 +107,11 @@ Bash         57 mins         >------------------------   02.58 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#370](https://github.com/mheob/tsg-irlich-web/issues/370) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#215](https://github.com/mheob/tsg-irlich-web/issues/215) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🔒 Closed issue [#357](https://github.com/mheob/tsg-irlich-web/issues/357) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#314](https://github.com/mheob/tsg-irlich-web/issues/314) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#350](https://github.com/mheob/tsg-irlich-web/issues/350) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ℹ️ Assigned issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Labeled issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#370](https://github.com/mheob/tsg-irlich-web/issues/370) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#215](https://github.com/mheob/tsg-irlich-web/issues/215) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

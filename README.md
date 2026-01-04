@@ -107,10 +107,10 @@ Svelte       59 mins         >------------------------   02.45 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/mheob/vscode-snippets/releases/tag/v2.1.1) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-2. 🎉 Merged PR [#132](https://github.com/mheob/vscode-snippets/pull/132) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-3. ℹ️ Labeled PR [#132](https://github.com/mheob/vscode-snippets/pull/132) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-4. ℹ️ Labeled PR [#132](https://github.com/mheob/vscode-snippets/pull/132) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. ❌ Closed PR [#123](https://github.com/mheob/vscode-snippets/pull/123) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+2. ❌ Closed PR [#112](https://github.com/mheob/vscode-snippets/pull/112) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. 🚀 Published release [v2.1.1](https://github.com/mheob/vscode-snippets/releases/tag/v2.1.1) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. 🎉 Merged PR [#132](https://github.com/mheob/vscode-snippets/pull/132) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
 5. ℹ️ Labeled PR [#132](https://github.com/mheob/vscode-snippets/pull/132) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
   <!--END_SECTION:activity-->
 </details>

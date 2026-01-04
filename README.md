@@ -107,11 +107,11 @@ Bash         57 mins         >------------------------   02.58 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ℹ️ Labeled issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#386](https://github.com/mheob/tsg-irlich-web/issues/386) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🔒 Closed issue [#370](https://github.com/mheob/tsg-irlich-web/issues/370) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#215](https://github.com/mheob/tsg-irlich-web/issues/215) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#603](https://github.com/mheob/itsb-web/issues/603) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 🎉 Merged PR [#605](https://github.com/mheob/itsb-web/pull/605) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. ℹ️ Labeled PR [#605](https://github.com/mheob/itsb-web/pull/605) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 💪 Opened PR [#605](https://github.com/mheob/itsb-web/pull/605) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. ℹ️ Labeled issue [#604](https://github.com/mheob/itsb-web/issues/604) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -107,11 +107,11 @@ Bash         57 mins         >------------------------   02.58 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#607](https://github.com/mheob/itsb-web/issues/607) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. ❗ Opened issue [#607](https://github.com/mheob/itsb-web/issues/607) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. ℹ️ Labeled PR [#606](https://github.com/mheob/itsb-web/pull/606) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 💪 Opened PR [#606](https://github.com/mheob/itsb-web/pull/606) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🔒 Closed issue [#603](https://github.com/mheob/itsb-web/issues/603) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 🎉 Merged PR [#606](https://github.com/mheob/itsb-web/pull/606) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ℹ️ Labeled issue [#607](https://github.com/mheob/itsb-web/issues/607) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. ❗ Opened issue [#607](https://github.com/mheob/itsb-web/issues/607) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. ℹ️ Labeled PR [#606](https://github.com/mheob/itsb-web/pull/606) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 💪 Opened PR [#606](https://github.com/mheob/itsb-web/pull/606) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

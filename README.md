@@ -107,11 +107,11 @@ Svelte       59 mins         >------------------------   02.37 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. ℹ️ Labeled PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 💪 Opened PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. ❌ Closed PR [#123](https://github.com/mheob/vscode-snippets/pull/123) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. ❌ Closed PR [#112](https://github.com/mheob/vscode-snippets/pull/112) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. ℹ️ Labeled issue [#382](https://github.com/mheob/tsg-irlich-web/issues/382) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#341](https://github.com/mheob/tsg-irlich-web/issues/341) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔓 Reopened issue [#341](https://github.com/mheob/tsg-irlich-web/issues/341) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. ℹ️ Labeled PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

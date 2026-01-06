@@ -107,11 +107,11 @@ Svelte       59 mins         >------------------------   02.37 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#382](https://github.com/mheob/tsg-irlich-web/issues/382) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#341](https://github.com/mheob/tsg-irlich-web/issues/341) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🔓 Reopened issue [#341](https://github.com/mheob/tsg-irlich-web/issues/341) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. ℹ️ Labeled PR [#609](https://github.com/mheob/itsb-web/pull/609) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. ℹ️ Labeled issue [#387](https://github.com/mheob/tsg-irlich-web/issues/387) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Unlabeled issue [#387](https://github.com/mheob/tsg-irlich-web/issues/387) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ℹ️ Labeled issue [#387](https://github.com/mheob/tsg-irlich-web/issues/387) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled issue [#382](https://github.com/mheob/tsg-irlich-web/issues/382) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔒 Closed issue [#341](https://github.com/mheob/tsg-irlich-web/issues/341) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

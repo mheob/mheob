@@ -88,15 +88,15 @@ let mheob: FullStackEngineer = {
 <!--START_SECTION:waka-->
 
 ```ts
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-Total Time: 55 hrs 7 mins
+Total Time: 48 hrs 5 mins
 
-TypeScript    31 hrs 29 mins  >>>>>>>>>>>>>>-----------   57.12 %
-JSON          7 hrs 8 mins    >>>----------------------   12.95 %
-CSV           5 hrs 54 mins   >>>----------------------   10.71 %
-Astro         4 hrs 11 mins   >>-----------------------   07.59 %
-CSS           1 hr 49 mins    >------------------------   03.32 %
+TypeScript    25 hrs 46 mins  >>>>>>>>>>>>>------------   53.58 %
+CSV           8 hrs 48 mins   >>>>>--------------------   18.30 %
+JSON          4 hrs 49 mins   >>>----------------------   10.05 %
+Astro         4 hrs 11 mins   >>-----------------------   08.70 %
+CSS           1 hr 49 mins    >------------------------   03.81 %
 ```
 
 <!--END_SECTION:waka-->

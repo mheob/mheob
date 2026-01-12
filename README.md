@@ -107,10 +107,10 @@ Text          22 mins         -------------------------   01.15 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ℹ️ Labeled issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Labeled issue [#392](https://github.com/mheob/tsg-irlich-web/issues/392) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ℹ️ Assigned issue [#371](https://github.com/mheob/tsg-irlich-web/issues/371) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Assigned issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ℹ️ Labeled issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#393](https://github.com/mheob/tsg-irlich-web/issues/393) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ℹ️ Labeled issue [#392](https://github.com/mheob/tsg-irlich-web/issues/392) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>

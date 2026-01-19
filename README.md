@@ -107,10 +107,10 @@ Markdown     1 hr 37 mins    >------------------------   03.62 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Labeled issue [#394](https://github.com/mheob/tsg-irlich-web/issues/394) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#614](https://github.com/mheob/itsb-web/pull/614) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ℹ️ Labeled issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Assigned issue [#395](https://github.com/mheob/tsg-irlich-web/issues/395) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ℹ️ Labeled issue [#394](https://github.com/mheob/tsg-irlich-web/issues/394) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>

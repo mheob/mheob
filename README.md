@@ -107,11 +107,11 @@ Other        57 mins         >------------------------   02.23 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ℹ️ Labeled issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#343](https://github.com/mheob/config/pull/343) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#614](https://github.com/mheob/itsb-web/pull/614) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. 💪 Opened PR [#615](https://github.com/mheob/itsb-web/pull/615) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ℹ️ Assigned issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ℹ️ Labeled issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#396](https://github.com/mheob/tsg-irlich-web/issues/396) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 💪 Opened PR [#343](https://github.com/mheob/config/pull/343) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

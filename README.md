@@ -107,11 +107,11 @@ YAML           2 hrs 1 min     >------------------------   03.52 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
-2. ❌ Closed PR [#343](https://github.com/mheob/config/pull/343) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#352](https://github.com/mheob/config/pull/352) in [mheob/config](https://github.com/mheob/config)
-4. ℹ️ Labeled PR [#352](https://github.com/mheob/config/pull/352) in [mheob/config](https://github.com/mheob/config)
-5. ℹ️ Labeled PR [#352](https://github.com/mheob/config/pull/352) in [mheob/config](https://github.com/mheob/config)
+1. ℹ️ Labeled PR [#616](https://github.com/mheob/itsb-web/pull/616) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. ℹ️ Labeled PR [#616](https://github.com/mheob/itsb-web/pull/616) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. 💪 Opened PR [#616](https://github.com/mheob/itsb-web/pull/616) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🔒 Closed issue [#265](https://github.com/mheob/config/issues/265) in [mheob/config](https://github.com/mheob/config)
+5. ❌ Closed PR [#343](https://github.com/mheob/config/pull/343) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

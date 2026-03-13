@@ -107,7 +107,7 @@ YAML           1 hr 43 mins          >>-----------------------   06.23 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#416](https://github.com/mheob/tsg-irlich-web/pull/416) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#416](https://github.com/mheob/tsg-irlich-web/pull/416) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 2. ℹ️ Labeled PR [#416](https://github.com/mheob/tsg-irlich-web/pull/416) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 3. ℹ️ Labeled PR [#416](https://github.com/mheob/tsg-irlich-web/pull/416) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 4. ℹ️ Labeled PR [#416](https://github.com/mheob/tsg-irlich-web/pull/416) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)

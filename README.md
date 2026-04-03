@@ -107,11 +107,11 @@ Markdown     12 mins               -------------------------   01.21 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
 2. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
 3. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
 4. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+5. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

@@ -107,11 +107,11 @@ Markdown     12 mins               -------------------------   01.21 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#397](https://github.com/mheob/tsg-irlich-web/issues/397) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#398](https://github.com/mheob/tsg-irlich-web/issues/398) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#418](https://github.com/mheob/tsg-irlich-web/issues/418) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Labeled issue [#424](https://github.com/mheob/tsg-irlich-web/issues/424) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#424](https://github.com/mheob/tsg-irlich-web/issues/424) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+2. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+3. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+4. ℹ️ Labeled PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#365](https://github.com/mheob/config/pull/365) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

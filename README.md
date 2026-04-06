@@ -107,11 +107,11 @@ GraphQL      15 mins               -------------------------   01.26 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#369](https://github.com/mheob/config/pull/369) in [mheob/config](https://github.com/mheob/config)
-2. ❌ Closed PR [#368](https://github.com/mheob/config/pull/368) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#368](https://github.com/mheob/config/pull/368) in [mheob/config](https://github.com/mheob/config)
-4. ℹ️ Assigned issue [#417](https://github.com/mheob/tsg-irlich-web/issues/417) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🔒 Closed issue [#392](https://github.com/mheob/tsg-irlich-web/issues/392) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#371](https://github.com/mheob/config/pull/371) in [mheob/config](https://github.com/mheob/config)
+2. 🎉 Merged PR [#369](https://github.com/mheob/config/pull/369) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#369](https://github.com/mheob/config/pull/369) in [mheob/config](https://github.com/mheob/config)
+4. ❌ Closed PR [#368](https://github.com/mheob/config/pull/368) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#368](https://github.com/mheob/config/pull/368) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

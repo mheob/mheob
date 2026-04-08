@@ -107,11 +107,11 @@ Other        52 mins               >------------------------   05.05 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#379](https://github.com/mheob/config/pull/379) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#379](https://github.com/mheob/config/pull/379) in [mheob/config](https://github.com/mheob/config)
-3. 🗣 Commented on [#18782](https://github.com/oxc-project/oxc/issues/18782#issuecomment-4206999496) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🎉 Merged PR [#377](https://github.com/mheob/config/pull/377) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#377](https://github.com/mheob/config/pull/377) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#427](https://github.com/mheob/tsg-irlich-web/pull/427#issuecomment-4208740675) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#379](https://github.com/mheob/config/pull/379) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#379](https://github.com/mheob/config/pull/379) in [mheob/config](https://github.com/mheob/config)
+4. 🗣 Commented on [#18782](https://github.com/oxc-project/oxc/issues/18782#issuecomment-4206999496) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🎉 Merged PR [#377](https://github.com/mheob/config/pull/377) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

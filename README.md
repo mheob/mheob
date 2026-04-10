@@ -107,11 +107,11 @@ jsonc        1 hr 15 mins          >------------------------   03.70 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
-2. ℹ️ Labeled PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
-3. ℹ️ Labeled PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
-4. 🎉 Merged PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
+1. ℹ️ Labeled PR [#428](https://github.com/mheob/tsg-irlich-web/pull/428) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Labeled PR [#428](https://github.com/mheob/tsg-irlich-web/pull/428) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#428](https://github.com/mheob/tsg-irlich-web/pull/428) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
+5. ℹ️ Labeled PR [#381](https://github.com/mheob/config/pull/381) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

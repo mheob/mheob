@@ -107,11 +107,11 @@ GraphQL        2 hrs 16 mins         >------------------------   05.28 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ℹ️ Labeled PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Labeled PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 🎉 Merged PR [#429](https://github.com/mheob/tsg-irlich-web/pull/429) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. ❌ Closed PR [#327](https://github.com/antfu/vscode-file-nesting-config/pull/327) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+2. 🗣 Commented on [#327](https://github.com/antfu/vscode-file-nesting-config/pull/327#issuecomment-4275687989) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+3. 💪 Opened PR [#327](https://github.com/antfu/vscode-file-nesting-config/pull/327) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+4. 🎉 Merged PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ℹ️ Labeled PR [#430](https://github.com/mheob/tsg-irlich-web/pull/430) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -103,11 +103,11 @@ No activity tracked
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#434](https://github.com/mheob/tsg-irlich-web/issues/434) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ℹ️ Labeled issue [#434](https://github.com/mheob/tsg-irlich-web/issues/434) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#434](https://github.com/mheob/tsg-irlich-web/issues/434) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Assigned issue [#434](https://github.com/mheob/tsg-irlich-web/issues/434) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❌ Closed PR [#327](https://github.com/antfu/vscode-file-nesting-config/pull/327) in [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+1. 🎉 Merged PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
+2. ℹ️ Labeled PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
+3. ℹ️ Labeled PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
+4. ℹ️ Labeled PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

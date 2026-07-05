@@ -107,11 +107,11 @@ JSON         1 hr 25 mins          >------------------------   02.77 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#389](https://github.com/mheob/config/pull/389) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#389](https://github.com/mheob/config/pull/389) in [mheob/config](https://github.com/mheob/config)
-3. 🎉 Merged PR [#1](https://github.com/mheob/fvr-transfer-compensation/pull/1) in [mheob/fvr-transfer-compensation](https://github.com/mheob/fvr-transfer-compensation)
-4. 💪 Opened PR [#1](https://github.com/mheob/fvr-transfer-compensation/pull/1) in [mheob/fvr-transfer-compensation](https://github.com/mheob/fvr-transfer-compensation)
-5. 🎉 Merged PR [#384](https://github.com/mheob/config/pull/384) in [mheob/config](https://github.com/mheob/config)
+1. ℹ️ Labeled issue [#440](https://github.com/mheob/tsg-irlich-web/issues/440) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ❗ Opened issue [#440](https://github.com/mheob/tsg-irlich-web/issues/440) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#389](https://github.com/mheob/config/pull/389) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#389](https://github.com/mheob/config/pull/389) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#1](https://github.com/mheob/fvr-transfer-compensation/pull/1) in [mheob/fvr-transfer-compensation](https://github.com/mheob/fvr-transfer-compensation)
   <!--END_SECTION:activity-->
 </details>
 

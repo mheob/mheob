@@ -107,10 +107,10 @@ Other          1 hr 21 mins          >------------------------   03.53 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#398](https://github.com/mheob/config/pull/398) in [mheob/config](https://github.com/mheob/config)
-2. 💪 Opened PR [#398](https://github.com/mheob/config/pull/398) in [mheob/config](https://github.com/mheob/config)
-3. 🔒 Closed issue [#424](https://github.com/mheob/tsg-irlich-web/issues/424) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Labeled issue [#446](https://github.com/mheob/tsg-irlich-web/issues/446) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🗣 Commented on [#2838](https://github.com/gitbutlerapp/gitbutler/issues/2838#issuecomment-5176475962) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#398](https://github.com/mheob/config/pull/398) in [mheob/config](https://github.com/mheob/config)
+3. 💪 Opened PR [#398](https://github.com/mheob/config/pull/398) in [mheob/config](https://github.com/mheob/config)
+4. 🔒 Closed issue [#424](https://github.com/mheob/tsg-irlich-web/issues/424) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ℹ️ Labeled issue [#446](https://github.com/mheob/tsg-irlich-web/issues/446) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>

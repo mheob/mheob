@@ -107,11 +107,11 @@ Other          2 hrs 39 mins         >------------------------   04.89 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#402](https://github.com/mheob/config/pull/402) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#400](https://github.com/mheob/config/pull/400) in [mheob/config](https://github.com/mheob/config)
-3. 💪 Opened PR [#400](https://github.com/mheob/config/pull/400) in [mheob/config](https://github.com/mheob/config)
-4. 🗣 Commented on [#2838](https://github.com/gitbutlerapp/gitbutler/issues/2838#issuecomment-5176475962) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#398](https://github.com/mheob/config/pull/398) in [mheob/config](https://github.com/mheob/config)
+1. 🗣 Commented on [#402](https://github.com/mheob/config/pull/402#issuecomment-5226163652) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#402](https://github.com/mheob/config/pull/402) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#400](https://github.com/mheob/config/pull/400) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#400](https://github.com/mheob/config/pull/400) in [mheob/config](https://github.com/mheob/config)
+5. 🗣 Commented on [#2838](https://github.com/gitbutlerapp/gitbutler/issues/2838#issuecomment-5176475962) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
   <!--END_SECTION:activity-->
 </details>
 

@@ -107,11 +107,11 @@ Markdown       17 mins               -------------------------   00.93 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Assigned issue [#455](https://github.com/mheob/tsg-irlich-web/issues/455) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#455](https://github.com/mheob/tsg-irlich-web/issues/455) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#457](https://github.com/mheob/tsg-irlich-web/pull/457) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#457](https://github.com/mheob/tsg-irlich-web/pull/457) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#456](https://github.com/mheob/tsg-irlich-web/issues/456) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

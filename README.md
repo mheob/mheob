@@ -107,11 +107,11 @@ GraphQL        19 mins               -------------------------   00.94 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 💪 Opened PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🎉 Merged PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
-4. 💪 Opened PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
-5. 🎉 Merged PR [#459](https://github.com/mheob/tsg-irlich-web/pull/459) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 💪 Opened PR [#461](https://github.com/mheob/tsg-irlich-web/pull/461) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

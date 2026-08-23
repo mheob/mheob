@@ -107,11 +107,11 @@ GraphQL        19 mins               -------------------------   00.94 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#461](https://github.com/mheob/tsg-irlich-web/pull/461) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#460](https://github.com/mheob/tsg-irlich-web/pull/460) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
-5. 💪 Opened PR [#404](https://github.com/mheob/config/pull/404) in [mheob/config](https://github.com/mheob/config)
+1. 🔒 Closed issue [#446](https://github.com/mheob/tsg-irlich-web/issues/446) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🔒 Closed issue [#454](https://github.com/mheob/tsg-irlich-web/issues/454) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#422](https://github.com/mheob/tsg-irlich-web/issues/422) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🔒 Closed issue [#434](https://github.com/mheob/tsg-irlich-web/issues/434) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🔓 Reopened issue [#387](https://github.com/mheob/tsg-irlich-web/issues/387) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

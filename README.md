@@ -107,11 +107,11 @@ YAML              1 hr 59 mins          >------------------------   04.43 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#521](https://github.com/mheob/tsg-irlich-web/issues/521) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#519](https://github.com/mheob/tsg-irlich-web/issues/519) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ❗ Opened issue [#517](https://github.com/mheob/tsg-irlich-web/issues/517) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ❗ Opened issue [#513](https://github.com/mheob/tsg-irlich-web/issues/513) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ❗ Opened issue [#512](https://github.com/mheob/tsg-irlich-web/issues/512) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#2](https://github.com/mheob/kurze-url/pull/2) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. ℹ️ Reopened PR [#3](https://github.com/mheob/kurze-url/pull/3) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. ❌ Closed PR [#3](https://github.com/mheob/kurze-url/pull/3) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. 💪 Opened PR [#3](https://github.com/mheob/kurze-url/pull/3) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 💪 Opened PR [#2](https://github.com/mheob/kurze-url/pull/2) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

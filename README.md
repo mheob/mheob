@@ -107,11 +107,11 @@ Other          2 hrs 53 mins         >>-----------------------   07.89 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#412](https://github.com/mheob/config/pull/412) in [mheob/config](https://github.com/mheob/config)
-2. 🎉 Merged PR [#22](https://github.com/mheob/kurze-url/pull/22) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 💪 Opened PR [#22](https://github.com/mheob/kurze-url/pull/22) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 🎉 Merged PR [#21](https://github.com/mheob/kurze-url/pull/21) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 💪 Opened PR [#21](https://github.com/mheob/kurze-url/pull/21) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. 🎉 Merged PR [#414](https://github.com/mheob/config/pull/414) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#414](https://github.com/mheob/config/pull/414) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#413](https://github.com/mheob/config/pull/413) in [mheob/config](https://github.com/mheob/config)
+4. 🎉 Merged PR [#412](https://github.com/mheob/config/pull/412) in [mheob/config](https://github.com/mheob/config)
+5. 💪 Opened PR [#413](https://github.com/mheob/config/pull/413) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

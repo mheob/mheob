@@ -107,11 +107,11 @@ GraphQL        6 hrs 28 mins         >>-----------------------   08.53 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/mheob/kurze-url/pull/76) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#76](https://github.com/mheob/kurze-url/pull/76) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#75](https://github.com/mheob/kurze-url/pull/75) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#75](https://github.com/mheob/kurze-url/pull/75) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🔒 Closed issue [#455](https://github.com/mheob/tsg-irlich-web/issues/455) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#77](https://github.com/mheob/kurze-url/pull/77) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. 💪 Opened PR [#77](https://github.com/mheob/kurze-url/pull/77) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. 🎉 Merged PR [#76](https://github.com/mheob/kurze-url/pull/76) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. 💪 Opened PR [#76](https://github.com/mheob/kurze-url/pull/76) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 🎉 Merged PR [#75](https://github.com/mheob/kurze-url/pull/75) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

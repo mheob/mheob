@@ -107,11 +107,11 @@ CSS            6 hrs 51 mins         >>-----------------------   09.66 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/mheob/changeset-changelog/pull/83#issuecomment-5743215934) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-2. 🗣 Commented on [#108](https://github.com/mheob/changeset-changelog/pull/108#issuecomment-5743214001) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
-3. 🗣 Commented on [#94](https://github.com/mheob/used-pm/pull/94#issuecomment-5743155048) in [mheob/used-pm](https://github.com/mheob/used-pm)
-4. 🗣 Commented on [#98](https://github.com/mheob/used-pm/pull/98#issuecomment-5743154028) in [mheob/used-pm](https://github.com/mheob/used-pm)
-5. 🗣 Commented on [#39](https://github.com/mheob/rollup-plugins/pull/39#issuecomment-5743135130) in [mheob/rollup-plugins](https://github.com/mheob/rollup-plugins)
+1. ❌ Closed PR [#49](https://github.com/mheob/use-correct-pm/pull/49) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+2. ❌ Closed PR [#21](https://github.com/mheob/compare-by-key/pull/21) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+3. ❌ Closed PR [#24](https://github.com/mheob/compare-by-key/pull/24) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+4. 🗣 Commented on [#24](https://github.com/mheob/compare-by-key/pull/24#issuecomment-5748500354) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
+5. ❌ Closed PR [#114](https://github.com/mheob/changeset-changelog/pull/114) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
   <!--END_SECTION:activity-->
 </details>
 

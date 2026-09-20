@@ -107,11 +107,11 @@ CSS            6 hrs 51 mins         >>-----------------------   09.66 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#49](https://github.com/mheob/use-correct-pm/pull/49) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
-2. ❌ Closed PR [#21](https://github.com/mheob/compare-by-key/pull/21) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-3. ❌ Closed PR [#24](https://github.com/mheob/compare-by-key/pull/24) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-4. 🗣 Commented on [#24](https://github.com/mheob/compare-by-key/pull/24#issuecomment-5748500354) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
-5. ❌ Closed PR [#114](https://github.com/mheob/changeset-changelog/pull/114) in [mheob/changeset-changelog](https://github.com/mheob/changeset-changelog)
+1. 🎉 Merged PR [#85](https://github.com/mheob/kurze-url/pull/85) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. 💪 Opened PR [#85](https://github.com/mheob/kurze-url/pull/85) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. 🎉 Merged PR [#84](https://github.com/mheob/kurze-url/pull/84) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. ❌ Closed PR [#49](https://github.com/mheob/use-correct-pm/pull/49) in [mheob/use-correct-pm](https://github.com/mheob/use-correct-pm)
+5. ❌ Closed PR [#21](https://github.com/mheob/compare-by-key/pull/21) in [mheob/compare-by-key](https://github.com/mheob/compare-by-key)
   <!--END_SECTION:activity-->
 </details>
 

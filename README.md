@@ -107,11 +107,11 @@ CSS            6 hrs 47 mins         >>-----------------------   09.38 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/mheob/kurze-url/pull/90) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#90](https://github.com/mheob/kurze-url/pull/90) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#89](https://github.com/mheob/kurze-url/pull/89) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#89](https://github.com/mheob/kurze-url/pull/89) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🎉 Merged PR [#88](https://github.com/mheob/kurze-url/pull/88) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. ❌ Closed PR [#138](https://github.com/mheob/vscode-snippets/pull/138) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+2. ❌ Closed PR [#141](https://github.com/mheob/vscode-snippets/pull/141) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+3. ❌ Closed PR [#140](https://github.com/mheob/vscode-snippets/pull/140) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+4. 🎉 Merged PR [#90](https://github.com/mheob/kurze-url/pull/90) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 💪 Opened PR [#90](https://github.com/mheob/kurze-url/pull/90) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

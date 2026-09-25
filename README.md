@@ -107,11 +107,11 @@ JavaScript     4 hrs 1 min           >------------------------   05.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/mheob/kurze-url/pull/91) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#91](https://github.com/mheob/kurze-url/pull/91) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. ❌ Closed PR [#138](https://github.com/mheob/vscode-snippets/pull/138) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-4. ❌ Closed PR [#141](https://github.com/mheob/vscode-snippets/pull/141) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
-5. ❌ Closed PR [#140](https://github.com/mheob/vscode-snippets/pull/140) in [mheob/vscode-snippets](https://github.com/mheob/vscode-snippets)
+1. 🎉 Merged PR [#93](https://github.com/mheob/kurze-url/pull/93) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. 💪 Opened PR [#93](https://github.com/mheob/kurze-url/pull/93) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. 🎉 Merged PR [#2](https://github.com/mheob/.github/pull/2) in [mheob/.github](https://github.com/mheob/.github)
+4. 💪 Opened PR [#2](https://github.com/mheob/.github/pull/2) in [mheob/.github](https://github.com/mheob/.github)
+5. 🎉 Merged PR [#92](https://github.com/mheob/kurze-url/pull/92) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

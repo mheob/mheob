@@ -107,11 +107,11 @@ JavaScript     4 hrs 1 min           >------------------------   05.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/mheob/kurze-url/pull/96) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#96](https://github.com/mheob/kurze-url/pull/96) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#95](https://github.com/mheob/kurze-url/pull/95) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#95](https://github.com/mheob/kurze-url/pull/95) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🎉 Merged PR [#94](https://github.com/mheob/kurze-url/pull/94) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. 💪 Opened PR [#533](https://github.com/mheob/tsg-irlich-web/pull/533) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Assigned issue [#532](https://github.com/mheob/tsg-irlich-web/issues/532) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#532](https://github.com/mheob/tsg-irlich-web/issues/532) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#96](https://github.com/mheob/kurze-url/pull/96) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 💪 Opened PR [#96](https://github.com/mheob/kurze-url/pull/96) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

@@ -107,11 +107,11 @@ JSON           2 hrs 20 mins         >------------------------   03.35 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#654](https://github.com/mheob/itsb-web/pull/654) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-2. 💪 Opened PR [#654](https://github.com/mheob/itsb-web/pull/654) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-3. 🎉 Merged PR [#653](https://github.com/mheob/itsb-web/pull/653) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 💪 Opened PR [#653](https://github.com/mheob/itsb-web/pull/653) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#652](https://github.com/mheob/itsb-web/pull/652) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+1. ℹ️ Labeled issue [#388](https://github.com/mheob/tsg-irlich-web/issues/388) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Labeled issue [#388](https://github.com/mheob/tsg-irlich-web/issues/388) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🎉 Merged PR [#654](https://github.com/mheob/itsb-web/pull/654) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 💪 Opened PR [#654](https://github.com/mheob/itsb-web/pull/654) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+5. 🎉 Merged PR [#653](https://github.com/mheob/itsb-web/pull/653) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
   <!--END_SECTION:activity-->
 </details>
 

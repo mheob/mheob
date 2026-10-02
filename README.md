@@ -107,11 +107,11 @@ JSON              2 hrs                 >------------------------   02.86 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/mheob/kurze-url/pull/101) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 🎉 Merged PR [#100](https://github.com/mheob/kurze-url/pull/100) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#98](https://github.com/mheob/kurze-url/pull/98) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#100](https://github.com/mheob/kurze-url/pull/100) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🎉 Merged PR [#99](https://github.com/mheob/kurze-url/pull/99) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. ℹ️ Labeled issue [#608](https://github.com/mheob/tsg-irlich-web/issues/608) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Assigned issue [#608](https://github.com/mheob/tsg-irlich-web/issues/608) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#608](https://github.com/mheob/tsg-irlich-web/issues/608) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. 🎉 Merged PR [#101](https://github.com/mheob/kurze-url/pull/101) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 💪 Opened PR [#101](https://github.com/mheob/kurze-url/pull/101) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

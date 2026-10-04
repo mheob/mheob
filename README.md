@@ -107,11 +107,11 @@ JSON              2 hrs                 >------------------------   02.80 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4149](https://github.com/kubb-labs/kubb/pull/4149) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-2. 🎉 Merged PR [#4151](https://github.com/kubb-labs/kubb/pull/4151) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-3. 💪 Opened PR [#4151](https://github.com/kubb-labs/kubb/pull/4151) in [kubb-labs/kubb](https://github.com/kubb-labs/kubb)
-4. 🎉 Merged PR [#119](https://github.com/mheob/kurze-url/pull/119) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 💪 Opened PR [#119](https://github.com/mheob/kurze-url/pull/119) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. 🎉 Merged PR [#610](https://github.com/mheob/tsg-irlich-web/pull/610) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#612](https://github.com/mheob/tsg-irlich-web/pull/612) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#612](https://github.com/mheob/tsg-irlich-web/pull/612) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled issue [#611](https://github.com/mheob/tsg-irlich-web/issues/611) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#611](https://github.com/mheob/tsg-irlich-web/issues/611) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

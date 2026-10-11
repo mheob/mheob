@@ -107,11 +107,11 @@ YAML              58 mins               -------------------------   01.39 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#440](https://github.com/mheob/tsg-irlich-web/issues/440) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#371](https://github.com/mheob/tsg-irlich-web/issues/371) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#465](https://github.com/mheob/tsg-irlich-web/issues/465) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#641](https://github.com/mheob/tsg-irlich-web/pull/641) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#641](https://github.com/mheob/tsg-irlich-web/pull/641) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#229](https://github.com/mheob/tsg-irlich-web/issues/229) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Assigned issue [#440](https://github.com/mheob/tsg-irlich-web/issues/440) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 🔒 Closed issue [#371](https://github.com/mheob/tsg-irlich-web/issues/371) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Assigned issue [#465](https://github.com/mheob/tsg-irlich-web/issues/465) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. 🎉 Merged PR [#641](https://github.com/mheob/tsg-irlich-web/pull/641) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

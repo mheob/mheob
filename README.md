@@ -107,11 +107,11 @@ GraphQL          3 hrs 28 mins         >------------------------   04.83 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#136](https://github.com/mheob/kurze-url/pull/136) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#136](https://github.com/mheob/kurze-url/pull/136) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🎉 Merged PR [#22](https://github.com/mheob/renovate-config/pull/22) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🚀 Published release [v1.3.0](https://github.com/mheob/renovate-config/releases/tag/v1.3.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+2. 💪 Opened PR [#138](https://github.com/mheob/kurze-url/pull/138) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. 🎉 Merged PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. 💪 Opened PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 🎉 Merged PR [#136](https://github.com/mheob/kurze-url/pull/136) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

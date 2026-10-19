@@ -107,11 +107,11 @@ JSON             3 hrs 24 mins         >------------------------   04.87 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#651](https://github.com/mheob/tsg-irlich-web/issues/651) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#651](https://github.com/mheob/tsg-irlich-web/issues/651) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#651](https://github.com/mheob/tsg-irlich-web/issues/651) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#138](https://github.com/mheob/kurze-url/pull/138) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🚀 Published release [v1.3.0](https://github.com/mheob/renovate-config/releases/tag/v1.3.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. 🎉 Merged PR [#138](https://github.com/mheob/kurze-url/pull/138) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. 🚀 Published release [v1.3.0](https://github.com/mheob/renovate-config/releases/tag/v1.3.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+3. 💪 Opened PR [#138](https://github.com/mheob/kurze-url/pull/138) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. 🎉 Merged PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 💪 Opened PR [#137](https://github.com/mheob/kurze-url/pull/137) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

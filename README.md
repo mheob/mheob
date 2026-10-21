@@ -107,11 +107,11 @@ Text             1 hr 59 mins          >------------------------   03.10 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#652](https://github.com/mheob/tsg-irlich-web/issues/652) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#652](https://github.com/mheob/tsg-irlich-web/issues/652) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Assigned issue [#652](https://github.com/mheob/tsg-irlich-web/issues/652) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 🎉 Merged PR [#138](https://github.com/mheob/kurze-url/pull/138) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🚀 Published release [v1.3.0](https://github.com/mheob/renovate-config/releases/tag/v1.3.0) in [mheob/renovate-config](https://github.com/mheob/renovate-config)
+1. ℹ️ Labeled issue [#653](https://github.com/mheob/tsg-irlich-web/issues/653) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. ℹ️ Assigned issue [#653](https://github.com/mheob/tsg-irlich-web/issues/653) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. ❗ Opened issue [#653](https://github.com/mheob/tsg-irlich-web/issues/653) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled issue [#652](https://github.com/mheob/tsg-irlich-web/issues/652) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ❗ Opened issue [#652](https://github.com/mheob/tsg-irlich-web/issues/652) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -107,11 +107,11 @@ XML          1 hr 46 mins          >------------------------   03.00 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/mheob/kurze-url/pull/154) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#154](https://github.com/mheob/kurze-url/pull/154) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#153](https://github.com/mheob/kurze-url/pull/153) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-4. 💪 Opened PR [#153](https://github.com/mheob/kurze-url/pull/153) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-5. 🎉 Merged PR [#152](https://github.com/mheob/kurze-url/pull/152) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+1. 🎉 Merged PR [#155](https://github.com/mheob/kurze-url/pull/155) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+2. 💪 Opened PR [#155](https://github.com/mheob/kurze-url/pull/155) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+3. 🎉 Merged PR [#154](https://github.com/mheob/kurze-url/pull/154) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+4. 💪 Opened PR [#154](https://github.com/mheob/kurze-url/pull/154) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
+5. 🎉 Merged PR [#153](https://github.com/mheob/kurze-url/pull/153) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
   <!--END_SECTION:activity-->
 </details>
 

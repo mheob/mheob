@@ -107,10 +107,10 @@ JSON              2 hrs 59 mins         >------------------------   03.86 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#690](https://github.com/mheob/tsg-irlich-web/pull/690) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. ❗ Opened issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. ℹ️ Labeled issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Assigned issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#690](https://github.com/mheob/tsg-irlich-web/pull/690) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#690](https://github.com/mheob/tsg-irlich-web/pull/690) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ❗ Opened issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
 5. ℹ️ Labeled issue [#689](https://github.com/mheob/tsg-irlich-web/issues/689) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>

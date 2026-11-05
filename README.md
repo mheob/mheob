@@ -107,11 +107,11 @@ JSON         47 mins               >>-----------------------   06.14 %
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#708](https://github.com/mheob/tsg-irlich-web/issues/708) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🎉 Merged PR [#719](https://github.com/mheob/tsg-irlich-web/pull/719) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 💪 Opened PR [#719](https://github.com/mheob/tsg-irlich-web/pull/719) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. ℹ️ Unlabeled issue [#708](https://github.com/mheob/tsg-irlich-web/issues/708) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. ℹ️ Unlabeled issue [#708](https://github.com/mheob/tsg-irlich-web/issues/708) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🎉 Merged PR [#446](https://github.com/mheob/config/pull/446) in [mheob/config](https://github.com/mheob/config)
+2. 💪 Opened PR [#446](https://github.com/mheob/config/pull/446) in [mheob/config](https://github.com/mheob/config)
+3. 🎉 Merged PR [#445](https://github.com/mheob/config/pull/445) in [mheob/config](https://github.com/mheob/config)
+4. 💪 Opened PR [#445](https://github.com/mheob/config/pull/445) in [mheob/config](https://github.com/mheob/config)
+5. 🎉 Merged PR [#444](https://github.com/mheob/config/pull/444) in [mheob/config](https://github.com/mheob/config)
   <!--END_SECTION:activity-->
 </details>
 

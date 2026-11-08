@@ -103,11 +103,11 @@ No activity tracked
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#762](https://github.com/mheob/tsg-irlich-web/pull/762) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-2. 🔒 Closed issue [#760](https://github.com/mheob/tsg-irlich-web/issues/760) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-3. 🎉 Merged PR [#761](https://github.com/mheob/tsg-irlich-web/pull/761) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-4. 💪 Opened PR [#762](https://github.com/mheob/tsg-irlich-web/pull/762) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
-5. 💪 Opened PR [#761](https://github.com/mheob/tsg-irlich-web/pull/761) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+1. 🔒 Closed issue [#765](https://github.com/mheob/tsg-irlich-web/issues/765) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+2. 🎉 Merged PR [#766](https://github.com/mheob/tsg-irlich-web/pull/766) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+3. 💪 Opened PR [#766](https://github.com/mheob/tsg-irlich-web/pull/766) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+4. ℹ️ Labeled issue [#765](https://github.com/mheob/tsg-irlich-web/issues/765) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
+5. ℹ️ Labeled issue [#765](https://github.com/mheob/tsg-irlich-web/issues/765) in [mheob/tsg-irlich-web](https://github.com/mheob/tsg-irlich-web)
   <!--END_SECTION:activity-->
 </details>
 

@@ -103,11 +103,11 @@ No activity tracked
   &nbsp;
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/mheob/kurze-url/pull/185) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-2. 💪 Opened PR [#185](https://github.com/mheob/kurze-url/pull/185) in [mheob/kurze-url](https://github.com/mheob/kurze-url)
-3. 🎉 Merged PR [#674](https://github.com/mheob/itsb-web/pull/674) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-4. 💪 Opened PR [#674](https://github.com/mheob/itsb-web/pull/674) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
-5. 🎉 Merged PR [#450](https://github.com/mheob/config/pull/450) in [mheob/config](https://github.com/mheob/config)
+1. 🎉 Merged PR [#7](https://github.com/mheob/vereinsbote/pull/7) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+2. 💪 Opened PR [#7](https://github.com/mheob/vereinsbote/pull/7) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+3. 🎉 Merged PR [#6](https://github.com/mheob/vereinsbote/pull/6) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+4. 💪 Opened PR [#6](https://github.com/mheob/vereinsbote/pull/6) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+5. 🎉 Merged PR [#4](https://github.com/mheob/vereinsbote/pull/4) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
   <!--END_SECTION:activity-->
 </details>
 

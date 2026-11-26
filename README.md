@@ -31,16 +31,16 @@ let mheob: FullStackEngineer = {
   code: ['Typescript', 'Javascript', 'Go', 'PHP'],
   technologies: {
     frontEnd: {
-      js: ['React', 'NextJS', 'Astro', 'SvelteKit'],
-      css: ['Tailwind', 'Shadcn/ui', 'Chakra', 'Mantine'],
+      js: ['React', 'Tanstack Start', 'Astro', 'NextJS'],
+      css: ['Tailwind', 'Shadcn/ui', 'React Aria Component'],
     },
     backEnd: {
-      cms: ['Sanity', 'Strapi', 'WordPress'],
-      js: ['Node', 'Express'],
-      other: ['Go', 'PHP'],
+      cms: ['Sanity'],
+      js: ['Node', 'NestJS'],
+      other: ['Go'],
     },
-    databases: ['Mongo', 'MySql', 'PostgreSQL'],
-    misc: ['GraphQL', 'REST'],
+    databases: ['PostgreSQL', 'Mongo'],
+    misc: ['GraphQL', 'REST', 'tRPC'],
     mobileApp: ['React Native'],
   },
   currentFocus: ['NextJS', 'Astro', 'Go', 'NestJS'],

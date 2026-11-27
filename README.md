@@ -86,11 +86,11 @@ let mheob: FullStackEngineer = {
 ## 📈 Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/mheob/vereinsbote/pull/18) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
-2. 💪 Opened PR [#18](https://github.com/mheob/vereinsbote/pull/18) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
-3. 🎉 Merged PR [#17](https://github.com/mheob/vereinsbote/pull/17) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
-4. 💪 Opened PR [#17](https://github.com/mheob/vereinsbote/pull/17) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
-5. 🎉 Merged PR [#16](https://github.com/mheob/vereinsbote/pull/16) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+1. 🎉 Merged PR [#676](https://github.com/mheob/itsb-web/pull/676) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+2. 💪 Opened PR [#676](https://github.com/mheob/itsb-web/pull/676) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+3. ❌ Closed PR [#628](https://github.com/mheob/itsb-web/pull/628) in [mheob/itsb-web](https://github.com/mheob/itsb-web)
+4. 🎉 Merged PR [#18](https://github.com/mheob/vereinsbote/pull/18) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
+5. 💪 Opened PR [#18](https://github.com/mheob/vereinsbote/pull/18) in [mheob/vereinsbote](https://github.com/mheob/vereinsbote)
 <!--END_SECTION:activity-->
 
 <!-- [![GitHub graph](https://activity-graph.herokuapp.com/graph?username=mheob&theme=react-dark)](https://github.com/mheob) -->
